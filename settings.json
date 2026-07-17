@@ -1,11 +1,14 @@
 {
     "Defaults": {
         "Threads": 2,
-        "Headless": "False",
-        "Timeout": 33
+        "Headless": false,
+        "Timeout": 33,
+        "Remove_ad": true,
+        "Load_Page_Attempts": 3
     },
     "Actions": {
         "Scrape_league": "True",
         "Scrape_team": "True"
-    }
+    },
+    "Homepage": "https://www.livescore.com/en/basketball/"
 }
