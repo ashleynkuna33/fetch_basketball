@@ -1,0 +1,11 @@
+{
+    "Defaults": {
+        "Threads": 2,
+        "Headless": "False",
+        "Timeout": 33
+    },
+    "Actions": {
+        "Scrape_league": "True",
+        "Scrape_team": "True"
+    }
+}
