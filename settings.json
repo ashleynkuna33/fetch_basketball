@@ -4,11 +4,13 @@
         "Headless": false,
         "Timeout": 33,
         "Remove_ad": true,
-        "Load_Page_Attempts": 3
+        "Load_Page_Attempts": 3,
+        "data_encoding": "utf-8",
+        "create_keys": true
     },
     "Actions": {
         "Scrape_league": "True",
         "Scrape_team": "True"
     },
-    "Homepage": "https://www.livescore.com/en/basketball/"
+    "Path": "C:/Users/ashx4/downloads/Production/fetch_basketball/Data"
 }

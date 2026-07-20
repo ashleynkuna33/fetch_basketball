@@ -1,4 +1,8 @@
 {
-    "Leagues": {},
+    "Homepage": "https://www.livescore.com/en/basketball/",
+    "Leagues": {
+        "NBA": "https://www.livescore.com/en/basketball/nba/nba/",
+        "Liga ACB": "https://www.livescore.com/en/basketball/spain/liga-acb/"
+    },
     "Teams": {}
 }

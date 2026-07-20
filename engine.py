@@ -2,7 +2,6 @@ import utils
 import re
 import tempfile
 from datetime import datetime
-import time
 
 from selenium import webdriver
 from selenium.webdriver.common.by import By
@@ -16,37 +15,31 @@ from selenium.common.exceptions import NoSuchElementException, TimeoutException
 
 from webdriver_manager.chrome import ChromeDriverManager #this library automatically downloads the latest version of chrome webdriver so that i do not have to manually download a new version everything that chrome get an update
 
-
 class engine:
 
     # hints
     driver: WebDriver
 
+    def __init__(self, headless:bool, timeout:int, load_page_attempts:int = 1, homepage:str="www.google.com"):
 
-    def __init__(self):
-        SETTINGS = utils.load_json("settings.json")
         SELECTORS = utils.load_json("selectors.json")
-        URLS = utils.load_json("urls.json")
-
         # Ensure all required configuration components exist before proceeding
-        # if not all([SETTINGS, SELECTORS, URLS]):
-        #     raise RuntimeError("Critical error: IMPORTANT DATA NOT LOADED INTO MEMORY. Execution halted.")
+        if not SELECTORS:
+            raise RuntimeError("Critical error: IMPORTANT DATA NOT LOADED INTO MEMORY. Execution halted.")
 
         chrome_options = Options()
 
-        if SETTINGS["Defaults"]["Headless"]:
+        if headless:
             chrome_options.add_argument("--headless=new")
 
         service = Service(ChromeDriverManager().install())
         self.driver = webdriver.Chrome(service=service, options=chrome_options)
-        
-        self.driver.implicitly_wait(SETTINGS["Defaults"]["Timeout"])
-        print(f"Attempts: {SETTINGS['Defaults']['Load_Page_Attempts']}")
+        self.driver.implicitly_wait(timeout)
 
-        if self.load_url(SETTINGS["Homepage"], SETTINGS["Defaults"]["Load_Page_Attempts"]):
+        if self.load_url(homepage, load_page_attempts):
             print("\033[92mDriver Instance Initialized Successfully!\033[0m")
         
-        # input("Press Enter to close the browser...")
+        input("Press Enter to close the browser...")
 
     def load_url(self, url:str, attempts = 0):
         print(f"Loading url")
@@ -64,7 +57,7 @@ class engine:
         return False
     def remove_ad(self):
         pass
-
+    
 
 if __name__ == "__main__":
     engine()

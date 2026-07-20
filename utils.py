@@ -9,3 +9,4 @@ def load_json(path:str):
         print(f"An error has occured while trying to open file in path: {path}\n{e}")
     
     return data
+
