@@ -1,52 +1,54 @@
-from engine import engine
-from files import FileHandler
 import utils
-
 from multiprocessing import Pool
 import time
 
 class Basketball:
     def __init__(self):
 
-        URLS = utils.load_json("urls.json")
-        SETTINGS = utils.load_json("settings.json")
-        if not all([URLS, SETTINGS]):
+        self.URLS = utils.load_json("urls.json")
+        self.SETTINGS = utils.load_json("settings.json")
+        if not all([self.URLS, self.SETTINGS]):
             raise RuntimeError("Critical error: IMPORTANT DATA NOT LOADED INTO MEMORY. Execution halted.")
         
-        self.data = FileHandler(SETTINGS["Path"],SETTINGS["Defaults"]["create_keys"],SETTINGS['Defaults']["data_encoding"])
-
-        if SETTINGS["Actions"]["Scrape_league"]:
-            print("League Job Started")
-
-            league_chunks = []
-
-            with Pool(processes=SETTINGS["Defaults"]["Threads"]) as pool:
-                pool.starmap(Basketball.leagues, [(i, urls, self.data, SETTINGS) for i, urls in enumerate(league_chunks)])
-
-            for name, url in URLS["Leagues"].items():
-                print(f"\nName: {name}\nUrl: {url}\n")
-
-        
-        if SETTINGS["Actions"]["Scrape_team"]:
-            print("League Job Started")
+        self.file_handler_args = (
+            self.SETTINGS["Path"],
+            self.SETTINGS["Defaults"]["create_keys"],
+            self.SETTINGS["Defaults"]["data_encoding"],
+        )
     
-    # def chuck_list(self, URLS, SETTINGS, type):
+    def run(self):
+        """Execution Logic"""
+        if self.SETTINGS["Actions"]["Scrape_league"]:
+            print("League Job Started")
+        
+        params = (
+            self.SETTINGS["Defaults"]["Headless"],
+            self.SETTINGS["Defaults"]["Timeout"],
+            self.SETTINGS["Defaults"]["Load_Page_Attempts"],
+            self.URLS["Homepage"],
+        )
 
-    #     threads = SETTINGS["Defaults"]["Threads"]
+        threads = self.SETTINGS["Defaults"]["Threads"]
 
-    #     chunks = [[] for _ in range(threads)]
-    #     stride = self.threads * step
+        urls = list(self.URLS["Leagues"].values())
+        league_chunks = self.split_into_n_chunks(urls, threads)
 
-    #     for thread_index in range(self.threads):
-    #         index = thread_index * step
-    #         while index < len(data):
-    #             chunks[thread_index].extend(data[index:index + step])
-    #             index += stride
+        tasks = [
+            (i, chunk_urls, self.file_handler_args, self.SETTINGS, params)
+            for i, chunk_urls in enumerate(league_chunks)
+        ]
 
-    #     return chunks
+        with Pool(processes=threads) as pool:
+            pool.starmap(Basketball.leagues, tasks)
+
+    def split_into_n_chunks(self, lst, n):
+        k, m = divmod(len(lst), n)
+        return [
+            lst[i * k + min(i, m) : (i + 1) * k + min(i + 1, m)] for i in range(n)
+        ]
 
     @staticmethod
-    def leagues(thread_num,urls,data, SETTINGS):
+    def leagues(thread_num: int,urls: list, file_handler_args: tuple, SETTINGS: dict, params: tuple,):
         """
         Process of information of leagues
         Steps:
@@ -55,34 +57,58 @@ class Basketball:
         2.1. Check results for new events
         2.2. Check fixtures
         2.3. Process data
-
         """
-        pass
+        from engine import engine
+        from files import FileHandler
 
-    @staticmethod
-    def teams(self):
-        """
-        Process of information of leagues
-        Steps:
-        1.Create a webdriver instance
-        2.Iterate through a list of available teams
-        2.1. Check results for new events
-        2.2. Check fixtures
-        2.3. Process data
-        
-        """
-        pass
+        data = FileHandler(*file_handler_args)
+        webdriver = engine(*params)
 
-def estimate_remaining_time(n, processed_elements, last_three_times):
-    """estimate a remaininng time for a thread to finish its job
-    Args:
-        n: total number of urls to be processed
-        processed_elements: number of urls currently processed
-        last_three_times: time it took to complete the last three urls
-    Returns:
-        estimated remaining time
-    """
-    pass
+        print(f"Thread: {thread_num}")
+
+        event_urls = set() # i am going to use hashtable as it is easier for comparisons i.e checking if something is already inside O(1)
+        fixtures_urls = set()
+
+        # get links to all results and fixtures
+        for url in urls:
+            print(f"URL: {url}")
+
+            if webdriver.load_url(url+"results/") and webdriver.check_results():
+                while not webdriver.scroll(direction=0, knots=SETTINGS["Defaults"]["scroll"]):
+
+                    events = webdriver.return_results()
+                    for event in events:
+                        try:
+                            link = webdriver.get_url(event)
+                            if link:
+                                event_urls.add(link)
+
+                        except Exception as e:
+                            continue
+                    print(f"\rurls found: {len(event_urls)}", end="", flush=True)
+            print()
+                        
+            if webdriver.load_url(url+"fixtures/") and webdriver.check_results():
+                while not webdriver.scroll(direction=0, knots=SETTINGS["Defaults"]["scroll"]):
+                    
+                    events = webdriver.return_results()
+                    for event in events:
+                        try:
+
+                            link = webdriver.get_url(event)
+                            if link:
+                                fixtures_urls.add(link)
+
+                        except Exception as e:
+                            continue
+                    print(f"\rurls found: {len(fixtures_urls)}", end="", flush=True)
+            print()
+
+        for event in event_urls:
+            webdriver.load_url(event)
+            print(webdriver.format_match_info(webdriver.get_match_info().text))
+            print(webdriver.format_match_scores(webdriver.get_match_scores().text))
 
 if __name__ == "__main__":
-    Basketball()
+    bot = Basketball()
+    bot.run()

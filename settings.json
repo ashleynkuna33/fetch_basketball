@@ -1,12 +1,13 @@
 {
     "Defaults": {
-        "Threads": 2,
+        "Threads": 1,
         "Headless": false,
-        "Timeout": 33,
+        "Timeout": 3,
         "Remove_ad": true,
-        "Load_Page_Attempts": 3,
+        "Load_Page_Attempts": 2,
         "data_encoding": "utf-8",
-        "create_keys": true
+        "create_keys": true,
+        "scroll": 4
     },
     "Actions": {
         "Scrape_league": "True",

@@ -1,6 +1,7 @@
 {
     "Homepage": "https://www.livescore.com/en/basketball/",
     "Leagues": {
+        "Governors Cup: Group B": "https://www.livescore.com/en/basketball/philippines/governors-cup-group-b/",
         "NBA": "https://www.livescore.com/en/basketball/nba/nba/",
         "Liga ACB": "https://www.livescore.com/en/basketball/spain/liga-acb/"
     },

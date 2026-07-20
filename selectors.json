@@ -1,1 +1,8 @@
-{}
+{
+    "result_event": "div[data-index]",
+    "result_url": "a[href]",
+    "dynamic_selectors": {
+        "match_inf_class": "Ie",
+        "match_result_class": "uq"
+    }
+}
