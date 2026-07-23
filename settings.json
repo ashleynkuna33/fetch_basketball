@@ -7,11 +7,11 @@
         "Load_Page_Attempts": 2,
         "data_encoding": "utf-8",
         "create_keys": true,
-        "scroll": 4
+        "scroll": 5
     },
     "Actions": {
         "Scrape_league": "True",
         "Scrape_team": "True"
     },
-    "Path": "C:/Users/ashx4/downloads/Production/fetch_basketball/Data"
+    "Path": "~/downloads/Production/fetch_basketball/Data"
 }

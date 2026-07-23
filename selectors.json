@@ -3,6 +3,7 @@
     "result_url": "a[href]",
     "dynamic_selectors": {
         "match_inf_class": "Ie",
-        "match_result_class": "uq"
+        "match_result_class": "uq",
+        "match_date": "qj"
     }
 }

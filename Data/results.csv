@@ -1,1 +1,946 @@
 country,league,year,month,day,home,away,hp1,hp2,hp3,hp4,ht,ap1,ap2,ap3,ap4,at,url
+Play-offs,NBA,2026,Apr,19,New York Knicks,Atlanta Hawks,30,27,26,30,113,24,31,19,28,102,https://www.livescore.com/en/basketball/nba/nba/new-york-knicks-vs-atlanta-hawks/1766883/
+Spain,Liga ACB,2026,Feb,7,Basket Zaragoza,Bilbao Basket,13,26,23,20,82,19,19,24,22,84,https://www.livescore.com/en/basketball/spain/liga-acb/basket-zaragoza-vs-bilbao-basket/1627808/
+Spain,Liga ACB,2025,Oct,26,Basquet Girona,Gran Canaria,23,24,17,21,85,23,20,16,22,81,https://www.livescore.com/en/basketball/spain/liga-acb/basquet-girona-vs-gran-canaria/1627610/
+Spain,Liga ACB,2026,May,20,Iberostar Tenerife,Joventut,28,27,22,15,98,24,19,28,21,100,https://www.livescore.com/en/basketball/spain/liga-acb/iberostar-tenerife-vs-joventut/1627828/
+Spain,Liga ACB,2026,Jan,17,Gran Canaria,Hiopos Lleida,4,19,9,18,50,16,13,15,24,68,https://www.livescore.com/en/basketball/spain/liga-acb/gran-canaria-vs-hiopos-lleida/1627709/
+Spain,Liga ACB,2026,Feb,8,Hiopos Lleida,Manresa,19,24,27,20,90,25,29,23,22,99,https://www.livescore.com/en/basketball/spain/liga-acb/hiopos-lleida-vs-manresa/1627746/
+Spain,Liga ACB,2026,Jan,11,Basquet Club Andorra,Real Madrid,21,20,17,27,85,13,27,21,29,90,https://www.livescore.com/en/basketball/spain/liga-acb/basquet-club-andorra-vs-real-madrid/1627704/
+Spain,Liga ACB,2026,Apr,11,Basket Zaragoza,Hiopos Lleida,24,34,23,26,107,19,27,21,24,91,https://www.livescore.com/en/basketball/spain/liga-acb/basket-zaragoza-vs-hiopos-lleida/1627805/
+Spain,Liga ACB,2025,Nov,2,Joventut,Hiopos Lleida,20,21,16,25,82,22,19,16,11,68,https://www.livescore.com/en/basketball/spain/liga-acb/joventut-vs-hiopos-lleida/1627619/
+Spain,Liga ACB,2025,Nov,22,Granada,Real Madrid,29,19,31,21,100,31,25,22,33,111,https://www.livescore.com/en/basketball/spain/liga-acb/granada-vs-real-madrid/1627638/
+Spain,Liga ACB,2026,Jan,18,Real Madrid,Valencia,9,34,33,18,94,24,19,17,19,79,https://www.livescore.com/en/basketball/spain/liga-acb/real-madrid-vs-valencia/1627718/
+Spain,Liga ACB,2026,Mar,7,Burgos,Bilbao Basket,20,21,23,32,96,27,19,29,13,88,https://www.livescore.com/en/basketball/spain/liga-acb/burgos-vs-bilbao-basket/1627761/
+Spain,Liga ACB,2025,Oct,5,Valencia,Barcelona,24,22,23,24,93,15,18,25,23,81,https://www.livescore.com/en/basketball/spain/liga-acb/valencia-vs-barcelona/1627595/
+Spain,Liga ACB,2025,Oct,5,Granada,Joventut,14,18,21,22,75,22,12,29,24,87,https://www.livescore.com/en/basketball/spain/liga-acb/granada-vs-joventut/1627588/
+Spain,Liga ACB,2026,Apr,25,Gran Canaria,Basquet Girona,16,31,17,36,100,24,20,23,23,90,https://www.livescore.com/en/basketball/spain/liga-acb/gran-canaria-vs-basquet-girona/1627825/
+Spain,Liga ACB,2026,Apr,5,Manresa,Saski Baskonia,25,16,24,18,83,21,23,21,23,88,https://www.livescore.com/en/basketball/spain/liga-acb/manresa-vs-saski-baskonia/1627797/
+Spain,Liga ACB,2026,Feb,8,Joventut,Valencia,24,23,25,18,90,18,27,22,20,87,https://www.livescore.com/en/basketball/spain/liga-acb/joventut-vs-valencia/1627752/
+Spain,Liga ACB,2025,Nov,15,Basquet Girona,Granada,19,17,21,25,82,27,16,10,23,76,https://www.livescore.com/en/basketball/spain/liga-acb/basquet-girona-vs-granada/1627621/
+Spain,Liga ACB,2026,Apr,18,Basquet Club Andorra,UCAM Murcia CB,22,21,23,23,89,28,10,28,29,95,https://www.livescore.com/en/basketball/spain/liga-acb/basquet-club-andorra-vs-ucam-murcia-cb/1627816/
+Spain,Liga ACB,2026,May,10,Basquet Club Andorra,Manresa,29,30,28,17,104,28,22,23,21,94,https://www.livescore.com/en/basketball/spain/liga-acb/basquet-club-andorra-vs-manresa/1627820/
+Spain,Liga ACB,2026,May,17,Valencia,Bilbao Basket,21,26,15,26,88,9,20,31,23,83,https://www.livescore.com/en/basketball/spain/liga-acb/valencia-vs-bilbao-basket/1627840/
+Spain,Liga ACB,2026,Jan,4,Basquet Girona,Bilbao Basket,22,26,18,23,89,16,26,20,31,93,https://www.livescore.com/en/basketball/spain/liga-acb/basquet-girona-vs-bilbao-basket/1627685/
+Spain,Liga ACB,2025,Nov,1,CB Breogan Lugo,Granada,38,13,20,24,95,14,22,17,21,74,https://www.livescore.com/en/basketball/spain/liga-acb/cb-breogan-lugo-vs-granada/1627634/
+Spain,Liga ACB,2025,Oct,12,CB Breogan Lugo,Valencia,27,20,27,16,90,19,35,30,29,113,https://www.livescore.com/en/basketball/spain/liga-acb/cb-breogan-lugo-vs-valencia/1627587/
+Spain,Liga ACB,2026,Apr,18,Bilbao Basket,Manresa,17,19,21,23,80,19,20,22,23,84,https://www.livescore.com/en/basketball/spain/liga-acb/bilbao-basket-vs-manresa/1627812/
+Spain,Liga ACB,2025,Oct,18,Iberostar Tenerife,UCAM Murcia CB,26,21,27,22,96,22,10,25,23,80,https://www.livescore.com/en/basketball/spain/liga-acb/iberostar-tenerife-vs-ucam-murcia-cb/1627592/
+Spain,Liga ACB,2025,Oct,4,Unicaja,Bilbao Basket,15,31,20,20,86,18,16,23,11,68,https://www.livescore.com/en/basketball/spain/liga-acb/unicaja-vs-bilbao-basket/1627577/
+Spain,Liga ACB,2025,Dec,14,UCAM Murcia CB,Joventut,19,13,25,23,80,25,13,16,23,77,https://www.livescore.com/en/basketball/spain/liga-acb/ucam-murcia-cb-vs-joventut/1627650/
+Spain,Liga ACB,2025,Dec,21,CB Breogan Lugo,Bilbao Basket,21,24,26,29,100,23,24,22,30,99,https://www.livescore.com/en/basketball/spain/liga-acb/cb-breogan-lugo-vs-bilbao-basket/1627677/
+Spain,Liga ACB,2025,Oct,26,Real Madrid,Manresa,21,21,23,22,87,17,18,20,20,75,https://www.livescore.com/en/basketball/spain/liga-acb/real-madrid-vs-manresa/1627612/
+Spain,Liga ACB,2026,Apr,4,Joventut,UCAM Murcia CB,15,15,19,18,67,18,27,23,21,89,https://www.livescore.com/en/basketball/spain/liga-acb/joventut-vs-ucam-murcia-cb/1627784/
+Spain,Liga ACB,2025,Dec,28,Real Madrid,Unicaja,27,19,25,20,91,30,24,12,16,82,https://www.livescore.com/en/basketball/spain/liga-acb/real-madrid-vs-unicaja/1627678/
+Spain,Liga ACB,2025,Nov,15,Gran Canaria,Joventut,9,24,25,20,78,29,20,22,21,92,https://www.livescore.com/en/basketball/spain/liga-acb/gran-canaria-vs-joventut/1627620/
+Spain,Liga ACB,2026,May,26,Basket Zaragoza,Valencia,23,26,15,22,86,27,23,21,27,98,https://www.livescore.com/en/basketball/spain/liga-acb/basket-zaragoza-vs-valencia/1627842/
+Spain,Liga ACB,2026,Jan,4,Valencia,Manresa,30,26,22,25,103,22,20,21,13,76,https://www.livescore.com/en/basketball/spain/liga-acb/valencia-vs-manresa/1627687/
+Spain,Liga ACB,2026,Feb,1,Real Madrid,Basket Zaragoza,21,24,20,34,99,22,19,14,23,78,https://www.livescore.com/en/basketball/spain/liga-acb/real-madrid-vs-basket-zaragoza/1627725/
+Spain,Liga ACB,2026,Apr,11,CB Breogan Lugo,Basquet Club Andorra,20,28,29,20,97,19,26,21,33,99,https://www.livescore.com/en/basketball/spain/liga-acb/cb-breogan-lugo-vs-basquet-club-andorra/1627800/
+Spain,Liga ACB,2026,Jan,10,Manresa,CB Breogan Lugo,28,34,20,22,104,23,15,30,31,99,https://www.livescore.com/en/basketball/spain/liga-acb/manresa-vs-cb-breogan-lugo/1627699/
+Spain,Liga ACB,2026,Feb,18,Gran Canaria,Bilbao Basket,30,18,20,18,97,14,17,30,25,98,https://www.livescore.com/en/basketball/spain/liga-acb/gran-canaria-vs-bilbao-basket/1627743/
+Spain,Liga ACB,2026,Jan,10,Bilbao Basket,UCAM Murcia CB,18,23,23,32,96,17,23,15,27,82,https://www.livescore.com/en/basketball/spain/liga-acb/bilbao-basket-vs-ucam-murcia-cb/1627703/
+Spain,Liga ACB,2025,Nov,2,Saski Baskonia,Iberostar Tenerife,18,11,34,26,89,17,23,16,23,79,https://www.livescore.com/en/basketball/spain/liga-acb/saski-baskonia-vs-iberostar-tenerife/1627627/
+Spain,Liga ACB,2026,Apr,25,Valencia,Real Madrid,19,22,22,19,82,22,23,30,21,96,https://www.livescore.com/en/basketball/spain/liga-acb/valencia-vs-real-madrid/1627848/
+Spain,Liga ACB,2025,Dec,6,Burgos,UCAM Murcia CB,20,26,27,15,88,28,30,28,24,110,https://www.livescore.com/en/basketball/spain/liga-acb/burgos-vs-ucam-murcia-cb/1627652/
+Spain,Liga ACB,2025,Dec,28,Valencia,Basquet Club Andorra,18,14,21,31,84,16,29,12,22,79,https://www.livescore.com/en/basketball/spain/liga-acb/valencia-vs-basquet-club-andorra/1627696/
+Spain,Liga ACB,2026,Apr,26,CB Breogan Lugo,Joventut,22,16,29,26,93,19,19,20,28,86,https://www.livescore.com/en/basketball/spain/liga-acb/cb-breogan-lugo-vs-joventut/1627849/
+Spain,Liga ACB,2026,Jan,17,Basquet Club Andorra,CB Breogan Lugo,25,31,24,21,101,25,19,34,26,104,https://www.livescore.com/en/basketball/spain/liga-acb/basquet-club-andorra-vs-cb-breogan-lugo/1627720/
+Spain,Liga ACB,2026,Mar,15,Real Madrid,Hiopos Lleida,16,31,28,20,95,17,9,27,25,78,https://www.livescore.com/en/basketball/spain/liga-acb/real-madrid-vs-hiopos-lleida/1627760/
+Spain,Liga ACB,2025,Nov,8,CB Breogan Lugo,Gran Canaria,11,26,27,17,81,23,26,28,15,92,https://www.livescore.com/en/basketball/spain/liga-acb/cb-breogan-lugo-vs-gran-canaria/1627601/
+Spain,Liga ACB,2025,Dec,7,Bilbao Basket,Gran Canaria,14,20,21,24,79,16,18,21,17,72,https://www.livescore.com/en/basketball/spain/liga-acb/bilbao-basket-vs-gran-canaria/1627651/
+Spain,Liga ACB,2025,Dec,20,Gran Canaria,Granada,13,26,26,25,90,26,13,22,24,85,https://www.livescore.com/en/basketball/spain/liga-acb/gran-canaria-vs-granada/1627665/
+Spain,Liga ACB,2025,Oct,12,Joventut,Basket Zaragoza,24,26,21,18,89,19,29,17,21,86,https://www.livescore.com/en/basketball/spain/liga-acb/joventut-vs-basket-zaragoza/1627589/
+Spain,Liga ACB,2025,Nov,16,Manresa,Hiopos Lleida,27,17,29,26,99,27,23,22,14,86,https://www.livescore.com/en/basketball/spain/liga-acb/manresa-vs-hiopos-lleida/1627632/
+Spain,Liga ACB,2026,Feb,1,Valencia,Hiopos Lleida,25,27,19,30,101,15,17,19,14,65,https://www.livescore.com/en/basketball/spain/liga-acb/valencia-vs-hiopos-lleida/1627727/
+Spain,Liga ACB,2026,May,17,UCAM Murcia CB,Unicaja,35,10,19,23,87,17,24,15,13,69,https://www.livescore.com/en/basketball/spain/liga-acb/ucam-murcia-cb-vs-unicaja/1627841/
+Spain,Liga ACB,2026,May,14,Joventut,Basquet Club Andorra,21,30,24,26,101,23,17,25,14,79,https://www.livescore.com/en/basketball/spain/liga-acb/joventut-vs-basquet-club-andorra/1627851/
+Spain,Liga ACB,2025,Oct,5,Real Madrid,Gran Canaria,22,22,27,10,81,18,15,23,15,71,https://www.livescore.com/en/basketball/spain/liga-acb/real-madrid-vs-gran-canaria/1627581/
+Spain,Liga ACB,2025,Oct,12,Saski Baskonia,Real Madrid,18,31,28,28,105,34,24,23,19,100,https://www.livescore.com/en/basketball/spain/liga-acb/saski-baskonia-vs-real-madrid/1627600/
+Spain,Liga ACB,2026,Apr,12,Unicaja,Valencia,23,26,19,21,89,27,21,28,20,96,https://www.livescore.com/en/basketball/spain/liga-acb/unicaja-vs-valencia/1627802/
+Spain,Liga ACB,2026,May,26,Joventut,Unicaja,25,28,29,13,95,18,15,22,19,74,https://www.livescore.com/en/basketball/spain/liga-acb/joventut-vs-unicaja/1627829/
+Spain,Liga ACB,2026,May,17,Basquet Club Andorra,Burgos,14,27,23,19,83,27,14,22,22,85,https://www.livescore.com/en/basketball/spain/liga-acb/basquet-club-andorra-vs-burgos/1627859/
+Spain,Liga ACB,2026,Jan,2,Barcelona,Basket Zaragoza,21,27,25,27,100,22,11,22,25,80,https://www.livescore.com/en/basketball/spain/liga-acb/barcelona-vs-basket-zaragoza/1627667/
+Spain,Liga ACB,2026,Mar,21,Basquet Club Andorra,Bilbao Basket,15,27,19,26,98,25,20,18,24,102,https://www.livescore.com/en/basketball/spain/liga-acb/basquet-club-andorra-vs-bilbao-basket/1627778/
+Spain,Liga ACB,2026,Feb,7,CB Breogan Lugo,UCAM Murcia CB,24,22,27,22,95,29,27,27,23,106,https://www.livescore.com/en/basketball/spain/liga-acb/cb-breogan-lugo-vs-ucam-murcia-cb/1627748/
+Spain,Liga ACB,2025,Nov,23,Gran Canaria,Barcelona,17,12,17,15,61,14,18,14,26,72,https://www.livescore.com/en/basketball/spain/liga-acb/gran-canaria-vs-barcelona/1627653/
+Spain,Liga ACB,2026,Mar,7,Manresa,Iberostar Tenerife,25,21,24,16,86,19,18,22,21,80,https://www.livescore.com/en/basketball/spain/liga-acb/manresa-vs-iberostar-tenerife/1627769/
+Spain,Liga ACB,2026,Apr,26,Granada,Basquet Club Andorra,20,21,21,27,89,19,16,30,21,86,https://www.livescore.com/en/basketball/spain/liga-acb/granada-vs-basquet-club-andorra/1627819/
+Spain,Liga ACB,2026,May,14,Saski Baskonia,UCAM Murcia CB,20,23,24,20,87,18,15,20,27,80,https://www.livescore.com/en/basketball/spain/liga-acb/saski-baskonia-vs-ucam-murcia-cb/1627861/
+Spain,Liga ACB,2026,May,14,Bilbao Basket,Real Madrid,24,16,20,28,88,22,22,22,16,82,https://www.livescore.com/en/basketball/spain/liga-acb/bilbao-basket-vs-real-madrid/1627850/
+Spain,Liga ACB,2026,May,14,Burgos,Unicaja,27,28,24,18,97,22,24,25,19,90,https://www.livescore.com/en/basketball/spain/liga-acb/burgos-vs-unicaja/1627845/
+Spain,Liga ACB,2025,Nov,1,Manresa,Bilbao Basket,16,23,19,21,79,19,11,30,17,77,https://www.livescore.com/en/basketball/spain/liga-acb/manresa-vs-bilbao-basket/1627616/
+Spain,Liga ACB,2025,Dec,28,Bilbao Basket,Barcelona,25,8,13,20,66,16,18,15,22,71,https://www.livescore.com/en/basketball/spain/liga-acb/bilbao-basket-vs-barcelona/1627676/
+Spain,Liga ACB,2025,Dec,28,Iberostar Tenerife,Gran Canaria,13,16,19,22,70,9,21,26,15,71,https://www.livescore.com/en/basketball/spain/liga-acb/iberostar-tenerife-vs-gran-canaria/1627682/
+Spain,Liga ACB,2026,Mar,8,Saski Baskonia,Hiopos Lleida,17,17,30,29,93,21,21,23,25,90,https://www.livescore.com/en/basketball/spain/liga-acb/saski-baskonia-vs-hiopos-lleida/1627764/
+Spain,Liga ACB,2026,May,24,Hiopos Lleida,Basquet Club Andorra,26,16,22,24,88,31,31,29,25,116,https://www.livescore.com/en/basketball/spain/liga-acb/hiopos-lleida-vs-basquet-club-andorra/1627871/
+Spain,Liga ACB,2026,Jan,3,CB Breogan Lugo,Unicaja,22,28,22,26,98,25,18,17,22,82,https://www.livescore.com/en/basketball/spain/liga-acb/cb-breogan-lugo-vs-unicaja/1627706/
+Spain,Liga ACB,2026,Jan,24,Hiopos Lleida,Burgos,16,15,24,18,73,23,20,15,14,72,https://www.livescore.com/en/basketball/spain/liga-acb/hiopos-lleida-vs-burgos/1627740/
+Spain,Liga ACB,2026,May,2,Basquet Girona,Basket Zaragoza,32,26,14,18,90,17,15,28,21,81,https://www.livescore.com/en/basketball/spain/liga-acb/basquet-girona-vs-basket-zaragoza/1627833/
+Spain,Liga ACB,2025,Dec,6,Granada,Basket Zaragoza,17,15,27,24,83,21,27,21,23,92,https://www.livescore.com/en/basketball/spain/liga-acb/granada-vs-basket-zaragoza/1627657/
+Spain,Liga ACB,2025,Nov,8,Basquet Club Andorra,Unicaja,35,22,22,19,98,19,22,15,18,74,https://www.livescore.com/en/basketball/spain/liga-acb/basquet-club-andorra-vs-unicaja/1627608/
+Spain,Liga ACB,2026,May,17,Iberostar Tenerife,Barcelona,16,27,28,26,97,29,29,17,27,102,https://www.livescore.com/en/basketball/spain/liga-acb/iberostar-tenerife-vs-barcelona/1627838/
+Spain,Liga ACB,2026,Jan,10,Basket Zaragoza,Gran Canaria,18,25,27,25,95,19,22,16,27,84,https://www.livescore.com/en/basketball/spain/liga-acb/basket-zaragoza-vs-gran-canaria/1627702/
+Spain,Liga ACB,2025,Dec,21,UCAM Murcia CB,Valencia,19,22,22,29,92,21,13,21,25,80,https://www.livescore.com/en/basketball/spain/liga-acb/ucam-murcia-cb-vs-valencia/1627697/
+Spain,Liga ACB,2025,Nov,9,Joventut,Real Madrid,17,18,20,20,75,16,21,26,17,80,https://www.livescore.com/en/basketball/spain/liga-acb/joventut-vs-real-madrid/1627602/
+Spain,Liga ACB,2026,May,9,Basket Zaragoza,Granada,13,27,20,14,74,12,23,19,31,85,https://www.livescore.com/en/basketball/spain/liga-acb/basket-zaragoza-vs-granada/1627852/
+Spain,Liga ACB,2026,Feb,14,Iberostar Tenerife,CB Breogan Lugo,23,22,23,22,90,18,27,16,20,81,https://www.livescore.com/en/basketball/spain/liga-acb/iberostar-tenerife-vs-cb-breogan-lugo/1627723/
+Spain,Liga ACB,2026,Jan,11,Burgos,Joventut,19,29,25,22,95,24,28,22,24,98,https://www.livescore.com/en/basketball/spain/liga-acb/burgos-vs-joventut/1627708/
+Spain,Liga ACB,2025,Oct,26,Valencia,Joventut,27,17,28,30,102,24,20,16,30,90,https://www.livescore.com/en/basketball/spain/liga-acb/valencia-vs-joventut/1627613/
+Spain,Liga ACB,2026,Apr,4,Gran Canaria,Burgos,18,30,22,25,95,34,19,31,25,109,https://www.livescore.com/en/basketball/spain/liga-acb/gran-canaria-vs-burgos/1627783/
+Spain,Liga ACB,2026,Jan,24,Basket Zaragoza,Basquet Girona,22,29,13,26,90,26,19,24,25,94,https://www.livescore.com/en/basketball/spain/liga-acb/basket-zaragoza-vs-basquet-girona/1627714/
+Spain,Liga ACB,2025,Dec,21,Basket Zaragoza,Basquet Club Andorra,18,27,27,35,107,21,30,18,20,89,https://www.livescore.com/en/basketball/spain/liga-acb/basket-zaragoza-vs-basquet-club-andorra/1627693/
+Spain,Liga ACB,2026,Mar,28,CB Breogan Lugo,Manresa,15,24,23,29,91,26,17,20,15,78,https://www.livescore.com/en/basketball/spain/liga-acb/cb-breogan-lugo-vs-manresa/1627775/
+Spain,Liga ACB,2025,Nov,9,Bilbao Basket,Basket Zaragoza,27,23,28,28,106,23,11,11,30,75,https://www.livescore.com/en/basketball/spain/liga-acb/bilbao-basket-vs-basket-zaragoza/1627603/
+Spain,Liga ACB,2026,Jan,31,Basquet Club Andorra,Gran Canaria,29,18,19,28,94,25,16,20,17,78,https://www.livescore.com/en/basketball/spain/liga-acb/basquet-club-andorra-vs-gran-canaria/1627721/
+Spain,Liga ACB,2025,Dec,27,Granada,UCAM Murcia CB,19,24,22,14,79,18,23,21,24,86,https://www.livescore.com/en/basketball/spain/liga-acb/granada-vs-ucam-murcia-cb/1627695/
+Spain,Liga ACB,2026,Mar,14,Iberostar Tenerife,Valencia,25,23,16,25,89,20,8,20,23,71,https://www.livescore.com/en/basketball/spain/liga-acb/iberostar-tenerife-vs-valencia/1627768/
+Spain,Liga ACB,2026,Jan,4,Real Madrid,Barcelona,24,20,31,25,100,28,20,29,28,105,https://www.livescore.com/en/basketball/spain/liga-acb/real-madrid-vs-barcelona/1627690/
+Spain,Liga ACB,2025,Nov,9,Basquet Girona,Barcelona,30,17,30,19,96,18,15,21,24,78,https://www.livescore.com/en/basketball/spain/liga-acb/basquet-girona-vs-barcelona/1627604/
+Spain,Liga ACB,2026,Jan,25,Gran Canaria,Valencia,20,14,28,18,80,19,26,24,21,90,https://www.livescore.com/en/basketball/spain/liga-acb/gran-canaria-vs-valencia/1627726/
+Spain,Liga ACB,2026,Jan,31,Bilbao Basket,Joventut,22,21,27,10,80,20,19,28,9,76,https://www.livescore.com/en/basketball/spain/liga-acb/bilbao-basket-vs-joventut/1627719/
+Spain,Liga ACB,2026,May,23,Unicaja,CB Breogan Lugo,29,22,26,24,101,15,23,23,22,83,https://www.livescore.com/en/basketball/spain/liga-acb/unicaja-vs-cb-breogan-lugo/1627862/
+Spain,Liga ACB,2025,Dec,30,Iberostar Tenerife,Granada,18,20,23,19,80,19,19,22,15,75,https://www.livescore.com/en/basketball/spain/liga-acb/iberostar-tenerife-vs-granada/1627670/
+Spain,Liga ACB,2025,Oct,12,Bilbao Basket,Burgos,27,27,19,22,95,25,10,25,25,85,https://www.livescore.com/en/basketball/spain/liga-acb/bilbao-basket-vs-burgos/1627584/
+Spain,Liga ACB,2026,Jan,18,UCAM Murcia CB,Basket Zaragoza,18,27,32,13,90,24,10,20,30,84,https://www.livescore.com/en/basketball/spain/liga-acb/ucam-murcia-cb-vs-basket-zaragoza/1627736/
+Spain,Liga ACB,2026,Apr,5,Basket Zaragoza,Barcelona,25,14,27,20,86,32,18,22,20,92,https://www.livescore.com/en/basketball/spain/liga-acb/basket-zaragoza-vs-barcelona/1627790/
+Spain,Liga ACB,2026,Jan,3,Gran Canaria,UCAM Murcia CB,19,24,16,18,77,18,26,8,20,72,https://www.livescore.com/en/basketball/spain/liga-acb/gran-canaria-vs-ucam-murcia-cb/1627683/
+Spain,Liga ACB,2026,Feb,15,Unicaja,Real Madrid,25,31,25,11,92,20,19,34,23,96,https://www.livescore.com/en/basketball/spain/liga-acb/unicaja-vs-real-madrid/1627734/
+Spain,Liga ACB,2026,Mar,28,Basquet Girona,Real Madrid,13,23,24,33,93,22,15,29,29,95,https://www.livescore.com/en/basketball/spain/liga-acb/basquet-girona-vs-real-madrid/1627782/
+Spain,Liga ACB,2026,Apr,19,Real Madrid,Iberostar Tenerife,21,20,19,30,90,26,19,23,27,95,https://www.livescore.com/en/basketball/spain/liga-acb/real-madrid-vs-iberostar-tenerife/1627830/
+Spain,Liga ACB,2026,Feb,1,Iberostar Tenerife,Saski Baskonia,29,21,16,23,89,19,16,23,27,85,https://www.livescore.com/en/basketball/spain/liga-acb/iberostar-tenerife-vs-saski-baskonia/1627722/
+Spain,Liga ACB,2026,May,29,UCAM Murcia CB,Hiopos Lleida,23,35,28,30,116,29,17,23,26,95,https://www.livescore.com/en/basketball/spain/liga-acb/ucam-murcia-cb-vs-hiopos-lleida/1627877/
+Spain,Liga ACB,2026,Jan,31,Basquet Girona,Burgos,21,17,19,20,77,22,13,17,19,71,https://www.livescore.com/en/basketball/spain/liga-acb/basquet-girona-vs-burgos/1627729/
+Spain,Liga ACB,2025,Dec,14,Real Madrid,Basquet Girona,28,31,27,26,112,22,27,16,11,76,https://www.livescore.com/en/basketball/spain/liga-acb/real-madrid-vs-basquet-girona/1627649/
+Spain,Liga ACB,2026,May,10,Real Madrid,CB Breogan Lugo,18,28,21,30,97,15,28,28,30,101,https://www.livescore.com/en/basketball/spain/liga-acb/real-madrid-vs-cb-breogan-lugo/1627817/
+Spain,Liga ACB,2026,Apr,5,Hiopos Lleida,Iberostar Tenerife,19,23,27,34,103,28,23,24,26,101,https://www.livescore.com/en/basketball/spain/liga-acb/hiopos-lleida-vs-iberostar-tenerife/1627789/
+Spain,Liga ACB,2026,Apr,4,Granada,Basquet Girona,21,22,16,25,84,24,18,26,23,91,https://www.livescore.com/en/basketball/spain/liga-acb/granada-vs-basquet-girona/1627795/
+Spain,Liga ACB,2026,Mar,28,Granada,Hiopos Lleida,23,22,20,27,92,17,18,20,34,89,https://www.livescore.com/en/basketball/spain/liga-acb/granada-vs-hiopos-lleida/1627781/
+Spain,Liga ACB,2026,Feb,14,Granada,Gran Canaria,20,24,23,16,83,18,24,26,22,90,https://www.livescore.com/en/basketball/spain/liga-acb/granada-vs-gran-canaria/1627731/
+Spain,Liga ACB,2026,Apr,11,Iberostar Tenerife,Basquet Girona,26,24,22,25,97,21,22,20,31,94,https://www.livescore.com/en/basketball/spain/liga-acb/iberostar-tenerife-vs-basquet-girona/1627804/
+Spain,Liga ACB,2026,May,2,Burgos,Hiopos Lleida,22,25,26,26,99,24,31,22,14,91,https://www.livescore.com/en/basketball/spain/liga-acb/burgos-vs-hiopos-lleida/1627824/
+Spain,Liga ACB,2026,Feb,7,Unicaja,Basquet Club Andorra,23,16,21,31,91,22,20,21,16,79,https://www.livescore.com/en/basketball/spain/liga-acb/unicaja-vs-basquet-club-andorra/1627750/
+Spain,Liga ACB,2025,Nov,8,Iberostar Tenerife,Burgos,24,28,24,25,101,22,26,20,29,97,https://www.livescore.com/en/basketball/spain/liga-acb/iberostar-tenerife-vs-burgos/1627605/
+Spain,Liga ACB,2025,Oct,4,Hiopos Lleida,CB Breogan Lugo,23,22,19,23,87,15,15,16,22,68,https://www.livescore.com/en/basketball/spain/liga-acb/hiopos-lleida-vs-cb-breogan-lugo/1627576/
+Spain,Liga ACB,2025,Nov,16,Real Madrid,Bilbao Basket,23,16,24,19,82,16,27,19,8,70,https://www.livescore.com/en/basketball/spain/liga-acb/real-madrid-vs-bilbao-basket/1627625/
+Spain,Liga ACB,2026,May,3,Manresa,Valencia,18,30,30,26,104,22,34,26,20,102,https://www.livescore.com/en/basketball/spain/liga-acb/manresa-vs-valencia/1627826/
+Spain,Liga ACB,2026,Mar,22,Saski Baskonia,Basquet Girona,21,22,26,25,94,23,21,23,14,81,https://www.livescore.com/en/basketball/spain/liga-acb/saski-baskonia-vs-basquet-girona/1627780/
+Spain,Liga ACB,2025,Nov,16,Barcelona,Saski Baskonia,19,20,31,21,91,19,24,19,21,83,https://www.livescore.com/en/basketball/spain/liga-acb/barcelona-vs-saski-baskonia/1627628/
+Spain,Liga ACB,2026,Jan,11,Basquet Girona,Saski Baskonia,16,25,25,19,85,22,20,25,29,96,https://www.livescore.com/en/basketball/spain/liga-acb/basquet-girona-vs-saski-baskonia/1627701/
+Spain,Liga ACB,2026,May,3,Bilbao Basket,Granada,16,25,26,21,88,16,30,19,18,83,https://www.livescore.com/en/basketball/spain/liga-acb/bilbao-basket-vs-granada/1627822/
+Spain,Liga ACB,2026,Mar,22,Gran Canaria,CB Breogan Lugo,24,20,13,18,75,30,13,26,14,83,https://www.livescore.com/en/basketball/spain/liga-acb/gran-canaria-vs-cb-breogan-lugo/1627772/
+Spain,Liga ACB,2026,Mar,21,Basket Zaragoza,Burgos,35,23,20,30,108,19,16,35,28,98,https://www.livescore.com/en/basketball/spain/liga-acb/basket-zaragoza-vs-burgos/1627793/
+Spain,Liga ACB,2026,Apr,25,Unicaja,Hiopos Lleida,19,18,32,22,91,19,15,14,24,72,https://www.livescore.com/en/basketball/spain/liga-acb/unicaja-vs-hiopos-lleida/1627847/
+Spain,Liga ACB,2026,Mar,15,Joventut,Barcelona,19,23,22,20,84,15,22,21,14,72,https://www.livescore.com/en/basketball/spain/liga-acb/joventut-vs-barcelona/1627755/
+Spain,Liga ACB,2025,Oct,25,Hiopos Lleida,Granada,24,22,23,30,99,22,20,21,27,90,https://www.livescore.com/en/basketball/spain/liga-acb/hiopos-lleida-vs-granada/1627631/
+Spain,Liga ACB,2026,Mar,14,Bilbao Basket,CB Breogan Lugo,23,26,22,29,100,25,17,27,21,90,https://www.livescore.com/en/basketball/spain/liga-acb/bilbao-basket-vs-cb-breogan-lugo/1627758/
+Spain,Liga ACB,2025,Nov,9,Hiopos Lleida,Saski Baskonia,28,21,17,20,86,11,17,19,33,80,https://www.livescore.com/en/basketball/spain/liga-acb/hiopos-lleida-vs-saski-baskonia/1627630/
+Spain,Liga ACB,2025,Oct,11,Manresa,Granada,20,21,28,14,83,11,13,24,20,68,https://www.livescore.com/en/basketball/spain/liga-acb/manresa-vs-granada/1627598/
+Spain,Liga ACB,2026,May,29,Basquet Girona,Joventut,21,23,26,12,82,18,24,10,25,77,https://www.livescore.com/en/basketball/spain/liga-acb/basquet-girona-vs-joventut/1627873/
+Spain,Liga ACB,2026,May,17,Hiopos Lleida,Gran Canaria,16,24,16,19,75,9,15,22,26,72,https://www.livescore.com/en/basketball/spain/liga-acb/hiopos-lleida-vs-gran-canaria/1627836/
+Spain,Liga ACB,2026,Jan,24,CB Breogan Lugo,Real Madrid,19,24,22,20,85,19,24,27,33,103,https://www.livescore.com/en/basketball/spain/liga-acb/cb-breogan-lugo-vs-real-madrid/1627742/
+Spain,Liga ACB,2025,Dec,14,Valencia,Basket Zaragoza,32,18,34,31,115,25,17,19,12,73,https://www.livescore.com/en/basketball/spain/liga-acb/valencia-vs-basket-zaragoza/1627661/
+Spain,Liga ACB,2025,Dec,27,Basket Zaragoza,Manresa,16,12,28,27,83,17,17,28,33,95,https://www.livescore.com/en/basketball/spain/liga-acb/basket-zaragoza-vs-manresa/1627681/
+Spain,Liga ACB,2025,Dec,13,Basquet Club Andorra,Granada,22,20,26,18,86,22,25,18,16,81,https://www.livescore.com/en/basketball/spain/liga-acb/basquet-club-andorra-vs-granada/1627658/
+Spain,Liga ACB,2025,Oct,4,Iberostar Tenerife,Manresa,23,25,28,28,104,23,17,19,34,93,https://www.livescore.com/en/basketball/spain/liga-acb/iberostar-tenerife-vs-manresa/1627590/
+Spain,Liga ACB,2025,Dec,29,CB Breogan Lugo,Saski Baskonia,25,23,30,22,100,18,32,27,26,103,https://www.livescore.com/en/basketball/spain/liga-acb/cb-breogan-lugo-vs-saski-baskonia/1627672/
+Spain,Liga ACB,2026,Mar,21,Unicaja,Iberostar Tenerife,11,19,24,16,70,20,26,28,21,95,https://www.livescore.com/en/basketball/spain/liga-acb/unicaja-vs-iberostar-tenerife/1627774/
+Spain,Liga ACB,2026,Apr,4,Bilbao Basket,Unicaja,26,23,27,14,90,23,19,21,11,74,https://www.livescore.com/en/basketball/spain/liga-acb/bilbao-basket-vs-unicaja/1627796/
+Spain,Liga ACB,2025,Dec,14,Bilbao Basket,Hiopos Lleida,15,17,32,29,93,17,14,26,18,75,https://www.livescore.com/en/basketball/spain/liga-acb/bilbao-basket-vs-hiopos-lleida/1627660/
+Spain,Liga ACB,2026,May,17,Saski Baskonia,Granada,24,29,32,36,121,14,20,22,29,85,https://www.livescore.com/en/basketball/spain/liga-acb/saski-baskonia-vs-granada/1627839/
+Spain,Liga ACB,2026,Feb,15,Barcelona,Manresa,22,21,30,24,97,14,17,12,17,60,https://www.livescore.com/en/basketball/spain/liga-acb/barcelona-vs-manresa/1627733/
+Spain,Liga ACB,2026,Jan,24,Granada,Bilbao Basket,19,19,25,15,84,20,23,24,11,88,https://www.livescore.com/en/basketball/spain/liga-acb/granada-vs-bilbao-basket/1627713/
+Spain,Liga ACB,2026,Jan,2,Bilbao Basket,Valencia,11,24,18,19,72,24,13,36,43,116,https://www.livescore.com/en/basketball/spain/liga-acb/bilbao-basket-vs-valencia/1627679/
+Spain,Liga ACB,2025,Dec,7,Barcelona,Basquet Club Andorra,16,22,35,29,102,14,16,21,20,71,https://www.livescore.com/en/basketball/spain/liga-acb/barcelona-vs-basquet-club-andorra/1627647/
+Spain,Liga ACB,2026,Jan,10,Valencia,Unicaja,25,14,12,19,70,21,15,21,19,76,https://www.livescore.com/en/basketball/spain/liga-acb/valencia-vs-unicaja/1627707/
+Spain,Liga ACB,2025,Nov,23,Saski Baskonia,Bilbao Basket,33,38,14,25,110,23,23,22,23,91,https://www.livescore.com/en/basketball/spain/liga-acb/saski-baskonia-vs-bilbao-basket/1627640/
+Spain,Liga ACB,2026,Jan,3,Joventut,Iberostar Tenerife,18,24,19,17,78,19,14,21,13,67,https://www.livescore.com/en/basketball/spain/liga-acb/joventut-vs-iberostar-tenerife/1627684/
+Spain,Liga ACB,2026,Mar,8,Valencia,UCAM Murcia CB,30,25,35,20,110,19,20,23,22,84,https://www.livescore.com/en/basketball/spain/liga-acb/valencia-vs-ucam-murcia-cb/1627762/
+Spain,Liga ACB,2026,Jan,3,Granada,Burgos,19,22,33,16,90,33,22,24,28,107,https://www.livescore.com/en/basketball/spain/liga-acb/granada-vs-burgos/1627686/
+Spain,Liga ACB,2026,Jan,2,Manresa,Basquet Girona,25,34,22,14,95,29,19,30,19,97,https://www.livescore.com/en/basketball/spain/liga-acb/manresa-vs-basquet-girona/1627673/
+Spain,Liga ACB,2026,May,3,Real Madrid,UCAM Murcia CB,25,25,31,33,131,29,34,29,22,123,https://www.livescore.com/en/basketball/spain/liga-acb/real-madrid-vs-ucam-murcia-cb/1627831/
+Spain,Liga ACB,2025,Nov,23,Basquet Club Andorra,Joventut,17,17,21,21,76,21,28,15,19,83,https://www.livescore.com/en/basketball/spain/liga-acb/basquet-club-andorra-vs-joventut/1627637/
+Spain,Liga ACB,2025,Oct,19,Real Madrid,Burgos,25,16,27,22,90,20,26,22,12,80,https://www.livescore.com/en/basketball/spain/liga-acb/real-madrid-vs-burgos/1627596/
+Spain,Liga ACB,2026,May,24,Bilbao Basket,Basquet Girona,25,17,22,22,86,23,18,26,13,80,https://www.livescore.com/en/basketball/spain/liga-acb/bilbao-basket-vs-basquet-girona/1627867/
+Spain,Liga ACB,2026,Mar,7,Basquet Club Andorra,Basket Zaragoza,24,20,32,20,113,19,25,20,32,111,https://www.livescore.com/en/basketball/spain/liga-acb/basquet-club-andorra-vs-basket-zaragoza/1627765/
+Spain,Liga ACB,2026,Apr,12,Burgos,Real Madrid,20,19,18,21,78,25,18,23,28,94,https://www.livescore.com/en/basketball/spain/liga-acb/burgos-vs-real-madrid/1627807/
+Spain,Liga ACB,2025,Dec,14,Manresa,Barcelona,21,16,17,8,62,28,22,21,18,89,https://www.livescore.com/en/basketball/spain/liga-acb/manresa-vs-barcelona/1627654/
+Spain,Liga ACB,2025,Nov,22,CB Breogan Lugo,Burgos,30,27,20,28,105,18,20,15,25,78,https://www.livescore.com/en/basketball/spain/liga-acb/cb-breogan-lugo-vs-burgos/1627641/
+Spain,Liga ACB,2026,Jan,18,Burgos,Barcelona,19,19,18,23,79,12,21,24,23,80,https://www.livescore.com/en/basketball/spain/liga-acb/burgos-vs-barcelona/1627738/
+Spain,Liga ACB,2026,Mar,22,Hiopos Lleida,Joventut,15,27,29,15,86,27,24,10,27,88,https://www.livescore.com/en/basketball/spain/liga-acb/hiopos-lleida-vs-joventut/1627776/
+Spain,Liga ACB,2026,Mar,29,Burgos,Valencia,22,16,16,20,74,15,23,30,11,79,https://www.livescore.com/en/basketball/spain/liga-acb/burgos-vs-valencia/1627779/
+Spain,Liga ACB,2026,May,29,CB Breogan Lugo,Basket Zaragoza,26,21,23,24,94,24,20,23,28,95,https://www.livescore.com/en/basketball/spain/liga-acb/cb-breogan-lugo-vs-basket-zaragoza/1627868/
+Spain,Liga ACB,2026,Apr,5,Valencia,CB Breogan Lugo,31,20,33,21,105,25,16,32,15,88,https://www.livescore.com/en/basketball/spain/liga-acb/valencia-vs-cb-breogan-lugo/1627798/
+Spain,Liga ACB,2025,Nov,22,Hiopos Lleida,UCAM Murcia CB,18,12,18,23,71,31,23,25,28,107,https://www.livescore.com/en/basketball/spain/liga-acb/hiopos-lleida-vs-ucam-murcia-cb/1627639/
+Spain,Liga ACB,2026,Apr,12,Barcelona,Bilbao Basket,21,20,24,25,90,7,16,20,18,61,https://www.livescore.com/en/basketball/spain/liga-acb/barcelona-vs-bilbao-basket/1627806/
+Spain,Liga ACB,2026,Apr,19,Burgos,CB Breogan Lugo,21,22,26,25,94,21,29,20,29,99,https://www.livescore.com/en/basketball/spain/liga-acb/burgos-vs-cb-breogan-lugo/1627810/
+Spain,Liga ACB,2026,Mar,22,Barcelona,Real Madrid,18,15,20,23,76,15,36,20,24,95,https://www.livescore.com/en/basketball/spain/liga-acb/barcelona-vs-real-madrid/1627785/
+Spain,Liga ACB,2026,May,12,Basquet Girona,Manresa,22,21,12,19,74,15,17,16,31,79,https://www.livescore.com/en/basketball/spain/liga-acb/basquet-girona-vs-manresa/1627844/
+Spain,Liga ACB,2025,Dec,7,Joventut,Manresa,16,13,29,25,83,19,20,22,18,79,https://www.livescore.com/en/basketball/spain/liga-acb/joventut-vs-manresa/1627662/
+Spain,Liga ACB,2026,May,13,Granada,Barcelona,16,19,33,30,98,20,22,26,33,101,https://www.livescore.com/en/basketball/spain/liga-acb/granada-vs-barcelona/1627843/
+Spain,Liga ACB,2025,Nov,23,Valencia,Basquet Girona,26,21,28,23,98,16,15,21,20,72,https://www.livescore.com/en/basketball/spain/liga-acb/valencia-vs-basquet-girona/1627643/
+Spain,Liga ACB,2025,Oct,25,Burgos,Basket Zaragoza,23,21,26,19,89,25,25,27,25,102,https://www.livescore.com/en/basketball/spain/liga-acb/burgos-vs-basket-zaragoza/1627606/
+Spain,Liga ACB,2025,Oct,25,Barcelona,CB Breogan Lugo,28,16,28,28,100,18,23,26,18,85,https://www.livescore.com/en/basketball/spain/liga-acb/barcelona-vs-cb-breogan-lugo/1627617/
+Spain,Liga ACB,2026,May,29,Manresa,Real Madrid,26,30,18,20,94,19,29,25,14,87,https://www.livescore.com/en/basketball/spain/liga-acb/manresa-vs-real-madrid/1627879/
+Spain,Liga ACB,2026,Jan,2,Basquet Club Andorra,Hiopos Lleida,21,16,24,18,79,15,19,30,23,87,https://www.livescore.com/en/basketball/spain/liga-acb/basquet-club-andorra-vs-hiopos-lleida/1627671/
+Spain,Liga ACB,2026,Mar,8,Basquet Girona,Unicaja,17,16,26,24,83,20,27,19,24,90,https://www.livescore.com/en/basketball/spain/liga-acb/basquet-girona-vs-unicaja/1627763/
+Spain,Liga ACB,2026,May,14,Gran Canaria,Iberostar Tenerife,26,31,22,23,102,21,20,20,22,83,https://www.livescore.com/en/basketball/spain/liga-acb/gran-canaria-vs-iberostar-tenerife/1627860/
+Spain,Liga ACB,2026,May,23,Granada,Iberostar Tenerife,28,23,22,23,96,28,27,29,25,109,https://www.livescore.com/en/basketball/spain/liga-acb/granada-vs-iberostar-tenerife/1627866/
+Spain,Liga ACB,2026,May,17,Real Madrid,Joventut,20,20,22,19,81,15,23,21,30,89,https://www.livescore.com/en/basketball/spain/liga-acb/real-madrid-vs-joventut/1627837/
+Spain,Liga ACB,2026,May,16,CB Breogan Lugo,Basquet Girona,16,29,25,25,95,9,22,22,23,76,https://www.livescore.com/en/basketball/spain/liga-acb/cb-breogan-lugo-vs-basquet-girona/1627857/
+Spain,Liga ACB,2026,May,29,Iberostar Tenerife,Bilbao Basket,17,17,22,26,82,15,17,30,25,87,https://www.livescore.com/en/basketball/spain/liga-acb/iberostar-tenerife-vs-bilbao-basket/1627864/
+Spain,Liga ACB,2026,Apr,18,Joventut,Saski Baskonia,16,22,14,29,81,13,16,24,16,69,https://www.livescore.com/en/basketball/spain/liga-acb/joventut-vs-saski-baskonia/1627815/
+Spain,Liga ACB,2026,Mar,15,Burgos,Saski Baskonia,29,30,32,16,107,24,19,19,34,96,https://www.livescore.com/en/basketball/spain/liga-acb/burgos-vs-saski-baskonia/1627754/
+Spain,Liga ACB,2026,May,29,Burgos,Granada,20,31,27,32,110,33,23,21,28,105,https://www.livescore.com/en/basketball/spain/liga-acb/burgos-vs-granada/1627863/
+Spain,Liga ACB,2026,May,9,Barcelona,Burgos,29,26,18,18,91,15,20,22,19,76,https://www.livescore.com/en/basketball/spain/liga-acb/barcelona-vs-burgos/1627813/
+Spain,Liga ACB,2026,Apr,26,Saski Baskonia,Barcelona,20,25,24,23,92,26,21,21,27,95,https://www.livescore.com/en/basketball/spain/liga-acb/saski-baskonia-vs-barcelona/1627811/
+Spain,Liga ACB,2025,Oct,5,UCAM Murcia CB,Basquet Club Andorra,16,32,29,18,95,12,17,18,17,64,https://www.livescore.com/en/basketball/spain/liga-acb/ucam-murcia-cb-vs-basquet-club-andorra/1627575/
+Spain,Liga ACB,2025,Oct,18,Basquet Club Andorra,Basquet Girona,28,19,14,31,115,10,38,22,22,113,https://www.livescore.com/en/basketball/spain/liga-acb/basquet-club-andorra-vs-basquet-girona/1627583/
+Spain,Liga ACB,2025,Oct,12,Barcelona,Hiopos Lleida,21,22,22,21,86,25,23,15,28,91,https://www.livescore.com/en/basketball/spain/liga-acb/barcelona-vs-hiopos-lleida/1627594/
+Spain,Liga ACB,2026,Jan,17,Unicaja,Granada,24,13,24,27,88,12,26,21,20,79,https://www.livescore.com/en/basketball/spain/liga-acb/unicaja-vs-granada/1627716/
+Spain,Liga ACB,2025,Dec,30,Burgos,Gran Canaria,20,18,27,29,94,20,18,22,21,81,https://www.livescore.com/en/basketball/spain/liga-acb/burgos-vs-gran-canaria/1627689/
+Spain,Liga ACB,2026,Mar,21,Manresa,UCAM Murcia CB,15,22,31,18,86,18,18,32,22,90,https://www.livescore.com/en/basketball/spain/liga-acb/manresa-vs-ucam-murcia-cb/1627773/
+Spain,Liga ACB,2026,Apr,12,Manresa,Joventut,18,21,23,25,87,17,20,19,21,77,https://www.livescore.com/en/basketball/spain/liga-acb/manresa-vs-joventut/1627799/
+Spain,Liga ACB,2025,Nov,9,Granada,Valencia,28,15,21,21,85,17,19,17,26,79,https://www.livescore.com/en/basketball/spain/liga-acb/granada-vs-valencia/1627629/
+Spain,Liga ACB,2026,Mar,28,UCAM Murcia CB,Bilbao Basket,22,27,21,30,100,25,22,16,18,81,https://www.livescore.com/en/basketball/spain/liga-acb/ucam-murcia-cb-vs-bilbao-basket/1627794/
+Spain,Liga ACB,2025,Nov,15,Burgos,Basquet Club Andorra,25,19,26,16,86,17,25,26,25,93,https://www.livescore.com/en/basketball/spain/liga-acb/burgos-vs-basquet-club-andorra/1627635/
+Spain,Liga ACB,2026,Apr,12,UCAM Murcia CB,Granada,28,32,15,32,107,23,24,23,21,91,https://www.livescore.com/en/basketball/spain/liga-acb/ucam-murcia-cb-vs-granada/1627801/
+Spain,Liga ACB,2026,Apr,5,Real Madrid,Basquet Club Andorra,18,29,28,22,97,30,17,13,30,90,https://www.livescore.com/en/basketball/spain/liga-acb/real-madrid-vs-basquet-club-andorra/1627787/
+Spain,Liga ACB,2026,Jan,18,Saski Baskonia,Manresa,35,39,27,29,130,24,18,17,26,85,https://www.livescore.com/en/basketball/spain/liga-acb/saski-baskonia-vs-manresa/1627711/
+Spain,Liga ACB,2025,Dec,13,Unicaja,Burgos,17,24,27,31,99,21,22,28,20,91,https://www.livescore.com/en/basketball/spain/liga-acb/unicaja-vs-burgos/1627646/
+Spain,Liga ACB,2025,Dec,30,Unicaja,Joventut,21,24,26,34,105,21,21,23,18,83,https://www.livescore.com/en/basketball/spain/liga-acb/unicaja-vs-joventut/1627664/
+Spain,Liga ACB,2026,May,13,CB Breogan Lugo,Hiopos Lleida,35,28,25,26,114,26,12,24,25,87,https://www.livescore.com/en/basketball/spain/liga-acb/cb-breogan-lugo-vs-hiopos-lleida/1627846/
+Spain,Liga ACB,2026,May,24,Basket Zaragoza,UCAM Murcia CB,17,26,21,26,90,22,23,27,28,100,https://www.livescore.com/en/basketball/spain/liga-acb/basket-zaragoza-vs-ucam-murcia-cb/1627869/
+Spain,Liga ACB,2026,Jan,25,Barcelona,Iberostar Tenerife,17,28,21,16,82,23,13,26,27,89,https://www.livescore.com/en/basketball/spain/liga-acb/barcelona-vs-iberostar-tenerife/1627744/
+Spain,Liga ACB,2026,Jan,18,Joventut,Basquet Girona,16,13,18,24,71,17,14,22,21,74,https://www.livescore.com/en/basketball/spain/liga-acb/joventut-vs-basquet-girona/1627712/
+Spain,Liga ACB,2026,Jan,4,Hiopos Lleida,Basket Zaragoza,13,21,20,23,77,22,22,13,30,87,https://www.livescore.com/en/basketball/spain/liga-acb/hiopos-lleida-vs-basket-zaragoza/1627700/
+Spain,Liga ACB,2025,Nov,2,Valencia,Burgos,32,23,16,29,100,21,14,22,25,82,https://www.livescore.com/en/basketball/spain/liga-acb/valencia-vs-burgos/1627636/
+Spain,Liga ACB,2025,Dec,20,Burgos,Manresa,30,21,22,17,100,25,27,28,10,102,https://www.livescore.com/en/basketball/spain/liga-acb/burgos-vs-manresa/1627666/
+Spain,Liga ACB,2025,Oct,26,Bilbao Basket,Basquet Club Andorra,22,24,20,15,81,11,21,21,18,71,https://www.livescore.com/en/basketball/spain/liga-acb/bilbao-basket-vs-basquet-club-andorra/1627614/
+Spain,Liga ACB,2025,Nov,16,UCAM Murcia CB,CB Breogan Lugo,15,23,19,26,83,25,23,22,26,96,https://www.livescore.com/en/basketball/spain/liga-acb/ucam-murcia-cb-vs-cb-breogan-lugo/1627618/
+Spain,Liga ACB,2025,Oct,18,Manresa,Gran Canaria,19,28,18,15,80,31,22,20,14,87,https://www.livescore.com/en/basketball/spain/liga-acb/manresa-vs-gran-canaria/1627579/
+Spain,Liga ACB,2025,Dec,6,Hiopos Lleida,Unicaja,20,17,29,22,88,21,30,18,20,89,https://www.livescore.com/en/basketball/spain/liga-acb/hiopos-lleida-vs-unicaja/1627644/
+Spain,Liga ACB,2025,Dec,28,Basquet Girona,Hiopos Lleida,33,21,24,25,103,24,20,25,17,86,https://www.livescore.com/en/basketball/spain/liga-acb/basquet-girona-vs-hiopos-lleida/1627675/
+Spain,Liga ACB,2026,Feb,7,Burgos,Iberostar Tenerife,23,23,27,23,96,14,22,28,24,88,https://www.livescore.com/en/basketball/spain/liga-acb/burgos-vs-iberostar-tenerife/1627749/
+Spain,Liga ACB,2025,Dec,7,Saski Baskonia,Valencia,17,27,16,29,89,20,19,23,29,91,https://www.livescore.com/en/basketball/spain/liga-acb/saski-baskonia-vs-valencia/1627655/
+Spain,Liga ACB,2026,Mar,29,Joventut,Gran Canaria,14,26,32,20,92,22,17,15,30,84,https://www.livescore.com/en/basketball/spain/liga-acb/joventut-vs-gran-canaria/1627777/
+Spain,Liga ACB,2026,Jan,11,Barcelona,Granada,26,35,25,22,108,22,12,16,21,71,https://www.livescore.com/en/basketball/spain/liga-acb/barcelona-vs-granada/1627705/
+Spain,Liga ACB,2025,Oct,19,Hiopos Lleida,Valencia,25,16,16,21,78,24,25,24,26,99,https://www.livescore.com/en/basketball/spain/liga-acb/hiopos-lleida-vs-valencia/1627582/
+Spain,Liga ACB,2025,Oct,11,Basquet Girona,UCAM Murcia CB,12,18,22,19,71,10,26,23,34,93,https://www.livescore.com/en/basketball/spain/liga-acb/basquet-girona-vs-ucam-murcia-cb/1627585/
+Spain,Liga ACB,2025,Oct,18,Basket Zaragoza,CB Breogan Lugo,19,24,24,17,84,16,27,23,22,88,https://www.livescore.com/en/basketball/spain/liga-acb/basket-zaragoza-vs-cb-breogan-lugo/1627578/
+Spain,Liga ACB,2026,May,9,UCAM Murcia CB,Basquet Girona,18,27,23,18,86,18,23,17,17,75,https://www.livescore.com/en/basketball/spain/liga-acb/ucam-murcia-cb-vs-basquet-girona/1627853/
+Spain,Liga ACB,2025,Dec,21,Barcelona,Joventut,26,8,31,25,90,17,23,15,25,80,https://www.livescore.com/en/basketball/spain/liga-acb/barcelona-vs-joventut/1627669/
+Spain,Liga ACB,2026,May,16,Manresa,Basket Zaragoza,23,23,25,30,101,21,20,17,25,83,https://www.livescore.com/en/basketball/spain/liga-acb/manresa-vs-basket-zaragoza/1627835/
+Spain,Liga ACB,2026,Feb,15,Basquet Club Andorra,Valencia,23,16,14,22,75,25,32,26,24,107,https://www.livescore.com/en/basketball/spain/liga-acb/basquet-club-andorra-vs-valencia/1627732/
+Spain,Liga ACB,2026,Jan,10,Iberostar Tenerife,Hiopos Lleida,28,21,22,16,87,19,20,31,24,94,https://www.livescore.com/en/basketball/spain/liga-acb/iberostar-tenerife-vs-hiopos-lleida/1627698/
+Spain,Liga ACB,2025,Dec,21,Unicaja,Saski Baskonia,25,26,25,14,90,23,20,22,28,93,https://www.livescore.com/en/basketball/spain/liga-acb/unicaja-vs-saski-baskonia/1627680/
+Spain,Liga ACB,2026,Feb,14,UCAM Murcia CB,Burgos,28,20,20,33,101,15,24,22,21,82,https://www.livescore.com/en/basketball/spain/liga-acb/ucam-murcia-cb-vs-burgos/1627728/
+Spain,Liga ACB,2026,Apr,12,Saski Baskonia,Gran Canaria,10,23,30,25,88,20,20,24,22,86,https://www.livescore.com/en/basketball/spain/liga-acb/saski-baskonia-vs-gran-canaria/1627803/
+Spain,Liga ACB,2026,May,27,Real Madrid,Saski Baskonia,29,17,20,17,83,26,16,22,24,88,https://www.livescore.com/en/basketball/spain/liga-acb/real-madrid-vs-saski-baskonia/1627875/
+Spain,Liga ACB,2025,Dec,6,Basquet Girona,CB Breogan Lugo,30,30,24,19,103,14,16,23,27,80,https://www.livescore.com/en/basketball/spain/liga-acb/basquet-girona-vs-cb-breogan-lugo/1627659/
+Spain,Liga ACB,2025,Dec,27,Saski Baskonia,Burgos,28,26,18,17,89,16,20,20,21,77,https://www.livescore.com/en/basketball/spain/liga-acb/saski-baskonia-vs-burgos/1627668/
+Spain,Liga ACB,2025,Nov,1,Unicaja,Basquet Girona,23,23,24,25,95,18,21,18,14,71,https://www.livescore.com/en/basketball/spain/liga-acb/unicaja-vs-basquet-girona/1627633/
+Spain,Liga ACB,2025,Oct,19,Unicaja,Barcelona,18,16,23,20,77,22,17,23,21,83,https://www.livescore.com/en/basketball/spain/liga-acb/unicaja-vs-barcelona/1627599/
+Spain,Liga ACB,2026,Jan,31,Granada,CB Breogan Lugo,19,17,10,18,64,17,17,26,23,83,https://www.livescore.com/en/basketball/spain/liga-acb/granada-vs-cb-breogan-lugo/1627745/
+Spain,Liga ACB,2026,May,29,Saski Baskonia,Unicaja,21,25,25,21,92,16,23,30,20,89,https://www.livescore.com/en/basketball/spain/liga-acb/saski-baskonia-vs-unicaja/1627878/
+Spain,Liga ACB,2026,Mar,29,Iberostar Tenerife,Basket Zaragoza,29,24,20,26,99,20,18,19,19,76,https://www.livescore.com/en/basketball/spain/liga-acb/iberostar-tenerife-vs-basket-zaragoza/1627788/
+Spain,Liga ACB,2026,Apr,29,Unicaja,Gran Canaria,25,19,25,18,100,19,24,22,22,101,https://www.livescore.com/en/basketball/spain/liga-acb/unicaja-vs-gran-canaria/1627832/
+Spain,Liga ACB,2025,Nov,23,Basket Zaragoza,Iberostar Tenerife,17,20,20,19,76,21,23,17,23,84,https://www.livescore.com/en/basketball/spain/liga-acb/basket-zaragoza-vs-iberostar-tenerife/1627642/
+Spain,Liga ACB,2025,Oct,26,UCAM Murcia CB,Saski Baskonia,26,23,19,21,89,21,17,24,22,84,https://www.livescore.com/en/basketball/spain/liga-acb/ucam-murcia-cb-vs-saski-baskonia/1627607/
+Spain,Liga ACB,2025,Oct,11,Basquet Club Andorra,Iberostar Tenerife,12,12,13,27,64,24,22,16,34,96,https://www.livescore.com/en/basketball/spain/liga-acb/basquet-club-andorra-vs-iberostar-tenerife/1627591/
+Regular season,NBA,2026,Feb,3,Indiana Pacers,Houston Rockets,28,28,31,27,114,24,39,24,31,118,https://www.livescore.com/en/basketball/nba/nba/indiana-pacers-vs-houston-rockets/1620546/
+Regular season,NBA,2026,Mar,12,New Orleans Pelicans,Toronto Raptors,29,31,33,29,122,30,28,25,28,111,https://www.livescore.com/en/basketball/nba/nba/new-orleans-pelicans-vs-toronto-raptors/1620782/
+Regular season,NBA,2026,Apr,1,LA Clippers,Portland Trail Blazers,31,15,28,30,104,34,28,29,23,114,https://www.livescore.com/en/basketball/nba/nba/la-clippers-vs-portland-trail-blazers/1620973/
+Spain,Liga ACB,2026,May,3,Barcelona,Gran Canaria,29,19,17,26,91,20,14,12,23,69,https://www.livescore.com/en/basketball/spain/liga-acb/barcelona-vs-gran-canaria/1627855/
+Regular season,NBA,2025,Oct,28,Chicago Bulls,Atlanta Hawks,27,30,41,30,128,35,23,34,31,123,https://www.livescore.com/en/basketball/nba/nba/chicago-bulls-vs-atlanta-hawks/1620014/
+Spain,Liga ACB,2025,Nov,1,Gran Canaria,Basquet Club Andorra,30,25,24,23,102,22,20,18,25,85,https://www.livescore.com/en/basketball/spain/liga-acb/gran-canaria-vs-basquet-club-andorra/1627622/
+Regular season,NBA,2025,Nov,13,Oklahoma City Thunder,LA Lakers,30,40,30,21,121,18,20,26,28,92,https://www.livescore.com/en/basketball/nba/nba/oklahoma-city-thunder-vs-la-lakers/1620130/
+Spain,Liga ACB,2025,Dec,20,Hiopos Lleida,Real Madrid,19,24,24,14,81,28,18,20,22,88,https://www.livescore.com/en/basketball/spain/liga-acb/hiopos-lleida-vs-real-madrid/1627692/
+Regular season,NBA,2025,Nov,1,Chicago Bulls,New York Knicks,35,37,28,35,135,27,26,38,34,125,https://www.livescore.com/en/basketball/nba/nba/chicago-bulls-vs-new-york-knicks/1618325/
+Spain,Liga ACB,2026,May,29,Valencia,Gran Canaria,24,28,28,25,105,18,15,20,28,81,https://www.livescore.com/en/basketball/spain/liga-acb/valencia-vs-gran-canaria/1627874/
+Regular season,NBA,2026,Feb,27,Atlanta Hawks,Washington Wizards,37,39,22,28,126,26,30,24,16,96,https://www.livescore.com/en/basketball/nba/nba/atlanta-hawks-vs-washington-wizards/1620814/
+Regular season,NBA,2026,Mar,20,Sacramento Kings,Philadelphia 76ers,33,29,27,29,118,45,26,36,32,139,https://www.livescore.com/en/basketball/nba/nba/sacramento-kings-vs-philadelphia-76ers/1620902/
+Spain,Liga ACB,2026,Feb,14,Basket Zaragoza,Joventut,15,17,12,23,67,17,22,23,17,79,https://www.livescore.com/en/basketball/spain/liga-acb/basket-zaragoza-vs-joventut/1627739/
+Play-offs,NBA,2026,May,16,Minnesota Timberwolves,AGG,27,34,23,25,109,36,38,36,29,139,https://www.livescore.com/en/basketball/nba/nba/minnesota-timberwolves-vs-san-antonio-spurs/1776246/
+Regular season,NBA,2025,Dec,23,Golden State Warriors,Orlando Magic,26,32,31,31,120,30,27,26,14,97,https://www.livescore.com/en/basketball/nba/nba/golden-state-warriors-vs-orlando-magic/1620285/
+Regular season,NBA,2026,Mar,5,Milwaukee Bucks,Atlanta Hawks,38,33,18,24,113,25,41,32,33,131,https://www.livescore.com/en/basketball/nba/nba/milwaukee-bucks-vs-atlanta-hawks/1620830/
+Spain,Liga ACB,2025,Oct,25,Iberostar Tenerife,Unicaja,24,23,28,20,95,20,16,19,24,79,https://www.livescore.com/en/basketball/spain/liga-acb/iberostar-tenerife-vs-unicaja/1627609/
+Regular season,NBA,2025,Dec,31,LA Lakers,Detroit Pistons,30,35,23,18,106,36,34,26,32,128,https://www.livescore.com/en/basketball/nba/nba/la-lakers-vs-detroit-pistons/1620377/
+Spain,Liga ACB,2026,Mar,8,Joventut,Granada,16,37,20,36,109,28,11,17,17,73,https://www.livescore.com/en/basketball/spain/liga-acb/joventut-vs-granada/1627771/
+Spain,Liga ACB,2026,Mar,29,Basquet Club Andorra,Saski Baskonia,21,18,15,25,79,25,21,20,22,88,https://www.livescore.com/en/basketball/spain/liga-acb/basquet-club-andorra-vs-saski-baskonia/1627791/
+Regular season,NBA,2026,Jan,20,Philadelphia 76ers,Indiana Pacers,33,17,32,31,113,30,25,26,23,104,https://www.livescore.com/en/basketball/nba/nba/philadelphia-76ers-vs-indiana-pacers/1620506/
+Regular season,NBA,2025,Nov,29,Charlotte Hornets,Chicago Bulls,32,35,26,30,123,29,33,32,22,116,https://www.livescore.com/en/basketball/nba/nba/charlotte-hornets-vs-chicago-bulls/1618369/
+Spain,Liga ACB,2026,Apr,25,UCAM Murcia CB,Iberostar Tenerife,24,17,22,23,86,29,16,16,19,80,https://www.livescore.com/en/basketball/spain/liga-acb/ucam-murcia-cb-vs-iberostar-tenerife/1627818/
+Regular season,NBA,2025,Dec,5,New Orleans Pelicans,Minnesota Timberwolves,30,32,28,26,116,35,27,26,37,125,https://www.livescore.com/en/basketball/nba/nba/new-orleans-pelicans-vs-minnesota-timberwolves/1620257/
+Regular season,NBA,2026,Mar,6,Minnesota Timberwolves,Toronto Raptors,31,24,35,25,115,27,27,22,31,107,https://www.livescore.com/en/basketball/nba/nba/minnesota-timberwolves-vs-toronto-raptors/1620831/
+Spain,Liga ACB,2025,Nov,2,Basket Zaragoza,Real Madrid,20,25,23,15,83,27,21,25,22,95,https://www.livescore.com/en/basketball/spain/liga-acb/basket-zaragoza-vs-real-madrid/1627623/
+Regular season,NBA,2025,Nov,18,New Orleans Pelicans,Oklahoma City Thunder,24,32,24,29,109,49,20,36,21,126,https://www.livescore.com/en/basketball/nba/nba/new-orleans-pelicans-vs-oklahoma-city-thunder/1620135/
+Spain,Liga ACB,2025,Oct,11,Gran Canaria,Unicaja,22,19,15,16,72,16,11,34,20,81,https://www.livescore.com/en/basketball/spain/liga-acb/gran-canaria-vs-unicaja/1627586/
+Spain,Liga ACB,2026,May,23,Gran Canaria,Manresa,22,13,22,23,80,21,21,27,18,87,https://www.livescore.com/en/basketball/spain/liga-acb/gran-canaria-vs-manresa/1627865/
+Regular season,NBA,2026,Jan,8,Memphis Grizzlies,Phoenix Suns,23,24,21,30,98,30,35,26,26,117,https://www.livescore.com/en/basketball/nba/nba/memphis-grizzlies-vs-phoenix-suns/1620429/
+Regular season,NBA,2026,Mar,26,Cleveland Cavaliers,Miami Heat,19,27,37,20,103,28,35,20,37,120,https://www.livescore.com/en/basketball/nba/nba/cleveland-cavaliers-vs-miami-heat/1620905/
+Spain,Liga ACB,2026,Mar,15,Basquet Girona,Basquet Club Andorra,18,23,19,22,82,12,15,17,31,75,https://www.livescore.com/en/basketball/spain/liga-acb/basquet-girona-vs-basquet-club-andorra/1627767/
+Regular season,NBA,2025,Dec,6,Milwaukee Bucks,Philadelphia 76ers,20,29,28,24,101,33,36,24,23,116,https://www.livescore.com/en/basketball/nba/nba/milwaukee-bucks-vs-philadelphia-76ers/1620229/
+Spain,Liga ACB,2025,Dec,30,UCAM Murcia CB,Real Madrid,18,14,23,25,80,22,19,26,24,91,https://www.livescore.com/en/basketball/spain/liga-acb/ucam-murcia-cb-vs-real-madrid/1627694/
+Regular season,NBA,2025,Oct,27,LA Clippers,Portland Trail Blazers,34,21,32,27,114,23,37,22,25,107,https://www.livescore.com/en/basketball/nba/nba/la-clippers-vs-portland-trail-blazers/1620006/
+Spain,Liga ACB,2025,Oct,5,Basket Zaragoza,Saski Baskonia,23,25,24,35,107,20,14,26,28,88,https://www.livescore.com/en/basketball/spain/liga-acb/basket-zaragoza-vs-saski-baskonia/1627593/
+Regular season,NBA,2026,Jan,31,Golden State Warriors,Detroit Pistons,37,27,31,29,124,45,32,31,23,131,https://www.livescore.com/en/basketball/nba/nba/golden-state-warriors-vs-detroit-pistons/1620631/
+Regular season,NBA,2026,Jan,22,New York Knicks,Brooklyn Nets,38,22,28,32,120,20,18,18,10,66,https://www.livescore.com/en/basketball/nba/nba/new-york-knicks-vs-brooklyn-nets/1620478/
+Spain,Liga ACB,2026,Apr,26,Manresa,Burgos,28,21,23,22,94,23,24,35,19,101,https://www.livescore.com/en/basketball/spain/liga-acb/manresa-vs-burgos/1627823/
+Play-offs,NBA,2026,Apr,27,Houston Rockets,LA Lakers,26,30,34,25,115,21,26,18,31,96,https://www.livescore.com/en/basketball/nba/nba/houston-rockets-vs-la-lakers/1767777/
+Spain,Liga ACB,2026,Jan,25,Manresa,Basquet Club Andorra,19,33,14,25,91,22,19,17,26,84,https://www.livescore.com/en/basketball/spain/liga-acb/manresa-vs-basquet-club-andorra/1627741/
+Regular season,NBA,2026,Jan,22,Charlotte Hornets,Cleveland Cavaliers,20,12,32,23,87,33,23,20,18,94,https://www.livescore.com/en/basketball/nba/nba/charlotte-hornets-vs-cleveland-cavaliers/1620475/
+Spain,Liga ACB,2026,May,3,Saski Baskonia,CB Breogan Lugo,27,25,28,32,112,24,16,22,22,84,https://www.livescore.com/en/basketball/spain/liga-acb/saski-baskonia-vs-cb-breogan-lugo/1627856/
+Regular season,NBA,2025,Nov,6,Cleveland Cavaliers,Philadelphia 76ers,41,29,37,25,132,27,40,20,34,121,https://www.livescore.com/en/basketball/nba/nba/cleveland-cavaliers-vs-philadelphia-76ers/1620063/
+Spain,Liga ACB,2026,Mar,29,Barcelona,Unicaja,22,25,27,23,97,17,24,28,22,91,https://www.livescore.com/en/basketball/spain/liga-acb/barcelona-vs-unicaja/1627786/
+Regular season,NBA,2026,Apr,8,LA Lakers,Oklahoma City Thunder,27,20,15,25,87,34,31,28,30,123,https://www.livescore.com/en/basketball/nba/nba/la-lakers-vs-oklahoma-city-thunder/1620979/
+Spain,Liga ACB,2025,Nov,15,Basket Zaragoza,Unicaja,19,17,27,16,79,19,26,20,21,86,https://www.livescore.com/en/basketball/spain/liga-acb/basket-zaragoza-vs-unicaja/1627615/
+Regular season,NBA,2025,Nov,8,Orlando Magic,Boston Celtics,38,21,25,39,123,25,26,29,30,110,https://www.livescore.com/en/basketball/nba/nba/orlando-magic-vs-boston-celtics/1618334/
+Spain,Liga ACB,2026,Mar,14,Unicaja,Basket Zaragoza,24,28,29,31,112,26,17,21,25,89,https://www.livescore.com/en/basketball/spain/liga-acb/unicaja-vs-basket-zaragoza/1627757/
+Spain,Liga ACB,2026,Jan,25,Unicaja,UCAM Murcia CB,20,17,25,17,92,24,24,21,10,88,https://www.livescore.com/en/basketball/spain/liga-acb/unicaja-vs-ucam-murcia-cb/1627724/
+Regular season,NBA,2026,Jan,6,Houston Rockets,Phoenix Suns,25,29,24,22,100,29,31,18,19,97,https://www.livescore.com/en/basketball/nba/nba/houston-rockets-vs-phoenix-suns/1620437/
+Regular season,NBA,2026,Feb,8,Portland Trail Blazers,Memphis Grizzlies,31,32,25,34,122,30,33,33,19,115,https://www.livescore.com/en/basketball/nba/nba/portland-trail-blazers-vs-memphis-grizzlies/1620664/
+Spain,Liga ACB,2026,Mar,14,UCAM Murcia CB,Gran Canaria,15,22,28,22,87,15,15,18,28,76,https://www.livescore.com/en/basketball/spain/liga-acb/ucam-murcia-cb-vs-gran-canaria/1627759/
+Play-offs,NBA,2026,May,20,New York Knicks,Cleveland Cavaliers,23,23,23,32,115,16,32,35,18,104,https://www.livescore.com/en/basketball/nba/nba/new-york-knicks-vs-cleveland-cavaliers/1779071/
+Spain,Liga ACB,2026,Jan,17,Bilbao Basket,Iberostar Tenerife,24,31,17,23,95,21,12,21,24,78,https://www.livescore.com/en/basketball/spain/liga-acb/bilbao-basket-vs-iberostar-tenerife/1627710/
+Regular season,NBA,2026,Feb,10,Orlando Magic,Milwaukee Bucks,27,24,36,31,118,22,32,20,25,99,https://www.livescore.com/en/basketball/nba/nba/orlando-magic-vs-milwaukee-bucks/1620582/
+Spain,Liga ACB,2025,Oct,19,Granada,Saski Baskonia,21,18,21,20,80,30,15,17,21,83,https://www.livescore.com/en/basketball/spain/liga-acb/granada-vs-saski-baskonia/1627597/
+Regular season,NBA,2026,Mar,20,Charlotte Hornets,Orlando Magic,34,38,38,20,130,32,21,24,34,111,https://www.livescore.com/en/basketball/nba/nba/charlotte-hornets-vs-orlando-magic/1620883/
+Spain,Liga ACB,2026,May,24,Joventut,Burgos,26,19,21,20,86,23,18,14,24,79,https://www.livescore.com/en/basketball/spain/liga-acb/joventut-vs-burgos/1627876/
+Regular season,NBA,2025,Oct,30,Denver Nuggets,New Orleans Pelicans,34,19,39,30,122,25,22,11,30,88,https://www.livescore.com/en/basketball/nba/nba/denver-nuggets-vs-new-orleans-pelicans/1620060/
+Spain,Liga ACB,2025,Nov,16,Valencia,Iberostar Tenerife,25,17,24,30,96,28,15,15,21,79,https://www.livescore.com/en/basketball/spain/liga-acb/valencia-vs-iberostar-tenerife/1627626/
+Play-offs,NBA,2026,Apr,24,Atlanta Hawks,New York Knicks,33,25,30,21,109,21,29,30,28,108,https://www.livescore.com/en/basketball/nba/nba/atlanta-hawks-vs-new-york-knicks/1767773/
+Regular season,NBA,2026,Feb,8,Orlando Magic,Utah Jazz,33,21,33,33,120,30,35,29,23,117,https://www.livescore.com/en/basketball/nba/nba/orlando-magic-vs-utah-jazz/1620660/
+Regular season,NBA,2026,Apr,9,Detroit Pistons,Milwaukee Bucks,34,41,37,25,137,28,29,29,25,111,https://www.livescore.com/en/basketball/nba/nba/detroit-pistons-vs-milwaukee-bucks/1621006/
+Spain,Liga ACB,2026,Feb,8,Real Madrid,Granada,24,16,30,24,94,19,17,18,25,79,https://www.livescore.com/en/basketball/spain/liga-acb/real-madrid-vs-granada/1627747/
+Regular season,NBA,2026,Mar,24,Atlanta Hawks,Memphis Grizzlies,32,39,45,30,146,22,24,29,32,107,https://www.livescore.com/en/basketball/nba/nba/atlanta-hawks-vs-memphis-grizzlies/1620962/
+Spain,Liga ACB,2025,Dec,27,Joventut,CB Breogan Lugo,17,26,11,29,83,18,17,19,21,75,https://www.livescore.com/en/basketball/spain/liga-acb/joventut-vs-cb-breogan-lugo/1627674/
+Regular season,NBA,2026,Feb,5,Milwaukee Bucks,New Orleans Pelicans,30,33,36,29,141,34,36,34,24,137,https://www.livescore.com/en/basketball/nba/nba/milwaukee-bucks-vs-new-orleans-pelicans/1620574/
+Spain,Liga ACB,2025,Nov,22,Unicaja,Manresa,25,23,27,30,105,15,21,30,16,82,https://www.livescore.com/en/basketball/spain/liga-acb/unicaja-vs-manresa/1627645/
+Regular season,NBA,2026,Apr,6,Minnesota Timberwolves,Charlotte Hornets,21,39,19,29,108,29,26,34,33,122,https://www.livescore.com/en/basketball/nba/nba/minnesota-timberwolves-vs-charlotte-hornets/1621061/
+Regular season,NBA,2026,Mar,5,LA Clippers,Indiana Pacers,42,21,39,28,130,25,26,26,30,107,https://www.livescore.com/en/basketball/nba/nba/la-clippers-vs-indiana-pacers/1620828/
+Spain,Liga ACB,2025,Oct,4,Burgos,Basquet Girona,22,27,27,21,97,16,25,12,26,79,https://www.livescore.com/en/basketball/spain/liga-acb/burgos-vs-basquet-girona/1627574/
+Regular season,NBA,2025,Dec,30,Oklahoma City Thunder,Atlanta Hawks,35,35,43,27,140,38,36,29,26,129,https://www.livescore.com/en/basketball/nba/nba/oklahoma-city-thunder-vs-atlanta-hawks/1620343/
+Spain,Liga ACB,2026,Feb,1,Manresa,Unicaja,22,24,26,20,92,22,21,31,24,98,https://www.livescore.com/en/basketball/spain/liga-acb/manresa-vs-unicaja/1627715/
+Regular season,NBA,2026,Feb,28,Miami Heat,Houston Rockets,32,19,34,30,115,28,24,31,22,105,https://www.livescore.com/en/basketball/nba/nba/miami-heat-vs-houston-rockets/1620801/
+Regular season,NBA,2026,Jan,13,Toronto Raptors,Philadelphia 76ers,28,23,26,25,102,45,35,19,16,115,https://www.livescore.com/en/basketball/nba/nba/toronto-raptors-vs-philadelphia-76ers/1620462/
+Spain,Liga ACB,2025,Nov,2,Barcelona,UCAM Murcia CB,16,26,19,17,78,34,22,17,8,81,https://www.livescore.com/en/basketball/spain/liga-acb/barcelona-vs-ucam-murcia-cb/1627624/
+Regular season,NBA,2026,Mar,13,LA Lakers,Chicago Bulls,26,41,41,34,142,26,36,36,32,130,https://www.livescore.com/en/basketball/nba/nba/la-lakers-vs-chicago-bulls/1620940/
+Spain,Liga ACB,2026,Feb,15,Hiopos Lleida,Basquet Girona,18,21,18,24,81,24,25,24,20,93,https://www.livescore.com/en/basketball/spain/liga-acb/hiopos-lleida-vs-basquet-girona/1627730/
+Regular season,NBA,2025,Nov,23,Milwaukee Bucks,Detroit Pistons,26,26,33,31,116,30,39,35,25,129,https://www.livescore.com/en/basketball/nba/nba/milwaukee-bucks-vs-detroit-pistons/1620252/
+Spain,Liga ACB,2026,Apr,19,Hiopos Lleida,Barcelona,24,17,24,25,90,21,25,15,19,80,https://www.livescore.com/en/basketball/spain/liga-acb/hiopos-lleida-vs-barcelona/1627814/
+Regular season,NBA,2025,Dec,6,Atlanta Hawks,Denver Nuggets,41,32,30,30,133,23,31,40,40,134,https://www.livescore.com/en/basketball/nba/nba/atlanta-hawks-vs-denver-nuggets/1620238/
+Regular season,NBA,2026,Jan,21,Sacramento Kings,Miami Heat,25,39,25,28,117,32,45,23,30,130,https://www.livescore.com/en/basketball/nba/nba/sacramento-kings-vs-miami-heat/1620542/
+Spain,Liga ACB,2026,Feb,8,Barcelona,Basquet Girona,32,20,20,25,97,22,18,27,25,92,https://www.livescore.com/en/basketball/spain/liga-acb/barcelona-vs-basquet-girona/1627751/
+Regular season,NBA,2025,Nov,20,Portland Trail Blazers,Chicago Bulls,29,29,24,39,121,28,34,36,24,122,https://www.livescore.com/en/basketball/nba/nba/portland-trail-blazers-vs-chicago-bulls/1620190/
+Spain,Liga ACB,2025,Nov,8,UCAM Murcia CB,Manresa,20,24,17,23,84,18,14,21,12,65,https://www.livescore.com/en/basketball/spain/liga-acb/ucam-murcia-cb-vs-manresa/1627611/
+Regular season,NBA,2026,Jan,2,LA Clippers,Utah Jazz,31,22,29,36,118,17,33,31,20,101,https://www.livescore.com/en/basketball/nba/nba/la-clippers-vs-utah-jazz/1620316/
+Play-offs,NBA,2026,May,27,Oklahoma City Thunder,San Antonio Spurs,29,40,32,26,127,27,31,33,23,114,https://www.livescore.com/en/basketball/nba/nba/oklahoma-city-thunder-vs-san-antonio-spurs/1780562/
+Regular season,NBA,2025,Nov,8,Denver Nuggets,Golden State Warriors,32,34,33,30,129,21,28,28,27,104,https://www.livescore.com/en/basketball/nba/nba/denver-nuggets-vs-golden-state-warriors/1618342/
+Spain,Liga ACB,2025,Oct,19,Joventut,Bilbao Basket,31,18,24,28,101,6,29,18,16,69,https://www.livescore.com/en/basketball/spain/liga-acb/joventut-vs-bilbao-basket/1627580/
+Regular season,NBA,2026,Mar,15,Boston Celtics,Washington Wizards,29,35,29,18,111,27,14,31,28,100,https://www.livescore.com/en/basketball/nba/nba/boston-celtics-vs-washington-wizards/1620922/
+Spain,Liga ACB,2026,Mar,22,Valencia,Granada,23,32,19,33,107,16,23,21,31,91,https://www.livescore.com/en/basketball/spain/liga-acb/valencia-vs-granada/1627792/
+Regular season,NBA,2026,Jan,4,Orlando Magic,Indiana Pacers,28,41,38,28,135,36,22,42,27,127,https://www.livescore.com/en/basketball/nba/nba/orlando-magic-vs-indiana-pacers/1620457/
+Spain,Liga ACB,2025,Dec,7,Iberostar Tenerife,Real Madrid,16,9,23,22,70,18,15,16,22,71,https://www.livescore.com/en/basketball/spain/liga-acb/iberostar-tenerife-vs-real-madrid/1627648/
+Regular season,NBA,2025,Oct,23,Dallas Mavericks,San Antonio Spurs,29,22,21,20,92,28,32,33,32,125,https://www.livescore.com/en/basketball/nba/nba/dallas-mavericks-vs-san-antonio-spurs/1614285/
+Spain,Liga ACB,2026,Mar,8,Gran Canaria,Real Madrid,25,13,18,24,80,20,26,16,20,82,https://www.livescore.com/en/basketball/spain/liga-acb/gran-canaria-vs-real-madrid/1627770/
+Regular season,NBA,2025,Nov,4,Denver Nuggets,Sacramento Kings,39,33,32,26,130,30,33,30,31,124,https://www.livescore.com/en/basketball/nba/nba/denver-nuggets-vs-sacramento-kings/1620044/
+Spain,Liga ACB,2026,May,10,Valencia,Saski Baskonia,26,15,17,28,86,23,18,22,25,88,https://www.livescore.com/en/basketball/spain/liga-acb/valencia-vs-saski-baskonia/1627854/
+Regular season,NBA,2025,Dec,24,LA Clippers,Houston Rockets,29,34,35,30,128,35,23,24,26,108,https://www.livescore.com/en/basketball/nba/nba/la-clippers-vs-houston-rockets/1620289/
+Regular season,NBA,2025,Dec,25,New York Knicks,Cleveland Cavaliers,23,37,24,42,126,38,20,38,28,124,https://www.livescore.com/en/basketball/nba/nba/new-york-knicks-vs-cleveland-cavaliers/1614290/
+Spain,Liga ACB,2026,Apr,1,Saski Baskonia,Basket Zaragoza,38,24,34,19,115,17,26,23,22,88,https://www.livescore.com/en/basketball/spain/liga-acb/saski-baskonia-vs-basket-zaragoza/1627753/
+Regular season,NBA,2026,Apr,1,Houston Rockets,New York Knicks,37,26,29,19,111,21,29,22,22,94,https://www.livescore.com/en/basketball/nba/nba/houston-rockets-vs-new-york-knicks/1620966/
+Spain,Liga ACB,2025,Dec,13,CB Breogan Lugo,Iberostar Tenerife,24,27,20,25,96,33,26,22,27,108,https://www.livescore.com/en/basketball/spain/liga-acb/cb-breogan-lugo-vs-iberostar-tenerife/1627656/
+Regular season,NBA,2026,Feb,5,New York Knicks,Denver Nuggets,28,27,33,20,134,30,23,29,26,127,https://www.livescore.com/en/basketball/nba/nba/new-york-knicks-vs-denver-nuggets/1620575/
+Spain,Liga ACB,2026,Feb,8,Gran Canaria,Saski Baskonia,14,11,23,27,75,26,13,32,26,97,https://www.livescore.com/en/basketball/spain/liga-acb/gran-canaria-vs-saski-baskonia/1627663/
+Play-offs,NBA,2026,May,19,Oklahoma City Thunder,San Antonio Spurs,27,17,29,28,115,27,24,29,21,122,https://www.livescore.com/en/basketball/nba/nba/oklahoma-city-thunder-vs-san-antonio-spurs/1778003/
+Spain,Liga ACB,2026,Jan,25,Saski Baskonia,Joventut,22,21,21,23,87,26,13,18,20,77,https://www.livescore.com/en/basketball/spain/liga-acb/saski-baskonia-vs-joventut/1627717/
+Play-offs,NBA,2026,Apr,16,Philadelphia 76ers,Orlando Magic,28,31,20,30,109,24,31,19,23,97,https://www.livescore.com/en/basketball/nba/nba/philadelphia-76ers-vs-orlando-magic/1766885/
+Spain,Liga ACB,2026,May,2,Iberostar Tenerife,Basquet Club Andorra,22,24,15,28,89,21,14,25,30,90,https://www.livescore.com/en/basketball/spain/liga-acb/iberostar-tenerife-vs-basquet-club-andorra/1627858/
+Regular season,NBA,2025,Nov,5,LA Clippers,Oklahoma City Thunder,33,24,29,21,107,23,33,38,32,126,https://www.livescore.com/en/basketball/nba/nba/la-clippers-vs-oklahoma-city-thunder/1620092/
+Spain,Liga ACB,2026,Feb,1,UCAM Murcia CB,Barcelona,18,24,19,23,84,30,21,17,15,83,https://www.livescore.com/en/basketball/spain/liga-acb/ucam-murcia-cb-vs-barcelona/1627737/
+Regular season,NBA,2025,Nov,6,New York Knicks,Minnesota Timberwolves,28,26,40,43,137,26,32,28,28,114,https://www.livescore.com/en/basketball/nba/nba/new-york-knicks-vs-minnesota-timberwolves/1620071/
+Regular season,NBA,2026,Jan,8,New York Knicks,LA Clippers,27,24,39,33,123,31,25,31,24,111,https://www.livescore.com/en/basketball/nba/nba/new-york-knicks-vs-la-clippers/1620401/
+Spain,Liga ACB,2026,Jan,4,Saski Baskonia,Basquet Club Andorra,30,21,20,28,99,20,23,31,18,92,https://www.livescore.com/en/basketball/spain/liga-acb/saski-baskonia-vs-basquet-club-andorra/1627688/
+Play-offs,NBA,2026,May,23,San Antonio Spurs,Oklahoma City Thunder,31,20,33,24,108,26,32,37,28,123,https://www.livescore.com/en/basketball/nba/nba/san-antonio-spurs-vs-oklahoma-city-thunder/1778005/
+Regular season,NBA,2026,Feb,22,Golden State Warriors,Denver Nuggets,39,37,19,33,128,27,40,34,16,117,https://www.livescore.com/en/basketball/nba/nba/golden-state-warriors-vs-denver-nuggets/1620741/
+Spain,Liga ACB,2026,Apr,19,Granada,Unicaja,24,17,26,16,83,9,22,22,18,71,https://www.livescore.com/en/basketball/spain/liga-acb/granada-vs-unicaja/1627827/
+Regular season,NBA,2025,Nov,18,Cleveland Cavaliers,Milwaukee Bucks,26,33,33,26,118,33,24,31,18,106,https://www.livescore.com/en/basketball/nba/nba/cleveland-cavaliers-vs-milwaukee-bucks/1620152/
+Spain,Liga ACB,2026,Mar,15,Granada,Manresa,18,17,28,29,92,21,14,26,18,79,https://www.livescore.com/en/basketball/spain/liga-acb/granada-vs-manresa/1627756/
+Regular season,NBA,2026,Jan,5,Washington Wizards,Minnesota Timberwolves,28,30,21,36,115,38,35,35,33,141,https://www.livescore.com/en/basketball/nba/nba/washington-wizards-vs-minnesota-timberwolves/1620458/
+Regular season,NBA,2025,Dec,11,LA Lakers,San Antonio Spurs,30,28,29,32,119,39,31,34,28,132,https://www.livescore.com/en/basketball/nba/nba/la-lakers-vs-san-antonio-spurs/1700439/
+Regular season,NBA,2026,Feb,7,Portland Trail Blazers,Memphis Grizzlies,25,43,38,29,135,36,28,23,28,115,https://www.livescore.com/en/basketball/nba/nba/portland-trail-blazers-vs-memphis-grizzlies/1620673/
+Spain,Liga ACB,2026,Apr,19,Basquet Girona,Valencia,19,21,19,22,81,20,25,21,18,84,https://www.livescore.com/en/basketball/spain/liga-acb/basquet-girona-vs-valencia/1627809/
+Play-offs,NBA,2026,Apr,25,Houston Rockets,LA Lakers,32,20,23,26,108,39,24,17,21,112,https://www.livescore.com/en/basketball/nba/nba/houston-rockets-vs-la-lakers/1767776/
+Spain,Liga ACB,2026,Mar,8,CB Breogan Lugo,Barcelona,13,18,11,36,78,27,30,26,26,109,https://www.livescore.com/en/basketball/spain/liga-acb/cb-breogan-lugo-vs-barcelona/1627766/
+Regular season,NBA,2026,Mar,13,San Antonio Spurs,Denver Nuggets,37,32,37,25,131,25,28,41,42,136,https://www.livescore.com/en/basketball/nba/nba/san-antonio-spurs-vs-denver-nuggets/1620943/
+Spain,Liga ACB,2026,Apr,18,Gran Canaria,Basket Zaragoza,20,10,19,25,74,18,21,18,21,78,https://www.livescore.com/en/basketball/spain/liga-acb/gran-canaria-vs-basket-zaragoza/1627821/
+Regular season,NBA,2026,Mar,13,Atlanta Hawks,Brooklyn Nets,30,27,25,26,108,21,29,29,18,97,https://www.livescore.com/en/basketball/nba/nba/atlanta-hawks-vs-brooklyn-nets/1620780/
+Spain,Liga ACB,2025,Dec,20,Basquet Girona,Iberostar Tenerife,21,23,31,14,89,22,27,24,23,96,https://www.livescore.com/en/basketball/spain/liga-acb/basquet-girona-vs-iberostar-tenerife/1627691/
+Regular season,NBA,2025,Dec,3,Golden State Warriors,Oklahoma City Thunder,26,18,44,24,112,32,31,28,33,124,https://www.livescore.com/en/basketball/nba/nba/golden-state-warriors-vs-oklahoma-city-thunder/1620241/
+Spain,Liga ACB,2026,May,10,Hiopos Lleida,Bilbao Basket,25,29,15,21,90,26,22,19,14,81,https://www.livescore.com/en/basketball/spain/liga-acb/hiopos-lleida-vs-bilbao-basket/1627834/
+Regular season,NBA,2025,Nov,3,Cleveland Cavaliers,Atlanta Hawks,31,19,28,39,117,22,30,24,33,109,https://www.livescore.com/en/basketball/nba/nba/cleveland-cavaliers-vs-atlanta-hawks/1620118/
+Regular season,NBA,2026,Mar,2,LA Clippers,New Orleans Pelicans,43,33,31,30,137,32,38,24,23,117,https://www.livescore.com/en/basketball/nba/nba/la-clippers-vs-new-orleans-pelicans/1620783/
+Regular season,NBA,2026,Jan,12,Phoenix Suns,Washington Wizards,32,33,31,16,112,28,22,17,26,93,https://www.livescore.com/en/basketball/nba/nba/phoenix-suns-vs-washington-wizards/1620470/
+Regular season,NBA,2025,Dec,30,San Antonio Spurs,Cleveland Cavaliers,26,29,23,23,101,25,24,27,37,113,https://www.livescore.com/en/basketball/nba/nba/san-antonio-spurs-vs-cleveland-cavaliers/1620342/
+Play-offs,NBA,2026,Jun,4,San Antonio Spurs,New York Knicks,27,28,21,19,95,19,29,28,29,105,https://www.livescore.com/en/basketball/nba/nba/san-antonio-spurs-vs-new-york-knicks/1783295/
+Regular season,NBA,2026,Mar,12,Sacramento Kings,Charlotte Hornets,34,28,23,24,109,30,29,31,27,117,https://www.livescore.com/en/basketball/nba/nba/sacramento-kings-vs-charlotte-hornets/1620786/
+Regular season,NBA,2026,Mar,4,Toronto Raptors,New York Knicks,31,27,24,13,95,32,36,19,24,111,https://www.livescore.com/en/basketball/nba/nba/toronto-raptors-vs-new-york-knicks/1620762/
+Regular season,NBA,2026,Mar,18,Orlando Magic,Oklahoma City Thunder,22,28,29,29,108,26,25,34,28,113,https://www.livescore.com/en/basketball/nba/nba/orlando-magic-vs-oklahoma-city-thunder/1620872/
+Regular season,NBA,2025,Nov,29,Detroit Pistons,Orlando Magic,33,25,26,25,109,31,28,30,23,112,https://www.livescore.com/en/basketball/nba/nba/detroit-pistons-vs-orlando-magic/1618372/
+Regular season,NBA,2026,Feb,26,Memphis Grizzlies,Golden State Warriors,31,22,23,36,112,34,40,22,37,133,https://www.livescore.com/en/basketball/nba/nba/memphis-grizzlies-vs-golden-state-warriors/1620691/
+Regular season,NBA,2026,Mar,21,Memphis Grizzlies,Boston Celtics,27,27,34,24,112,29,26,29,33,117,https://www.livescore.com/en/basketball/nba/nba/memphis-grizzlies-vs-boston-celtics/1620997/
+Regular season,NBA,2026,Feb,28,Charlotte Hornets,Portland Trail Blazers,29,22,23,35,109,17,26,24,26,93,https://www.livescore.com/en/basketball/nba/nba/charlotte-hornets-vs-portland-trail-blazers/1620794/
+Regular season,NBA,2025,Dec,14,Cleveland Cavaliers,Charlotte Hornets,29,18,32,32,111,33,24,31,23,119,https://www.livescore.com/en/basketball/nba/nba/cleveland-cavaliers-vs-charlotte-hornets/1700331/
+Regular season,NBA,2025,Dec,20,Cleveland Cavaliers,Chicago Bulls,32,23,44,26,125,32,34,35,35,136,https://www.livescore.com/en/basketball/nba/nba/cleveland-cavaliers-vs-chicago-bulls/1620318/
+Regular season,NBA,2026,Jan,14,Golden State Warriors,Portland Trail Blazers,38,29,28,24,119,24,17,30,26,97,https://www.livescore.com/en/basketball/nba/nba/golden-state-warriors-vs-portland-trail-blazers/1620510/
+Regular season,NBA,2026,Apr,8,Brooklyn Nets,Milwaukee Bucks,30,19,21,26,96,29,14,19,28,90,https://www.livescore.com/en/basketball/nba/nba/brooklyn-nets-vs-milwaukee-bucks/1621070/
+Regular season,NBA,2026,Mar,16,Philadelphia 76ers,Portland Trail Blazers,30,23,29,27,109,27,27,22,27,103,https://www.livescore.com/en/basketball/nba/nba/philadelphia-76ers-vs-portland-trail-blazers/1620933/
+Regular season,NBA,2025,Nov,27,Toronto Raptors,Indiana Pacers,21,29,26,21,97,25,24,21,25,95,https://www.livescore.com/en/basketball/nba/nba/toronto-raptors-vs-indiana-pacers/1618378/
+Regular season,NBA,2026,Mar,22,Houston Rockets,Miami Heat,32,32,23,36,123,29,34,33,26,122,https://www.livescore.com/en/basketball/nba/nba/houston-rockets-vs-miami-heat/1620910/
+Regular season,NBA,2025,Nov,29,Denver Nuggets,San Antonio Spurs,33,41,30,32,136,41,18,44,36,139,https://www.livescore.com/en/basketball/nba/nba/denver-nuggets-vs-san-antonio-spurs/1618358/
+Regular season,NBA,2026,Feb,27,Chicago Bulls,Portland Trail Blazers,34,29,23,26,112,32,37,24,28,121,https://www.livescore.com/en/basketball/nba/nba/chicago-bulls-vs-portland-trail-blazers/1620819/
+Regular season,NBA,2026,Mar,24,Chicago Bulls,Houston Rockets,41,24,30,37,132,21,27,39,37,124,https://www.livescore.com/en/basketball/nba/nba/chicago-bulls-vs-houston-rockets/1620931/
+Regular season,NBA,2026,Jan,26,LA Clippers,Brooklyn Nets,38,30,28,30,126,14,23,29,23,89,https://www.livescore.com/en/basketball/nba/nba/la-clippers-vs-brooklyn-nets/1620545/
+Regular season,NBA,2026,Jan,2,Sacramento Kings,Boston Celtics,29,32,27,18,106,28,34,26,32,120,https://www.livescore.com/en/basketball/nba/nba/sacramento-kings-vs-boston-celtics/1620322/
+Regular season,NBA,2025,Nov,8,Memphis Grizzlies,Dallas Mavericks,34,40,28,16,118,24,27,29,24,104,https://www.livescore.com/en/basketball/nba/nba/memphis-grizzlies-vs-dallas-mavericks/1618340/
+Regular season,NBA,2025,Dec,7,Toronto Raptors,Boston Celtics,26,33,32,22,113,34,43,20,24,121,https://www.livescore.com/en/basketball/nba/nba/toronto-raptors-vs-boston-celtics/1620222/
+Regular season,NBA,2025,Dec,3,Boston Celtics,New York Knicks,21,37,36,29,123,32,20,24,41,117,https://www.livescore.com/en/basketball/nba/nba/boston-celtics-vs-new-york-knicks/1620253/
+Regular season,NBA,2026,Apr,5,Philadelphia 76ers,Detroit Pistons,31,29,21,12,93,41,30,24,21,116,https://www.livescore.com/en/basketball/nba/nba/philadelphia-76ers-vs-detroit-pistons/1621093/
+Regular season,NBA,2026,Jan,14,Miami Heat,Phoenix Suns,36,35,21,35,127,28,26,38,29,121,https://www.livescore.com/en/basketball/nba/nba/miami-heat-vs-phoenix-suns/1620515/
+Regular season,NBA,2026,Feb,27,LA Clippers,Minnesota Timberwolves,27,11,30,20,88,29,15,19,31,94,https://www.livescore.com/en/basketball/nba/nba/la-clippers-vs-minnesota-timberwolves/1620844/
+Regular season,NBA,2026,Jan,19,Atlanta Hawks,Milwaukee Bucks,19,19,34,38,110,20,34,26,32,112,https://www.livescore.com/en/basketball/nba/nba/atlanta-hawks-vs-milwaukee-bucks/1614296/
+Regular season,NBA,2026,Jan,16,LA Lakers,Charlotte Hornets,39,16,38,24,117,30,34,40,31,135,https://www.livescore.com/en/basketball/nba/nba/la-lakers-vs-charlotte-hornets/1620519/
+Regular season,NBA,2026,Apr,6,Golden State Warriors,Houston Rockets,31,22,29,34,116,26,29,37,25,117,https://www.livescore.com/en/basketball/nba/nba/golden-state-warriors-vs-houston-rockets/1620956/
+Regular season,NBA,2025,Dec,14,Oklahoma City Thunder,San Antonio Spurs,31,18,28,32,109,20,26,32,33,111,https://www.livescore.com/en/basketball/nba/nba/oklahoma-city-thunder-vs-san-antonio-spurs/1705019/
+Regular season,NBA,2025,Nov,30,Indiana Pacers,Chicago Bulls,26,35,25,17,103,27,27,26,21,101,https://www.livescore.com/en/basketball/nba/nba/indiana-pacers-vs-chicago-bulls/1620263/
+Regular season,NBA,2025,Nov,16,Indiana Pacers,Toronto Raptors,29,24,32,26,111,32,30,39,28,129,https://www.livescore.com/en/basketball/nba/nba/indiana-pacers-vs-toronto-raptors/1620196/
+Regular season,NBA,2025,Dec,7,New York Knicks,Orlando Magic,35,19,28,24,106,31,24,18,27,100,https://www.livescore.com/en/basketball/nba/nba/new-york-knicks-vs-orlando-magic/1620213/
+Regular season,NBA,2025,Nov,8,Minnesota Timberwolves,Utah Jazz,43,36,25,33,137,15,30,22,30,97,https://www.livescore.com/en/basketball/nba/nba/minnesota-timberwolves-vs-utah-jazz/1618341/
+Regular season,NBA,2025,Oct,25,Houston Rockets,Detroit Pistons,33,23,30,25,111,32,31,24,28,115,https://www.livescore.com/en/basketball/nba/nba/houston-rockets-vs-detroit-pistons/1620043/
+Play-offs,NBA,2026,May,8,Oklahoma City Thunder,LA Lakers,27,30,36,32,125,23,35,22,27,107,https://www.livescore.com/en/basketball/nba/nba/oklahoma-city-thunder-vs-la-lakers/1773359/
+Regular season,NBA,2026,Feb,25,LA Lakers,Orlando Magic,33,23,24,29,109,25,28,26,31,110,https://www.livescore.com/en/basketball/nba/nba/la-lakers-vs-orlando-magic/1620747/
+Regular season,NBA,2025,Dec,16,Utah Jazz,Dallas Mavericks,37,34,21,37,140,43,32,24,30,133,https://www.livescore.com/en/basketball/nba/nba/utah-jazz-vs-dallas-mavericks/1700333/
+Regular season,NBA,2026,Apr,9,Cleveland Cavaliers,Atlanta Hawks,33,27,44,18,122,29,38,20,29,116,https://www.livescore.com/en/basketball/nba/nba/cleveland-cavaliers-vs-atlanta-hawks/1620984/
+Regular season,NBA,2026,Jan,17,Indiana Pacers,New Orleans Pelicans,31,42,29,25,127,33,33,27,26,119,https://www.livescore.com/en/basketball/nba/nba/indiana-pacers-vs-new-orleans-pelicans/1620482/
+Regular season,NBA,2025,Dec,7,Miami Heat,Sacramento Kings,31,24,23,33,111,34,38,29,26,127,https://www.livescore.com/en/basketball/nba/nba/miami-heat-vs-sacramento-kings/1620230/
+Regular season,NBA,2026,Jan,11,Memphis Grizzlies,Brooklyn Nets,34,27,16,26,103,23,27,24,24,98,https://www.livescore.com/en/basketball/nba/nba/memphis-grizzlies-vs-brooklyn-nets/1620412/
+Regular season,NBA,2026,Mar,17,Boston Celtics,Phoenix Suns,31,34,26,29,120,32,29,25,26,112,https://www.livescore.com/en/basketball/nba/nba/boston-celtics-vs-phoenix-suns/1620868/
+Regular season,NBA,2025,Dec,27,Washington Wizards,Toronto Raptors,35,38,29,36,138,32,30,38,17,117,https://www.livescore.com/en/basketball/nba/nba/washington-wizards-vs-toronto-raptors/1620370/
+Regular season,NBA,2026,Jan,16,Dallas Mavericks,Utah Jazz,35,35,42,32,144,24,26,29,43,122,https://www.livescore.com/en/basketball/nba/nba/dallas-mavericks-vs-utah-jazz/1620525/
+Regular season,NBA,2026,Feb,25,Toronto Raptors,Oklahoma City Thunder,32,19,29,27,107,25,35,38,18,116,https://www.livescore.com/en/basketball/nba/nba/toronto-raptors-vs-oklahoma-city-thunder/1620698/
+Regular season,NBA,2025,Dec,30,Toronto Raptors,Orlando Magic,18,36,30,23,107,29,36,29,12,106,https://www.livescore.com/en/basketball/nba/nba/toronto-raptors-vs-orlando-magic/1620379/
+Philippines,Governors Cup,2026,Jul,17,Blackwater Bossing,Magnolia Hotshots,19,25,21,24,89,20,18,24,19,81,https://www.livescore.com/en/basketball/philippines/governors-cup-group-b/blackwater-bossing-vs-magnolia-hotshots/1818534/
+Play-offs,NBA,2026,Jun,11,New York Knicks,San Antonio Spurs,22,27,26,32,107,41,35,14,16,106,https://www.livescore.com/en/basketball/nba/nba/new-york-knicks-vs-san-antonio-spurs/1783298/
+Regular season,NBA,2026,Mar,25,Charlotte Hornets,Sacramento Kings,34,38,41,21,134,25,22,29,14,90,https://www.livescore.com/en/basketball/nba/nba/charlotte-hornets-vs-sacramento-kings/1620935/
+Regular season,NBA,2026,Mar,22,Orlando Magic,LA Lakers,30,35,22,17,104,37,25,20,23,105,https://www.livescore.com/en/basketball/nba/nba/orlando-magic-vs-la-lakers/1620950/
+Regular season,NBA,2026,Mar,15,Oklahoma City Thunder,Minnesota Timberwolves,23,24,33,36,116,22,31,23,27,103,https://www.livescore.com/en/basketball/nba/nba/oklahoma-city-thunder-vs-minnesota-timberwolves/1620928/
+Regular season,NBA,2026,Jan,26,San Antonio Spurs,New Orleans Pelicans,28,19,21,27,95,25,31,26,22,104,https://www.livescore.com/en/basketball/nba/nba/san-antonio-spurs-vs-new-orleans-pelicans/1620537/
+Regular season,NBA,2026,Mar,8,Milwaukee Bucks,Utah Jazz,24,27,32,30,113,13,31,32,23,99,https://www.livescore.com/en/basketball/nba/nba/milwaukee-bucks-vs-utah-jazz/1620855/
+Regular season,NBA,2025,Dec,4,Milwaukee Bucks,Detroit Pistons,21,28,29,35,113,30,22,33,24,109,https://www.livescore.com/en/basketball/nba/nba/milwaukee-bucks-vs-detroit-pistons/1620214/
+Regular season,NBA,2026,Feb,3,Memphis Grizzlies,Minnesota Timberwolves,36,30,32,39,137,29,29,28,42,128,https://www.livescore.com/en/basketball/nba/nba/memphis-grizzlies-vs-minnesota-timberwolves/1620547/
+Regular season,NBA,2025,Oct,28,Dallas Mavericks,Oklahoma City Thunder,24,18,27,25,94,28,20,39,14,101,https://www.livescore.com/en/basketball/nba/nba/dallas-mavericks-vs-oklahoma-city-thunder/1620020/
+Regular season,NBA,2025,Dec,30,Charlotte Hornets,Milwaukee Bucks,26,40,23,24,113,25,38,32,28,123,https://www.livescore.com/en/basketball/nba/nba/charlotte-hornets-vs-milwaukee-bucks/1620335/
+Regular season,NBA,2026,Mar,28,Minnesota Timberwolves,Detroit Pistons,24,20,16,27,87,33,16,25,35,109,https://www.livescore.com/en/basketball/nba/nba/minnesota-timberwolves-vs-detroit-pistons/1621032/
+Regular season,NBA,2026,Jan,5,Phoenix Suns,Oklahoma City Thunder,20,22,32,34,108,26,23,24,32,105,https://www.livescore.com/en/basketball/nba/nba/phoenix-suns-vs-oklahoma-city-thunder/1620326/
+Regular season,NBA,2026,Feb,2,Denver Nuggets,Oklahoma City Thunder,26,29,30,26,111,32,30,39,20,121,https://www.livescore.com/en/basketball/nba/nba/denver-nuggets-vs-oklahoma-city-thunder/1620591/
+Regular season,NBA,2026,Apr,13,Indiana Pacers,Detroit Pistons,27,36,26,32,121,41,40,27,25,133,https://www.livescore.com/en/basketball/nba/nba/indiana-pacers-vs-detroit-pistons/1621107/
+Play-offs,NBA,2026,Apr,26,Minnesota Timberwolves,Denver Nuggets,22,28,32,30,112,23,31,24,18,96,https://www.livescore.com/en/basketball/nba/nba/minnesota-timberwolves-vs-denver-nuggets/1767771/
+Play-offs,NBA,2026,May,1,Philadelphia 76ers,Boston Celtics,20,38,24,24,106,23,26,14,30,93,https://www.livescore.com/en/basketball/nba/nba/philadelphia-76ers-vs-boston-celtics/1772172/
+Regular season,NBA,2025,Nov,30,Charlotte Hornets,Toronto Raptors,21,31,28,24,118,34,24,29,17,111,https://www.livescore.com/en/basketball/nba/nba/charlotte-hornets-vs-toronto-raptors/1620219/
+Regular season,NBA,2025,Nov,5,Atlanta Hawks,Orlando Magic,32,32,34,29,127,23,24,30,35,112,https://www.livescore.com/en/basketball/nba/nba/atlanta-hawks-vs-orlando-magic/1620082/
+Regular season,NBA,2025,Dec,21,Memphis Grizzlies,Washington Wizards,30,38,27,27,122,25,28,42,35,130,https://www.livescore.com/en/basketball/nba/nba/memphis-grizzlies-vs-washington-wizards/1620340/
+Regular season,NBA,2025,Dec,24,San Antonio Spurs,Oklahoma City Thunder,31,27,29,43,130,29,31,22,28,110,https://www.livescore.com/en/basketball/nba/nba/san-antonio-spurs-vs-oklahoma-city-thunder/1620336/
+Regular season,NBA,2026,Mar,8,Detroit Pistons,Brooklyn Nets,32,30,22,21,105,19,27,27,34,107,https://www.livescore.com/en/basketball/nba/nba/detroit-pistons-vs-brooklyn-nets/1620850/
+Regular season,NBA,2026,Mar,7,LA Lakers,Indiana Pacers,35,29,35,29,128,27,24,29,37,117,https://www.livescore.com/en/basketball/nba/nba/la-lakers-vs-indiana-pacers/1620841/
+Regular season,NBA,2025,Nov,27,Charlotte Hornets,New York Knicks,31,16,28,26,101,37,35,26,31,129,https://www.livescore.com/en/basketball/nba/nba/charlotte-hornets-vs-new-york-knicks/1618373/
+Regular season,NBA,2026,Apr,13,Portland Trail Blazers,Sacramento Kings,33,44,19,26,122,33,24,27,26,110,https://www.livescore.com/en/basketball/nba/nba/portland-trail-blazers-vs-sacramento-kings/1621106/
+Regular season,NBA,2026,Jan,4,LA Clippers,Boston Celtics,28,35,36,16,115,42,29,42,33,146,https://www.livescore.com/en/basketball/nba/nba/la-clippers-vs-boston-celtics/1620453/
+Regular season,NBA,2025,Oct,29,Miami Heat,Charlotte Hornets,37,39,29,39,144,34,26,28,29,117,https://www.livescore.com/en/basketball/nba/nba/miami-heat-vs-charlotte-hornets/1620018/
+Regular season,NBA,2026,Mar,11,Miami Heat,Washington Wizards,40,36,37,37,150,29,33,35,32,129,https://www.livescore.com/en/basketball/nba/nba/miami-heat-vs-washington-wizards/1620824/
+Regular season,NBA,2026,Mar,21,Denver Nuggets,Toronto Raptors,27,30,28,36,121,30,23,41,21,115,https://www.livescore.com/en/basketball/nba/nba/denver-nuggets-vs-toronto-raptors/1620945/
+Play-offs,NBA,2026,Apr,30,Detroit Pistons,Orlando Magic,38,28,23,27,116,26,34,19,30,109,https://www.livescore.com/en/basketball/nba/nba/detroit-pistons-vs-orlando-magic/1770070/
+Regular season,NBA,2025,Nov,26,Philadelphia 76ers,Orlando Magic,35,25,23,20,103,35,51,35,23,144,https://www.livescore.com/en/basketball/nba/nba/philadelphia-76ers-vs-orlando-magic/1618362/
+Regular season,NBA,2025,Nov,8,Washington Wizards,Cleveland Cavaliers,26,33,27,28,114,39,37,33,39,148,https://www.livescore.com/en/basketball/nba/nba/washington-wizards-vs-cleveland-cavaliers/1618343/
+Regular season,NBA,2026,Mar,28,Cleveland Cavaliers,Miami Heat,40,41,28,40,149,27,19,41,41,128,https://www.livescore.com/en/basketball/nba/nba/cleveland-cavaliers-vs-miami-heat/1621065/
+Regular season,NBA,2026,Feb,8,San Antonio Spurs,Dallas Mavericks,39,42,33,24,138,32,35,24,34,125,https://www.livescore.com/en/basketball/nba/nba/san-antonio-spurs-vs-dallas-mavericks/1620676/
+Regular season,NBA,2026,Mar,10,Oklahoma City Thunder,Denver Nuggets,37,29,30,33,129,40,20,33,33,126,https://www.livescore.com/en/basketball/nba/nba/oklahoma-city-thunder-vs-denver-nuggets/1620846/
+Regular season,NBA,2026,Jan,4,Brooklyn Nets,Denver Nuggets,33,26,41,27,127,29,23,32,31,115,https://www.livescore.com/en/basketball/nba/nba/brooklyn-nets-vs-denver-nuggets/1620459/
+Regular season,NBA,2026,Jan,5,LA Lakers,Memphis Grizzlies,26,28,29,37,120,34,31,22,27,114,https://www.livescore.com/en/basketball/nba/nba/la-lakers-vs-memphis-grizzlies/1620328/
+Regular season,NBA,2025,Dec,20,New York Knicks,Philadelphia 76ers,29,30,28,20,107,29,28,31,28,116,https://www.livescore.com/en/basketball/nba/nba/new-york-knicks-vs-philadelphia-76ers/1620321/
+Regular season,NBA,2026,Mar,26,Memphis Grizzlies,San Antonio Spurs,19,25,20,34,98,38,19,41,25,123,https://www.livescore.com/en/basketball/nba/nba/memphis-grizzlies-vs-san-antonio-spurs/1620998/
+Regular season,NBA,2026,Mar,6,Orlando Magic,Dallas Mavericks,26,34,31,24,115,33,29,26,26,114,https://www.livescore.com/en/basketball/nba/nba/orlando-magic-vs-dallas-mavericks/1620806/
+Regular season,NBA,2026,Mar,31,Miami Heat,Philadelphia 76ers,38,20,33,28,119,34,27,26,22,109,https://www.livescore.com/en/basketball/nba/nba/miami-heat-vs-philadelphia-76ers/1621007/
+Regular season,NBA,2025,Nov,13,LA Clippers,Denver Nuggets,35,33,22,26,116,39,24,43,24,130,https://www.livescore.com/en/basketball/nba/nba/la-clippers-vs-denver-nuggets/1620139/
+Regular season,NBA,2025,Dec,21,Sacramento Kings,Portland Trail Blazers,26,18,25,24,93,28,19,25,26,98,https://www.livescore.com/en/basketball/nba/nba/sacramento-kings-vs-portland-trail-blazers/1620330/
+Regular season,NBA,2026,Feb,8,Atlanta Hawks,Charlotte Hornets,35,25,30,29,119,32,28,38,28,126,https://www.livescore.com/en/basketball/nba/nba/atlanta-hawks-vs-charlotte-hornets/1620661/
+Regular season,NBA,2026,Jan,7,Washington Wizards,Orlando Magic,30,32,39,19,120,29,21,37,25,112,https://www.livescore.com/en/basketball/nba/nba/washington-wizards-vs-orlando-magic/1620356/
+Regular season,NBA,2026,Mar,30,Brooklyn Nets,Sacramento Kings,31,37,18,30,116,18,27,28,26,99,https://www.livescore.com/en/basketball/nba/nba/brooklyn-nets-vs-sacramento-kings/1621067/
+Regular season,NBA,2026,Mar,15,LA Lakers,Denver Nuggets,34,27,26,31,127,26,24,37,31,125,https://www.livescore.com/en/basketball/nba/nba/la-lakers-vs-denver-nuggets/1620926/
+Regular season,NBA,2025,Nov,25,Golden State Warriors,Utah Jazz,26,41,39,28,134,35,20,29,33,117,https://www.livescore.com/en/basketball/nba/nba/golden-state-warriors-vs-utah-jazz/1620193/
+Play-offs,NBA,2026,Apr,18,Cleveland Cavaliers,Toronto Raptors,35,26,36,29,126,31,23,22,37,113,https://www.livescore.com/en/basketball/nba/nba/cleveland-cavaliers-vs-toronto-raptors/1766882/
+Play-offs,NBA,2026,Apr,19,Oklahoma City Thunder,Phoenix Suns,35,30,32,22,119,20,24,22,18,84,https://www.livescore.com/en/basketball/nba/nba/oklahoma-city-thunder-vs-phoenix-suns/1767873/
+Regular season,NBA,2026,Feb,2,Miami Heat,Chicago Bulls,34,28,39,33,134,13,27,22,29,91,https://www.livescore.com/en/basketball/nba/nba/miami-heat-vs-chicago-bulls/1620647/
+Regular season,NBA,2026,Mar,7,Charlotte Hornets,Miami Heat,27,34,40,19,120,30,28,40,30,128,https://www.livescore.com/en/basketball/nba/nba/charlotte-hornets-vs-miami-heat/1620809/
+Regular season,NBA,2026,Apr,6,Cleveland Cavaliers,Indiana Pacers,31,24,35,27,117,32,26,33,17,108,https://www.livescore.com/en/basketball/nba/nba/cleveland-cavaliers-vs-indiana-pacers/1621046/
+Regular season,NBA,2026,Mar,13,Memphis Grizzlies,Dallas Mavericks,22,32,30,28,112,34,31,21,34,120,https://www.livescore.com/en/basketball/nba/nba/memphis-grizzlies-vs-dallas-mavericks/1621008/
+Regular season,NBA,2026,Apr,2,Miami Heat,Boston Celtics,33,24,45,27,129,53,27,32,35,147,https://www.livescore.com/en/basketball/nba/nba/miami-heat-vs-boston-celtics/1620976/
+Regular season,NBA,2025,Nov,23,Denver Nuggets,Sacramento Kings,35,30,27,31,123,30,31,30,37,128,https://www.livescore.com/en/basketball/nba/nba/denver-nuggets-vs-sacramento-kings/1620246/
+Regular season,NBA,2026,Jan,16,Miami Heat,Boston Celtics,36,28,29,21,114,25,29,29,36,119,https://www.livescore.com/en/basketball/nba/nba/miami-heat-vs-boston-celtics/1620514/
+Regular season,NBA,2026,Jan,1,Toronto Raptors,Denver Nuggets,23,31,25,24,103,32,31,22,21,106,https://www.livescore.com/en/basketball/nba/nba/toronto-raptors-vs-denver-nuggets/1620353/
+Regular season,NBA,2026,Apr,13,Philadelphia 76ers,Milwaukee Bucks,29,29,38,30,126,26,36,16,28,106,https://www.livescore.com/en/basketball/nba/nba/philadelphia-76ers-vs-milwaukee-bucks/1621108/
+Regular season,NBA,2025,Dec,6,Detroit Pistons,Portland Trail Blazers,30,35,19,38,122,28,30,27,31,116,https://www.livescore.com/en/basketball/nba/nba/detroit-pistons-vs-portland-trail-blazers/1620234/
+Regular season,NBA,2026,Feb,2,New York Knicks,LA Lakers,27,25,38,22,112,33,23,26,18,100,https://www.livescore.com/en/basketball/nba/nba/new-york-knicks-vs-la-lakers/1620586/
+Regular season,NBA,2025,Dec,5,Brooklyn Nets,Utah Jazz,29,29,32,20,110,20,29,32,42,123,https://www.livescore.com/en/basketball/nba/nba/brooklyn-nets-vs-utah-jazz/1620268/
+Regular season,NBA,2026,Mar,9,New Orleans Pelicans,Washington Wizards,32,35,35,36,138,35,30,28,25,118,https://www.livescore.com/en/basketball/nba/nba/new-orleans-pelicans-vs-washington-wizards/1620866/
+Regular season,NBA,2026,Apr,6,Dallas Mavericks,LA Lakers,41,26,40,27,134,30,31,36,31,128,https://www.livescore.com/en/basketball/nba/nba/dallas-mavericks-vs-la-lakers/1621062/
+Regular season,NBA,2026,Mar,30,Denver Nuggets,Golden State Warriors,23,23,40,30,116,28,25,21,19,93,https://www.livescore.com/en/basketball/nba/nba/denver-nuggets-vs-golden-state-warriors/1621026/
+Regular season,NBA,2025,Dec,26,Golden State Warriors,Dallas Mavericks,40,31,29,26,126,28,30,31,27,116,https://www.livescore.com/en/basketball/nba/nba/golden-state-warriors-vs-dallas-mavericks/1614293/
+Regular season,NBA,2025,Dec,31,Indiana Pacers,Orlando Magic,28,38,29,15,110,31,37,26,18,112,https://www.livescore.com/en/basketball/nba/nba/indiana-pacers-vs-orlando-magic/1620415/
+Regular season,NBA,2026,Jan,28,Utah Jazz,LA Clippers,29,25,20,29,103,18,35,36,26,115,https://www.livescore.com/en/basketball/nba/nba/utah-jazz-vs-la-clippers/1620622/
+Regular season,NBA,2025,Nov,11,Utah Jazz,Minnesota Timberwolves,30,25,25,33,113,26,27,40,27,120,https://www.livescore.com/en/basketball/nba/nba/utah-jazz-vs-minnesota-timberwolves/1620103/
+Regular season,NBA,2026,Mar,2,Dallas Mavericks,Oklahoma City Thunder,25,24,20,18,87,36,22,25,17,100,https://www.livescore.com/en/basketball/nba/nba/dallas-mavericks-vs-oklahoma-city-thunder/1620767/
+Regular season,NBA,2025,Nov,11,Phoenix Suns,New Orleans Pelicans,29,35,32,25,121,22,19,31,26,98,https://www.livescore.com/en/basketball/nba/nba/phoenix-suns-vs-new-orleans-pelicans/1620107/
+Regular season,NBA,2026,Feb,12,Denver Nuggets,Memphis Grizzlies,30,30,33,29,122,28,26,27,35,116,https://www.livescore.com/en/basketball/nba/nba/denver-nuggets-vs-memphis-grizzlies/1620756/
+Regular season,NBA,2026,Mar,12,Orlando Magic,Cleveland Cavaliers,38,24,34,32,128,35,27,27,33,122,https://www.livescore.com/en/basketball/nba/nba/orlando-magic-vs-cleveland-cavaliers/1620863/
+Regular season,NBA,2026,Apr,13,Oklahoma City Thunder,Phoenix Suns,19,33,25,26,103,37,33,34,31,135,https://www.livescore.com/en/basketball/nba/nba/oklahoma-city-thunder-vs-phoenix-suns/1621102/
+Regular season,NBA,2026,Feb,22,Atlanta Hawks,Brooklyn Nets,32,28,29,26,115,30,26,31,17,104,https://www.livescore.com/en/basketball/nba/nba/atlanta-hawks-vs-brooklyn-nets/1620729/
+Regular season,NBA,2026,Jan,16,Detroit Pistons,Phoenix Suns,23,33,33,19,108,32,31,27,15,105,https://www.livescore.com/en/basketball/nba/nba/detroit-pistons-vs-phoenix-suns/1620529/
+Regular season,NBA,2026,Mar,4,Miami Heat,Brooklyn Nets,34,35,22,33,124,28,26,21,23,98,https://www.livescore.com/en/basketball/nba/nba/miami-heat-vs-brooklyn-nets/1620761/
+Regular season,NBA,2026,Jan,22,Boston Celtics,Indiana Pacers,30,36,25,28,119,20,26,32,26,104,https://www.livescore.com/en/basketball/nba/nba/boston-celtics-vs-indiana-pacers/1620484/
+Regular season,NBA,2026,Apr,10,Houston Rockets,Philadelphia 76ers,35,38,23,17,113,26,30,17,29,102,https://www.livescore.com/en/basketball/nba/nba/houston-rockets-vs-philadelphia-76ers/1621002/
+Regular season,NBA,2025,Oct,22,Oklahoma City Thunder,Houston Rockets,27,24,24,29,125,30,27,22,25,124,https://www.livescore.com/en/basketball/nba/nba/oklahoma-city-thunder-vs-houston-rockets/1614283/
+Regular season,NBA,2025,Dec,9,Indiana Pacers,Sacramento Kings,35,31,26,24,116,23,28,37,17,105,https://www.livescore.com/en/basketball/nba/nba/indiana-pacers-vs-sacramento-kings/1620243/
+Regular season,NBA,2026,Jan,28,Phoenix Suns,Brooklyn Nets,28,32,22,24,106,29,22,24,27,102,https://www.livescore.com/en/basketball/nba/nba/phoenix-suns-vs-brooklyn-nets/1620620/
+Regular season,NBA,2026,Feb,23,Chicago Bulls,New York Knicks,27,26,25,21,99,25,27,31,22,105,https://www.livescore.com/en/basketball/nba/nba/chicago-bulls-vs-new-york-knicks/1620775/
+Regular season,NBA,2025,Dec,10,Toronto Raptors,New York Knicks,39,13,27,22,101,35,34,25,23,117,https://www.livescore.com/en/basketball/nba/nba/toronto-raptors-vs-new-york-knicks/1700440/
+Regular season,NBA,2026,Apr,13,Miami Heat,Atlanta Hawks,33,37,29,44,143,24,37,23,33,117,https://www.livescore.com/en/basketball/nba/nba/miami-heat-vs-atlanta-hawks/1621101/
+Regular season,NBA,2026,Feb,22,Oklahoma City Thunder,Cleveland Cavaliers,40,24,25,32,121,25,30,31,27,113,https://www.livescore.com/en/basketball/nba/nba/oklahoma-city-thunder-vs-cleveland-cavaliers/1620736/
+Regular season,NBA,2025,Dec,31,LA Clippers,Sacramento Kings,34,39,27,31,131,20,20,31,19,90,https://www.livescore.com/en/basketball/nba/nba/la-clippers-vs-sacramento-kings/1620390/
+Regular season,NBA,2025,Nov,27,Portland Trail Blazers,San Antonio Spurs,30,24,32,16,102,29,27,35,24,115,https://www.livescore.com/en/basketball/nba/nba/portland-trail-blazers-vs-san-antonio-spurs/1618382/
+Regular season,NBA,2025,Nov,22,Cleveland Cavaliers,Indiana Pacers,33,29,38,20,120,31,24,26,28,109,https://www.livescore.com/en/basketball/nba/nba/cleveland-cavaliers-vs-indiana-pacers/1618350/
+Regular season,NBA,2025,Nov,25,Sacramento Kings,Minnesota Timberwolves,23,23,31,24,117,27,27,28,19,112,https://www.livescore.com/en/basketball/nba/nba/sacramento-kings-vs-minnesota-timberwolves/1620185/
+Regular season,NBA,2026,Feb,23,Minnesota Timberwolves,Philadelphia 76ers,26,32,20,30,108,35,33,26,41,135,https://www.livescore.com/en/basketball/nba/nba/minnesota-timberwolves-vs-philadelphia-76ers/1620788/
+Regular season,NBA,2026,Mar,6,Sacramento Kings,New Orleans Pelicans,30,33,28,32,123,26,41,38,28,133,https://www.livescore.com/en/basketball/nba/nba/sacramento-kings-vs-new-orleans-pelicans/1620845/
+Regular season,NBA,2026,Jan,1,Chicago Bulls,New Orleans Pelicans,36,31,30,37,134,32,30,28,28,118,https://www.livescore.com/en/basketball/nba/nba/chicago-bulls-vs-new-orleans-pelicans/1620302/
+Regular season,NBA,2025,Dec,27,Indiana Pacers,Boston Celtics,39,22,30,31,122,28,47,36,29,140,https://www.livescore.com/en/basketball/nba/nba/indiana-pacers-vs-boston-celtics/1620368/
+Regular season,NBA,2025,Dec,9,New Orleans Pelicans,San Antonio Spurs,25,32,45,30,132,35,42,23,35,135,https://www.livescore.com/en/basketball/nba/nba/new-orleans-pelicans-vs-san-antonio-spurs/1620239/
+Regular season,NBA,2025,Dec,28,Atlanta Hawks,New York Knicks,27,28,34,36,125,33,35,30,30,128,https://www.livescore.com/en/basketball/nba/nba/atlanta-hawks-vs-new-york-knicks/1620407/
+Regular season,NBA,2026,Apr,3,Portland Trail Blazers,New Orleans Pelicans,35,25,28,30,118,32,33,16,25,106,https://www.livescore.com/en/basketball/nba/nba/portland-trail-blazers-vs-new-orleans-pelicans/1621018/
+Regular season,NBA,2025,Oct,23,Phoenix Suns,Sacramento Kings,19,35,36,30,120,29,42,21,24,116,https://www.livescore.com/en/basketball/nba/nba/phoenix-suns-vs-sacramento-kings/1619992/
+Regular season,NBA,2026,Mar,20,Utah Jazz,Milwaukee Bucks,30,34,30,34,128,19,25,29,23,96,https://www.livescore.com/en/basketball/nba/nba/utah-jazz-vs-milwaukee-bucks/1620894/
+Regular season,NBA,2026,Mar,14,Houston Rockets,New Orleans Pelicans,28,29,23,27,107,24,25,23,33,105,https://www.livescore.com/en/basketball/nba/nba/houston-rockets-vs-new-orleans-pelicans/1620919/
+Regular season,NBA,2026,Jan,17,Houston Rockets,Minnesota Timberwolves,29,24,28,29,110,34,21,27,23,105,https://www.livescore.com/en/basketball/nba/nba/houston-rockets-vs-minnesota-timberwolves/1620509/
+Regular season,NBA,2026,Apr,3,LA Clippers,San Antonio Spurs,25,19,34,21,99,33,35,19,31,118,https://www.livescore.com/en/basketball/nba/nba/la-clippers-vs-san-antonio-spurs/1621020/
+Regular season,NBA,2026,Apr,4,New York Knicks,Chicago Bulls,38,40,30,28,136,16,25,31,24,96,https://www.livescore.com/en/basketball/nba/nba/new-york-knicks-vs-chicago-bulls/1621058/
+Regular season,NBA,2026,Mar,26,Philadelphia 76ers,Chicago Bulls,38,33,51,35,157,26,26,32,53,137,https://www.livescore.com/en/basketball/nba/nba/philadelphia-76ers-vs-chicago-bulls/1620915/
+Regular season,NBA,2026,Mar,4,Chicago Bulls,Oklahoma City Thunder,22,32,22,32,108,26,29,32,29,116,https://www.livescore.com/en/basketball/nba/nba/chicago-bulls-vs-oklahoma-city-thunder/1620771/
+Regular season,NBA,2026,Apr,7,San Antonio Spurs,Philadelphia 76ers,29,33,30,23,115,28,27,30,17,102,https://www.livescore.com/en/basketball/nba/nba/san-antonio-spurs-vs-philadelphia-76ers/1621064/
+Regular season,NBA,2026,Feb,13,LA Lakers,Dallas Mavericks,36,28,32,28,124,31,32,19,22,104,https://www.livescore.com/en/basketball/nba/nba/la-lakers-vs-dallas-mavericks/1620769/
+Regular season,NBA,2026,Feb,22,San Antonio Spurs,Sacramento Kings,35,38,32,34,139,31,34,29,28,122,https://www.livescore.com/en/basketball/nba/nba/san-antonio-spurs-vs-sacramento-kings/1620719/
+Regular season,NBA,2025,Oct,27,Sacramento Kings,LA Lakers,27,35,28,30,120,36,26,33,32,127,https://www.livescore.com/en/basketball/nba/nba/sacramento-kings-vs-la-lakers/1620007/
+Regular season,NBA,2026,Mar,24,Miami Heat,San Antonio Spurs,31,27,23,30,111,38,38,32,28,136,https://www.livescore.com/en/basketball/nba/nba/miami-heat-vs-san-antonio-spurs/1620903/
+Regular season,NBA,2025,Nov,22,Utah Jazz,Oklahoma City Thunder,44,24,20,24,112,30,37,43,34,144,https://www.livescore.com/en/basketball/nba/nba/utah-jazz-vs-oklahoma-city-thunder/1618367/
+Regular season,NBA,2026,Apr,8,Boston Celtics,Charlotte Hornets,20,35,35,23,113,31,30,26,15,102,https://www.livescore.com/en/basketball/nba/nba/boston-celtics-vs-charlotte-hornets/1621073/
+Regular season,NBA,2026,Jan,29,Dallas Mavericks,Minnesota Timberwolves,29,19,27,30,105,31,27,34,26,118,https://www.livescore.com/en/basketball/nba/nba/dallas-mavericks-vs-minnesota-timberwolves/1620638/
+Play-offs,NBA,2026,May,8,Detroit Pistons,Cleveland Cavaliers,25,29,25,28,107,18,25,32,22,97,https://www.livescore.com/en/basketball/nba/nba/detroit-pistons-vs-cleveland-cavaliers/1773911/
+Play-offs,NBA,2026,Apr,15,Phoenix Suns,Portland Trail Blazers,33,29,20,28,110,31,34,18,31,114,https://www.livescore.com/en/basketball/nba/nba/phoenix-suns-vs-portland-trail-blazers/1766884/
+Regular season,NBA,2025,Nov,15,New York Knicks,Miami Heat,32,46,32,30,140,35,33,36,28,132,https://www.livescore.com/en/basketball/nba/nba/new-york-knicks-vs-miami-heat/1618354/
+Play-offs,NBA,2026,Apr,26,Atlanta Hawks,New York Knicks,20,24,21,33,98,27,31,28,28,114,https://www.livescore.com/en/basketball/nba/nba/atlanta-hawks-vs-new-york-knicks/1767774/
+Regular season,NBA,2026,Jan,6,Oklahoma City Thunder,Charlotte Hornets,33,17,21,26,97,33,34,32,25,124,https://www.livescore.com/en/basketball/nba/nba/oklahoma-city-thunder-vs-charlotte-hornets/1620443/
+Regular season,NBA,2026,Feb,23,Indiana Pacers,Dallas Mavericks,33,33,29,35,130,36,35,32,31,134,https://www.livescore.com/en/basketball/nba/nba/indiana-pacers-vs-dallas-mavericks/1620748/
+Regular season,NBA,2025,Dec,6,Houston Rockets,Phoenix Suns,24,44,29,20,117,31,27,14,26,98,https://www.livescore.com/en/basketball/nba/nba/houston-rockets-vs-phoenix-suns/1620227/
+Regular season,NBA,2025,Dec,15,Brooklyn Nets,Milwaukee Bucks,37,28,34,28,127,25,23,23,11,82,https://www.livescore.com/en/basketball/nba/nba/brooklyn-nets-vs-milwaukee-bucks/1700337/
+Regular season,NBA,2026,Jan,24,Memphis Grizzlies,New Orleans Pelicans,30,35,36,26,127,30,30,33,40,133,https://www.livescore.com/en/basketball/nba/nba/memphis-grizzlies-vs-new-orleans-pelicans/1620571/
+Regular season,NBA,2025,Nov,26,LA Lakers,LA Clippers,37,32,29,37,135,38,28,27,25,118,https://www.livescore.com/en/basketball/nba/nba/la-lakers-vs-la-clippers/1618377/
+Play-offs,NBA,2026,May,21,Oklahoma City Thunder,San Antonio Spurs,31,31,34,26,122,31,20,37,25,113,https://www.livescore.com/en/basketball/nba/nba/oklahoma-city-thunder-vs-san-antonio-spurs/1778004/
+Regular season,NBA,2026,Jan,9,Charlotte Hornets,Indiana Pacers,30,28,29,25,112,33,27,30,24,114,https://www.livescore.com/en/basketball/nba/nba/charlotte-hornets-vs-indiana-pacers/1620419/
+Regular season,NBA,2025,Nov,11,Charlotte Hornets,LA Lakers,40,23,15,33,111,36,29,31,25,121,https://www.livescore.com/en/basketball/nba/nba/charlotte-hornets-vs-la-lakers/1620104/
+Regular season,NBA,2026,Apr,3,Golden State Warriors,Cleveland Cavaliers,26,21,33,31,111,30,24,30,34,118,https://www.livescore.com/en/basketball/nba/nba/golden-state-warriors-vs-cleveland-cavaliers/1621012/
+Regular season,NBA,2026,Feb,1,Houston Rockets,Dallas Mavericks,31,28,28,24,111,28,23,31,25,107,https://www.livescore.com/en/basketball/nba/nba/houston-rockets-vs-dallas-mavericks/1620644/
+Regular season,NBA,2026,Jan,3,LA Lakers,Memphis Grizzlies,39,27,30,32,128,31,29,36,25,121,https://www.livescore.com/en/basketball/nba/nba/la-lakers-vs-memphis-grizzlies/1620426/
+Regular season,NBA,2025,Dec,23,Oklahoma City Thunder,Memphis Grizzlies,31,36,17,35,119,28,26,19,30,103,https://www.livescore.com/en/basketball/nba/nba/oklahoma-city-thunder-vs-memphis-grizzlies/1620290/
+Play-offs,NBA,2026,May,6,Detroit Pistons,Cleveland Cavaliers,37,22,24,28,111,21,25,30,25,101,https://www.livescore.com/en/basketball/nba/nba/detroit-pistons-vs-cleveland-cavaliers/1773913/
+Play-offs,NBA,2026,May,9,Cleveland Cavaliers,Detroit Pistons,32,32,19,33,116,30,18,33,28,109,https://www.livescore.com/en/basketball/nba/nba/cleveland-cavaliers-vs-detroit-pistons/1773914/
+Regular season,NBA,2026,Jan,18,San Antonio Spurs,Minnesota Timberwolves,21,48,27,30,126,22,22,40,39,123,https://www.livescore.com/en/basketball/nba/nba/san-antonio-spurs-vs-minnesota-timberwolves/1620500/
+Regular season,NBA,2025,Oct,23,Orlando Magic,Miami Heat,38,31,21,35,125,39,26,26,30,121,https://www.livescore.com/en/basketball/nba/nba/orlando-magic-vs-miami-heat/1620015/
+Regular season,NBA,2025,Dec,19,Brooklyn Nets,Miami Heat,27,22,24,22,95,30,24,23,29,106,https://www.livescore.com/en/basketball/nba/nba/brooklyn-nets-vs-miami-heat/1620295/
+Regular season,NBA,2026,Apr,9,Denver Nuggets,Memphis Grizzlies,37,31,39,29,136,33,39,22,25,119,https://www.livescore.com/en/basketball/nba/nba/denver-nuggets-vs-memphis-grizzlies/1621082/
+Regular season,NBA,2025,Dec,18,Minnesota Timberwolves,Memphis Grizzlies,27,35,21,27,110,29,32,27,28,116,https://www.livescore.com/en/basketball/nba/nba/minnesota-timberwolves-vs-memphis-grizzlies/1620297/
+Regular season,NBA,2026,Mar,20,New Orleans Pelicans,LA Clippers,28,27,32,18,105,26,26,32,15,99,https://www.livescore.com/en/basketball/nba/nba/new-orleans-pelicans-vs-la-clippers/1620888/
+Play-offs,NBA,2026,May,13,San Antonio Spurs,Minnesota Timberwolves,34,25,32,35,126,30,17,26,24,97,https://www.livescore.com/en/basketball/nba/nba/san-antonio-spurs-vs-minnesota-timberwolves/1774869/
+Regular season,NBA,2026,Jan,19,Sacramento Kings,Portland Trail Blazers,32,21,29,28,110,32,32,29,24,117,https://www.livescore.com/en/basketball/nba/nba/sacramento-kings-vs-portland-trail-blazers/1620468/
+Regular season,NBA,2026,Feb,4,Golden State Warriors,Philadelphia 76ers,32,23,16,23,94,31,27,26,29,113,https://www.livescore.com/en/basketball/nba/nba/golden-state-warriors-vs-philadelphia-76ers/1620555/
+Regular season,NBA,2025,Nov,10,Philadelphia 76ers,Detroit Pistons,32,32,21,23,108,37,17,34,23,111,https://www.livescore.com/en/basketball/nba/nba/philadelphia-76ers-vs-detroit-pistons/1620089/
+Regular season,NBA,2025,Oct,30,Detroit Pistons,Orlando Magic,29,36,36,34,135,36,28,28,24,116,https://www.livescore.com/en/basketball/nba/nba/detroit-pistons-vs-orlando-magic/1620001/
+Regular season,NBA,2026,Mar,30,Oklahoma City Thunder,New York Knicks,26,27,31,27,111,23,29,26,22,100,https://www.livescore.com/en/basketball/nba/nba/oklahoma-city-thunder-vs-new-york-knicks/1621077/
+Regular season,NBA,2026,Feb,27,Orlando Magic,Houston Rockets,29,24,27,28,108,22,21,38,32,113,https://www.livescore.com/en/basketball/nba/nba/orlando-magic-vs-houston-rockets/1620796/
+Regular season,NBA,2026,Jan,31,Utah Jazz,Brooklyn Nets,26,26,29,18,99,27,27,29,26,109,https://www.livescore.com/en/basketball/nba/nba/utah-jazz-vs-brooklyn-nets/1620628/
+Regular season,NBA,2026,Jan,4,Chicago Bulls,Charlotte Hornets,39,19,17,24,99,27,23,32,30,112,https://www.livescore.com/en/basketball/nba/nba/chicago-bulls-vs-charlotte-hornets/1620451/
+Regular season,NBA,2026,Feb,11,New York Knicks,Indiana Pacers,33,36,24,31,134,32,31,31,30,137,https://www.livescore.com/en/basketball/nba/nba/new-york-knicks-vs-indiana-pacers/1620763/
+Regular season,NBA,2025,Dec,31,Utah Jazz,Boston Celtics,38,26,32,23,119,31,28,40,30,129,https://www.livescore.com/en/basketball/nba/nba/utah-jazz-vs-boston-celtics/1620359/
+Regular season,NBA,2026,Jan,19,Denver Nuggets,Charlotte Hornets,18,16,23,30,87,33,27,27,23,110,https://www.livescore.com/en/basketball/nba/nba/denver-nuggets-vs-charlotte-hornets/1620474/
+Regular season,NBA,2025,Dec,6,Boston Celtics,LA Lakers,39,30,28,29,126,17,29,36,23,105,https://www.livescore.com/en/basketball/nba/nba/boston-celtics-vs-la-lakers/1620226/
+Regular season,NBA,2026,Jan,27,Chicago Bulls,LA Lakers,31,25,33,29,118,35,34,35,25,129,https://www.livescore.com/en/basketball/nba/nba/chicago-bulls-vs-la-lakers/1620599/
+Regular season,NBA,2025,Nov,15,Houston Rockets,Portland Trail Blazers,41,28,36,35,140,32,28,31,25,116,https://www.livescore.com/en/basketball/nba/nba/houston-rockets-vs-portland-trail-blazers/1618355/
+Regular season,NBA,2025,Nov,9,Milwaukee Bucks,Houston Rockets,30,31,24,30,115,28,22,32,40,122,https://www.livescore.com/en/basketball/nba/nba/milwaukee-bucks-vs-houston-rockets/1620098/
+Regular season,NBA,2025,Dec,27,New Orleans Pelicans,Phoenix Suns,23,25,32,28,108,26,27,28,34,115,https://www.livescore.com/en/basketball/nba/nba/new-orleans-pelicans-vs-phoenix-suns/1620380/
+Regular season,NBA,2025,Dec,21,Detroit Pistons,Charlotte Hornets,33,22,24,33,112,27,18,27,14,86,https://www.livescore.com/en/basketball/nba/nba/detroit-pistons-vs-charlotte-hornets/1620367/
+Regular season,NBA,2026,Jan,27,Cleveland Cavaliers,Orlando Magic,22,39,30,23,114,32,24,25,17,98,https://www.livescore.com/en/basketball/nba/nba/cleveland-cavaliers-vs-orlando-magic/1620602/
+Regular season,NBA,2026,Feb,21,New Orleans Pelicans,Milwaukee Bucks,38,27,31,22,118,33,38,32,36,139,https://www.livescore.com/en/basketball/nba/nba/new-orleans-pelicans-vs-milwaukee-bucks/1620793/
+Regular season,NBA,2026,Jan,12,Oklahoma City Thunder,Miami Heat,32,22,39,31,124,34,25,26,27,112,https://www.livescore.com/en/basketball/nba/nba/oklahoma-city-thunder-vs-miami-heat/1620485/
+Regular season,NBA,2025,Nov,13,San Antonio Spurs,Golden State Warriors,28,28,28,36,120,14,35,43,33,125,https://www.livescore.com/en/basketball/nba/nba/san-antonio-spurs-vs-golden-state-warriors/1620150/
+Regular season,NBA,2025,Dec,9,Minnesota Timberwolves,Phoenix Suns,23,34,27,21,105,29,32,23,24,108,https://www.livescore.com/en/basketball/nba/nba/minnesota-timberwolves-vs-phoenix-suns/1620254/
+Play-offs,NBA,2026,May,12,Cleveland Cavaliers,Detroit Pistons,21,31,38,22,112,24,32,21,26,103,https://www.livescore.com/en/basketball/nba/nba/cleveland-cavaliers-vs-detroit-pistons/1773912/
+Play-offs,NBA,2026,Apr,21,New York Knicks,Atlanta Hawks,32,29,30,15,106,23,31,25,28,107,https://www.livescore.com/en/basketball/nba/nba/new-york-knicks-vs-atlanta-hawks/1767772/
+Regular season,NBA,2026,Apr,11,Chicago Bulls,Orlando Magic,26,27,26,24,103,28,36,35,28,127,https://www.livescore.com/en/basketball/nba/nba/chicago-bulls-vs-orlando-magic/1621013/
+Play-offs,NBA,2026,May,2,Toronto Raptors,Cleveland Cavaliers,32,29,31,12,112,32,19,30,23,110,https://www.livescore.com/en/basketball/nba/nba/toronto-raptors-vs-cleveland-cavaliers/1771353/
+Regular season,NBA,2026,Jan,25,Orlando Magic,Cleveland Cavaliers,23,25,22,35,105,25,30,27,37,119,https://www.livescore.com/en/basketball/nba/nba/orlando-magic-vs-cleveland-cavaliers/1620604/
+Regular season,NBA,2025,Dec,19,Milwaukee Bucks,Toronto Raptors,25,28,23,29,105,31,26,26,28,111,https://www.livescore.com/en/basketball/nba/nba/milwaukee-bucks-vs-toronto-raptors/1620293/
+Regular season,NBA,2025,Dec,15,Phoenix Suns,LA Lakers,36,26,15,37,114,31,31,24,30,116,https://www.livescore.com/en/basketball/nba/nba/phoenix-suns-vs-la-lakers/1705025/
+Regular season,NBA,2025,Nov,1,Philadelphia 76ers,Boston Celtics,25,32,25,26,108,38,30,21,20,109,https://www.livescore.com/en/basketball/nba/nba/philadelphia-76ers-vs-boston-celtics/1618330/
+Regular season,NBA,2025,Oct,31,San Antonio Spurs,Miami Heat,33,26,28,20,107,31,27,14,29,101,https://www.livescore.com/en/basketball/nba/nba/san-antonio-spurs-vs-miami-heat/1620066/
+Regular season,NBA,2025,Oct,27,Dallas Mavericks,Toronto Raptors,32,32,39,36,139,32,34,25,38,129,https://www.livescore.com/en/basketball/nba/nba/dallas-mavericks-vs-toronto-raptors/1620032/
+Regular season,NBA,2025,Dec,13,Dallas Mavericks,Brooklyn Nets,32,33,25,29,119,33,28,31,19,111,https://www.livescore.com/en/basketball/nba/nba/dallas-mavericks-vs-brooklyn-nets/1700323/
+Play-offs,NBA,2026,Apr,21,Cleveland Cavaliers,Toronto Raptors,26,28,30,31,115,19,29,29,28,105,https://www.livescore.com/en/basketball/nba/nba/cleveland-cavaliers-vs-toronto-raptors/1767766/
+Regular season,NBA,2026,Mar,26,Portland Trail Blazers,Milwaukee Bucks,42,29,33,26,130,27,22,32,18,99,https://www.livescore.com/en/basketball/nba/nba/portland-trail-blazers-vs-milwaukee-bucks/1620961/
+Regular season,NBA,2026,Jan,25,Detroit Pistons,Sacramento Kings,35,43,35,26,139,35,30,28,23,116,https://www.livescore.com/en/basketball/nba/nba/detroit-pistons-vs-sacramento-kings/1620608/
+Regular season,NBA,2026,Feb,20,New York Knicks,Detroit Pistons,26,22,31,32,111,28,30,32,36,126,https://www.livescore.com/en/basketball/nba/nba/new-york-knicks-vs-detroit-pistons/1620683/
+Regular season,NBA,2025,Nov,1,Indiana Pacers,Atlanta Hawks,29,30,17,32,108,32,31,34,31,128,https://www.livescore.com/en/basketball/nba/nba/indiana-pacers-vs-atlanta-hawks/1618328/
+Regular season,NBA,2025,Dec,24,Indiana Pacers,Milwaukee Bucks,20,24,24,26,94,26,33,27,25,111,https://www.livescore.com/en/basketball/nba/nba/indiana-pacers-vs-milwaukee-bucks/1620288/
+Regular season,NBA,2025,Oct,28,Utah Jazz,Phoenix Suns,39,25,30,30,138,27,34,25,38,134,https://www.livescore.com/en/basketball/nba/nba/utah-jazz-vs-phoenix-suns/1620012/
+Regular season,NBA,2025,Nov,12,New York Knicks,Memphis Grizzlies,42,35,37,19,133,30,24,39,27,120,https://www.livescore.com/en/basketball/nba/nba/new-york-knicks-vs-memphis-grizzlies/1620048/
+Regular season,NBA,2026,Jan,18,Atlanta Hawks,Boston Celtics,23,28,23,32,106,30,52,35,15,132,https://www.livescore.com/en/basketball/nba/nba/atlanta-hawks-vs-boston-celtics/1620502/
+Regular season,NBA,2025,Dec,22,Minnesota Timberwolves,Milwaukee Bucks,23,25,27,28,103,29,31,15,25,100,https://www.livescore.com/en/basketball/nba/nba/minnesota-timberwolves-vs-milwaukee-bucks/1620311/
+Regular season,NBA,2026,Jan,23,LA Clippers,LA Lakers,36,28,22,26,112,29,18,25,32,104,https://www.livescore.com/en/basketball/nba/nba/la-clippers-vs-la-lakers/1620491/
+Regular season,NBA,2025,Oct,22,LA Lakers,Golden State Warriors,22,32,25,30,109,28,27,35,29,119,https://www.livescore.com/en/basketball/nba/nba/la-lakers-vs-golden-state-warriors/1614284/
+Regular season,NBA,2025,Nov,29,New York Knicks,Milwaukee Bucks,33,28,31,26,118,37,25,26,21,109,https://www.livescore.com/en/basketball/nba/nba/new-york-knicks-vs-milwaukee-bucks/1618366/
+Regular season,NBA,2026,Jan,19,Chicago Bulls,Brooklyn Nets,39,31,25,29,124,22,29,20,31,102,https://www.livescore.com/en/basketball/nba/nba/chicago-bulls-vs-brooklyn-nets/1620461/
+Regular season,NBA,2026,Mar,5,Memphis Grizzlies,Portland Trail Blazers,28,31,30,25,114,32,27,34,29,122,https://www.livescore.com/en/basketball/nba/nba/memphis-grizzlies-vs-portland-trail-blazers/1620812/
+Regular season,NBA,2025,Nov,13,New Orleans Pelicans,Portland Trail Blazers,25,34,26,32,117,30,27,38,30,125,https://www.livescore.com/en/basketball/nba/nba/new-orleans-pelicans-vs-portland-trail-blazers/1620140/
+Regular season,NBA,2025,Oct,23,Boston Celtics,Philadelphia 76ers,28,23,35,30,116,26,31,18,42,117,https://www.livescore.com/en/basketball/nba/nba/boston-celtics-vs-philadelphia-76ers/1620010/
+Regular season,NBA,2026,Feb,10,Charlotte Hornets,Detroit Pistons,33,24,21,26,104,29,32,27,22,110,https://www.livescore.com/en/basketball/nba/nba/charlotte-hornets-vs-detroit-pistons/1620588/
+Regular season,NBA,2026,Apr,4,Denver Nuggets,San Antonio Spurs,36,29,27,32,136,43,29,24,28,134,https://www.livescore.com/en/basketball/nba/nba/denver-nuggets-vs-san-antonio-spurs/1621092/
+Regular season,NBA,2025,Oct,23,New York Knicks,Cleveland Cavaliers,33,32,22,32,119,23,27,37,24,111,https://www.livescore.com/en/basketball/nba/nba/new-york-knicks-vs-cleveland-cavaliers/1614282/
+Regular season,NBA,2025,Nov,18,Toronto Raptors,Charlotte Hornets,28,29,28,25,110,24,28,31,25,108,https://www.livescore.com/en/basketball/nba/nba/toronto-raptors-vs-charlotte-hornets/1620138/
+Play-offs,NBA,2026,May,9,Philadelphia 76ers,New York Knicks,31,21,24,18,94,27,33,25,23,108,https://www.livescore.com/en/basketball/nba/nba/philadelphia-76ers-vs-new-york-knicks/1773560/
+Regular season,NBA,2026,Jan,14,Oklahoma City Thunder,San Antonio Spurs,32,23,40,24,119,26,26,24,22,98,https://www.livescore.com/en/basketball/nba/nba/oklahoma-city-thunder-vs-san-antonio-spurs/1620516/
+Regular season,NBA,2026,Feb,24,Detroit Pistons,San Antonio Spurs,27,28,20,28,103,24,33,26,31,114,https://www.livescore.com/en/basketball/nba/nba/detroit-pistons-vs-san-antonio-spurs/1620711/
+Regular season,NBA,2026,Jan,20,New York Knicks,Dallas Mavericks,22,25,24,26,97,31,44,19,20,114,https://www.livescore.com/en/basketball/nba/nba/new-york-knicks-vs-dallas-mavericks/1614298/
+Regular season,NBA,2026,Jan,24,Atlanta Hawks,Phoenix Suns,27,37,20,26,110,31,28,32,12,103,https://www.livescore.com/en/basketball/nba/nba/atlanta-hawks-vs-phoenix-suns/1620568/
+Regular season,NBA,2026,Mar,25,New York Knicks,New Orleans Pelicans,42,24,27,28,121,28,32,32,24,116,https://www.livescore.com/en/basketball/nba/nba/new-york-knicks-vs-new-orleans-pelicans/1620939/
+Regular season,NBA,2026,Feb,3,LA Clippers,Philadelphia 76ers,19,34,34,26,113,38,34,28,28,128,https://www.livescore.com/en/basketball/nba/nba/la-clippers-vs-philadelphia-76ers/1620549/
+Regular season,NBA,2026,Feb,7,Oklahoma City Thunder,Houston Rockets,28,24,22,32,106,28,18,34,32,112,https://www.livescore.com/en/basketball/nba/nba/oklahoma-city-thunder-vs-houston-rockets/1620674/
+Regular season,NBA,2026,Apr,5,Brooklyn Nets,Washington Wizards,35,24,26,36,121,23,31,30,31,115,https://www.livescore.com/en/basketball/nba/nba/brooklyn-nets-vs-washington-wizards/1621023/
+Regular season,NBA,2026,Apr,13,Cleveland Cavaliers,Washington Wizards,43,22,34,31,130,21,34,40,22,117,https://www.livescore.com/en/basketball/nba/nba/cleveland-cavaliers-vs-washington-wizards/1621103/
+Regular season,NBA,2025,Nov,3,New York Knicks,Chicago Bulls,34,34,37,23,128,24,36,29,27,116,https://www.livescore.com/en/basketball/nba/nba/new-york-knicks-vs-chicago-bulls/1620036/
+Regular season,NBA,2026,Feb,11,Houston Rockets,LA Clippers,27,24,27,24,102,26,26,20,23,95,https://www.livescore.com/en/basketball/nba/nba/houston-rockets-vs-la-clippers/1620703/
+Regular season,NBA,2026,Feb,20,Washington Wizards,Indiana Pacers,26,33,29,24,112,24,23,33,25,105,https://www.livescore.com/en/basketball/nba/nba/washington-wizards-vs-indiana-pacers/1620693/
+Regular season,NBA,2025,Nov,23,Philadelphia 76ers,Miami Heat,27,40,26,24,117,37,34,28,28,127,https://www.livescore.com/en/basketball/nba/nba/philadelphia-76ers-vs-miami-heat/1620251/
+Regular season,NBA,2026,Mar,21,Brooklyn Nets,New York Knicks,22,28,15,27,92,14,30,31,18,93,https://www.livescore.com/en/basketball/nba/nba/brooklyn-nets-vs-new-york-knicks/1620904/
+Regular season,NBA,2026,Mar,31,Memphis Grizzlies,Phoenix Suns,31,30,28,16,105,34,31,26,40,131,https://www.livescore.com/en/basketball/nba/nba/memphis-grizzlies-vs-phoenix-suns/1620983/
+Regular season,NBA,2025,Dec,27,Utah Jazz,Detroit Pistons,33,34,44,20,131,36,32,35,26,129,https://www.livescore.com/en/basketball/nba/nba/utah-jazz-vs-detroit-pistons/1620393/
+Regular season,NBA,2026,Mar,14,Philadelphia 76ers,Brooklyn Nets,29,24,24,27,104,16,15,25,41,97,https://www.livescore.com/en/basketball/nba/nba/philadelphia-76ers-vs-brooklyn-nets/1620920/
+Regular season,NBA,2026,Jan,22,New Orleans Pelicans,Detroit Pistons,30,32,22,20,104,34,34,21,23,112,https://www.livescore.com/en/basketball/nba/nba/new-orleans-pelicans-vs-detroit-pistons/1620501/
+Regular season,NBA,2025,Nov,13,Detroit Pistons,Chicago Bulls,35,32,28,29,124,23,29,27,34,113,https://www.livescore.com/en/basketball/nba/nba/detroit-pistons-vs-chicago-bulls/1620122/
+Regular season,NBA,2025,Oct,30,Minnesota Timberwolves,LA Lakers,34,24,28,29,115,32,30,35,19,116,https://www.livescore.com/en/basketball/nba/nba/minnesota-timberwolves-vs-la-lakers/1620059/
+Regular season,NBA,2025,Dec,21,Golden State Warriors,Phoenix Suns,32,32,29,26,119,44,23,20,29,116,https://www.livescore.com/en/basketball/nba/nba/golden-state-warriors-vs-phoenix-suns/1620331/
+Regular season,NBA,2025,Nov,27,Miami Heat,Milwaukee Bucks,29,24,28,25,106,27,20,30,26,103,https://www.livescore.com/en/basketball/nba/nba/miami-heat-vs-milwaukee-bucks/1618374/
+Regular season,NBA,2025,Nov,18,Minnesota Timberwolves,Dallas Mavericks,34,27,37,22,120,21,23,22,30,96,https://www.livescore.com/en/basketball/nba/nba/minnesota-timberwolves-vs-dallas-mavericks/1620147/
+Regular season,NBA,2025,Nov,13,Houston Rockets,Washington Wizards,38,43,22,32,135,29,25,33,25,112,https://www.livescore.com/en/basketball/nba/nba/houston-rockets-vs-washington-wizards/1620157/
+Regular season,NBA,2025,Dec,23,New Orleans Pelicans,Dallas Mavericks,36,21,22,40,119,34,29,24,26,113,https://www.livescore.com/en/basketball/nba/nba/new-orleans-pelicans-vs-dallas-mavericks/1620291/
+Regular season,NBA,2026,Mar,5,Philadelphia 76ers,Utah Jazz,29,24,29,24,106,22,26,35,19,102,https://www.livescore.com/en/basketball/nba/nba/philadelphia-76ers-vs-utah-jazz/1620805/
+Regular season,NBA,2026,Jan,12,Denver Nuggets,Milwaukee Bucks,27,35,23,23,108,23,29,22,30,104,https://www.livescore.com/en/basketball/nba/nba/denver-nuggets-vs-milwaukee-bucks/1620489/
+Regular season,NBA,2026,Jan,24,Detroit Pistons,Houston Rockets,20,32,20,32,104,28,24,34,25,111,https://www.livescore.com/en/basketball/nba/nba/detroit-pistons-vs-houston-rockets/1620565/
+Philippines,Governors Cup,2026,Jul,11,Blackwater Bossing,Rain or Shine Elasto Painters,36,36,36,23,131,25,31,25,27,108,https://www.livescore.com/en/basketball/philippines/governors-cup-group-b/blackwater-bossing-vs-rain-or-shine-elasto-painters/1818533/
+Regular season,NBA,2026,Jan,15,Orlando Magic,Memphis Grizzlies,23,35,26,34,118,39,28,12,32,111,https://www.livescore.com/en/basketball/nba/nba/orlando-magic-vs-memphis-grizzlies/1620541/
+Regular season,NBA,2026,Feb,12,Houston Rockets,LA Clippers,29,27,20,26,102,22,24,24,35,105,https://www.livescore.com/en/basketball/nba/nba/houston-rockets-vs-la-clippers/1620738/
+Regular season,NBA,2026,Feb,10,Minnesota Timberwolves,Atlanta Hawks,41,40,25,32,138,34,22,31,29,116,https://www.livescore.com/en/basketball/nba/nba/minnesota-timberwolves-vs-atlanta-hawks/1620589/
+Play-offs,NBA,2026,Apr,28,Phoenix Suns,AGG,33,34,31,24,122,37,38,31,25,131,https://www.livescore.com/en/basketball/nba/nba/phoenix-suns-vs-oklahoma-city-thunder/1768476/
+Regular season,NBA,2026,Mar,26,Golden State Warriors,Brooklyn Nets,25,25,27,32,109,30,28,28,20,106,https://www.livescore.com/en/basketball/nba/nba/golden-state-warriors-vs-brooklyn-nets/1620960/
+Regular season,NBA,2025,Oct,23,Portland Trail Blazers,Minnesota Timberwolves,35,26,34,19,114,33,24,31,30,118,https://www.livescore.com/en/basketball/nba/nba/portland-trail-blazers-vs-minnesota-timberwolves/1619999/
+Philippines,Governors Cup,2026,Jul,11,Phoenix Fuel Masters,Magnolia Hotshots,26,23,30,19,98,32,21,18,15,86,https://www.livescore.com/en/basketball/philippines/governors-cup-group-b/phoenix-fuel-masters-vs-magnolia-hotshots/1818537/
+Regular season,NBA,2025,Dec,24,Portland Trail Blazers,Orlando Magic,21,29,30,26,106,25,38,26,21,110,https://www.livescore.com/en/basketball/nba/nba/portland-trail-blazers-vs-orlando-magic/1620284/
+Regular season,NBA,2026,Mar,7,San Antonio Spurs,LA Clippers,25,21,35,35,116,32,34,26,20,112,https://www.livescore.com/en/basketball/nba/nba/san-antonio-spurs-vs-la-clippers/1620837/
+Regular season,NBA,2026,Mar,24,Philadelphia 76ers,Oklahoma City Thunder,25,18,36,24,103,35,30,32,26,123,https://www.livescore.com/en/basketball/nba/nba/philadelphia-76ers-vs-oklahoma-city-thunder/1620897/
+Regular season,NBA,2025,Nov,4,Memphis Grizzlies,Detroit Pistons,25,23,26,32,106,32,26,25,31,114,https://www.livescore.com/en/basketball/nba/nba/memphis-grizzlies-vs-detroit-pistons/1620034/
+Regular season,NBA,2026,Feb,20,Charlotte Hornets,Houston Rockets,33,19,26,23,101,24,29,27,25,105,https://www.livescore.com/en/basketball/nba/nba/charlotte-hornets-vs-houston-rockets/1620690/
+Regular season,NBA,2026,Feb,12,Orlando Magic,Milwaukee Bucks,24,27,32,25,108,20,32,36,28,116,https://www.livescore.com/en/basketball/nba/nba/orlando-magic-vs-milwaukee-bucks/1620706/
+Regular season,NBA,2026,Mar,13,Detroit Pistons,Philadelphia 76ers,36,33,35,27,131,27,33,21,28,109,https://www.livescore.com/en/basketball/nba/nba/detroit-pistons-vs-philadelphia-76ers/1620777/
+Regular season,NBA,2026,Feb,2,Phoenix Suns,LA Clippers,20,23,28,22,93,24,25,36,32,117,https://www.livescore.com/en/basketball/nba/nba/phoenix-suns-vs-la-clippers/1620559/
+Regular season,NBA,2026,Jan,24,Milwaukee Bucks,Denver Nuggets,21,21,21,37,100,21,27,30,24,102,https://www.livescore.com/en/basketball/nba/nba/milwaukee-bucks-vs-denver-nuggets/1620569/
+Regular season,NBA,2026,Apr,4,Philadelphia 76ers,Minnesota Timberwolves,19,22,42,32,115,17,30,24,32,103,https://www.livescore.com/en/basketball/nba/nba/philadelphia-76ers-vs-minnesota-timberwolves/1621031/
+Regular season,NBA,2025,Nov,18,Philadelphia 76ers,LA Clippers,25,21,27,37,110,33,23,27,25,108,https://www.livescore.com/en/basketball/nba/nba/philadelphia-76ers-vs-la-clippers/1620132/
+Regular season,NBA,2026,Jan,14,New Orleans Pelicans,Denver Nuggets,31,34,27,24,116,32,28,29,33,122,https://www.livescore.com/en/basketball/nba/nba/new-orleans-pelicans-vs-denver-nuggets/1620507/
+Regular season,NBA,2026,Feb,20,Cleveland Cavaliers,Brooklyn Nets,34,36,32,10,112,16,32,19,17,84,https://www.livescore.com/en/basketball/nba/nba/cleveland-cavaliers-vs-brooklyn-nets/1620680/
+Regular season,NBA,2026,Apr,2,Orlando Magic,Atlanta Hawks,28,26,22,25,101,25,47,30,28,130,https://www.livescore.com/en/basketball/nba/nba/orlando-magic-vs-atlanta-hawks/1620977/
+Regular season,NBA,2026,Feb,28,Boston Celtics,Brooklyn Nets,35,31,43,39,148,32,25,26,28,111,https://www.livescore.com/en/basketball/nba/nba/boston-celtics-vs-brooklyn-nets/1620725/
+Regular season,NBA,2026,Jan,3,Phoenix Suns,Sacramento Kings,32,30,35,32,129,29,27,27,19,102,https://www.livescore.com/en/basketball/nba/nba/phoenix-suns-vs-sacramento-kings/1620418/
+Regular season,NBA,2025,Dec,16,LA Clippers,Memphis Grizzlies,27,21,28,27,103,25,31,34,31,121,https://www.livescore.com/en/basketball/nba/nba/la-clippers-vs-memphis-grizzlies/1700327/
+Regular season,NBA,2025,Dec,1,Sacramento Kings,Memphis Grizzlies,35,24,28,20,107,31,31,21,32,115,https://www.livescore.com/en/basketball/nba/nba/sacramento-kings-vs-memphis-grizzlies/1620181/
+Regular season,NBA,2026,Jan,23,Dallas Mavericks,Golden State Warriors,24,31,29,39,123,27,23,39,26,115,https://www.livescore.com/en/basketball/nba/nba/dallas-mavericks-vs-golden-state-warriors/1620518/
+Regular season,NBA,2025,Nov,19,Orlando Magic,Golden State Warriors,36,31,26,28,121,32,28,25,28,113,https://www.livescore.com/en/basketball/nba/nba/orlando-magic-vs-golden-state-warriors/1620129/
+Regular season,NBA,2025,Nov,18,Detroit Pistons,Indiana Pacers,26,36,31,34,127,21,25,29,37,112,https://www.livescore.com/en/basketball/nba/nba/detroit-pistons-vs-indiana-pacers/1620160/
+Regular season,NBA,2025,Oct,30,Chicago Bulls,Sacramento Kings,36,26,39,25,126,33,31,27,22,113,https://www.livescore.com/en/basketball/nba/nba/chicago-bulls-vs-sacramento-kings/1620072/
+Regular season,NBA,2026,Feb,23,LA Clippers,Orlando Magic,25,28,36,20,109,29,28,31,23,111,https://www.livescore.com/en/basketball/nba/nba/la-clippers-vs-orlando-magic/1620723/
+Regular season,NBA,2026,Feb,27,Indiana Pacers,Charlotte Hornets,34,12,36,27,109,31,36,40,26,133,https://www.livescore.com/en/basketball/nba/nba/indiana-pacers-vs-charlotte-hornets/1620792/
+Regular season,NBA,2026,Jan,28,Denver Nuggets,Detroit Pistons,18,28,26,35,107,31,21,30,27,109,https://www.livescore.com/en/basketball/nba/nba/denver-nuggets-vs-detroit-pistons/1620618/
+Play-offs,NBA,2026,Apr,29,Boston Celtics,Philadelphia 76ers,23,34,29,11,97,21,29,35,28,113,https://www.livescore.com/en/basketball/nba/nba/boston-celtics-vs-philadelphia-76ers/1769726/
+Regular season,NBA,2025,Nov,6,Dallas Mavericks,New Orleans Pelicans,19,30,28,22,99,29,23,26,23,101,https://www.livescore.com/en/basketball/nba/nba/dallas-mavericks-vs-new-orleans-pelicans/1620073/
+Regular season,NBA,2026,Feb,25,Atlanta Hawks,Washington Wizards,35,25,40,19,119,20,23,21,34,98,https://www.livescore.com/en/basketball/nba/nba/atlanta-hawks-vs-washington-wizards/1620687/
+Regular season,NBA,2025,Nov,1,LA Clippers,New Orleans Pelicans,26,41,27,32,126,28,31,25,40,124,https://www.livescore.com/en/basketball/nba/nba/la-clippers-vs-new-orleans-pelicans/1618335/
+Regular season,NBA,2025,Nov,17,Dallas Mavericks,Portland Trail Blazers,29,28,28,33,138,37,24,30,27,133,https://www.livescore.com/en/basketball/nba/nba/dallas-mavericks-vs-portland-trail-blazers/1620131/
+Regular season,NBA,2026,Mar,28,Portland Trail Blazers,Dallas Mavericks,22,29,25,17,93,32,24,23,21,100,https://www.livescore.com/en/basketball/nba/nba/portland-trail-blazers-vs-dallas-mavericks/1621051/
+Regular season,NBA,2026,Apr,11,Houston Rockets,Minnesota Timberwolves,36,37,33,26,132,37,32,34,33,136,https://www.livescore.com/en/basketball/nba/nba/houston-rockets-vs-minnesota-timberwolves/1621017/
+Regular season,NBA,2025,Nov,12,Brooklyn Nets,Toronto Raptors,30,22,29,28,109,28,32,29,30,119,https://www.livescore.com/en/basketball/nba/nba/brooklyn-nets-vs-toronto-raptors/1620054/
+Regular season,NBA,2026,Mar,27,Charlotte Hornets,New York Knicks,38,27,29,20,114,36,19,21,27,103,https://www.livescore.com/en/basketball/nba/nba/charlotte-hornets-vs-new-york-knicks/1621001/
+Regular season,NBA,2025,Dec,5,Philadelphia 76ers,Golden State Warriors,30,26,24,19,99,10,24,32,32,98,https://www.livescore.com/en/basketball/nba/nba/philadelphia-76ers-vs-golden-state-warriors/1620260/
+Regular season,NBA,2026,Mar,21,Houston Rockets,Atlanta Hawks,35,27,39,16,117,27,27,22,19,95,https://www.livescore.com/en/basketball/nba/nba/houston-rockets-vs-atlanta-hawks/1620942/
+Regular season,NBA,2025,Oct,27,Miami Heat,New York Knicks,24,33,31,27,115,27,27,27,26,107,https://www.livescore.com/en/basketball/nba/nba/miami-heat-vs-new-york-knicks/1620026/
+Regular season,NBA,2026,Feb,12,Utah Jazz,Sacramento Kings,39,32,29,21,121,20,24,22,27,93,https://www.livescore.com/en/basketball/nba/nba/utah-jazz-vs-sacramento-kings/1620755/
+Regular season,NBA,2025,Dec,13,Charlotte Hornets,Chicago Bulls,29,32,31,34,126,33,22,34,40,129,https://www.livescore.com/en/basketball/nba/nba/charlotte-hornets-vs-chicago-bulls/1700326/
+Regular season,NBA,2026,Jan,20,Brooklyn Nets,Phoenix Suns,26,42,21,28,117,40,32,31,23,126,https://www.livescore.com/en/basketball/nba/nba/brooklyn-nets-vs-phoenix-suns/1620498/
+Regular season,NBA,2025,Nov,9,Philadelphia 76ers,Toronto Raptors,33,35,33,29,130,43,20,34,23,120,https://www.livescore.com/en/basketball/nba/nba/philadelphia-76ers-vs-toronto-raptors/1620088/
+Regular season,NBA,2026,Mar,26,Detroit Pistons,Atlanta Hawks,29,26,40,26,129,37,36,25,23,130,https://www.livescore.com/en/basketball/nba/nba/detroit-pistons-vs-atlanta-hawks/1620908/
+Regular season,NBA,2026,Jan,12,Toronto Raptors,Philadelphia 76ers,22,36,18,31,116,25,23,36,23,115,https://www.livescore.com/en/basketball/nba/nba/toronto-raptors-vs-philadelphia-76ers/1620413/
+Regular season,NBA,2026,Jan,30,Denver Nuggets,Brooklyn Nets,30,34,15,28,107,26,23,27,27,103,https://www.livescore.com/en/basketball/nba/nba/denver-nuggets-vs-brooklyn-nets/1620609/
+Regular season,NBA,2025,Nov,24,Phoenix Suns,San Antonio Spurs,25,24,37,25,111,30,26,24,22,102,https://www.livescore.com/en/basketball/nba/nba/phoenix-suns-vs-san-antonio-spurs/1620145/
+Regular season,NBA,2026,Jan,13,Sacramento Kings,LA Lakers,32,29,34,29,124,28,26,29,29,112,https://www.livescore.com/en/basketball/nba/nba/sacramento-kings-vs-la-lakers/1620469/
+Regular season,NBA,2025,Dec,1,LA Lakers,New Orleans Pelicans,46,31,31,25,133,27,30,35,29,121,https://www.livescore.com/en/basketball/nba/nba/la-lakers-vs-new-orleans-pelicans/1620200/
+Regular season,NBA,2025,Dec,20,Atlanta Hawks,San Antonio Spurs,19,25,28,26,98,32,36,34,24,126,https://www.livescore.com/en/basketball/nba/nba/atlanta-hawks-vs-san-antonio-spurs/1620317/
+Regular season,NBA,2025,Nov,20,Philadelphia 76ers,Toronto Raptors,28,28,26,30,112,33,20,44,24,121,https://www.livescore.com/en/basketball/nba/nba/philadelphia-76ers-vs-toronto-raptors/1620168/
+Play-offs,NBA,2026,Apr,21,Denver Nuggets,Minnesota Timberwolves,39,25,29,21,114,25,39,26,29,119,https://www.livescore.com/en/basketball/nba/nba/denver-nuggets-vs-minnesota-timberwolves/1767769/
+Play-offs,NBA,2026,Apr,30,LA Lakers,Houston Rockets,28,19,20,26,93,21,30,25,23,99,https://www.livescore.com/en/basketball/nba/nba/la-lakers-vs-houston-rockets/1771354/
+Regular season,NBA,2025,Dec,3,Philadelphia 76ers,Washington Wizards,34,32,35,20,121,31,23,23,25,102,https://www.livescore.com/en/basketball/nba/nba/philadelphia-76ers-vs-washington-wizards/1620236/
+Regular season,NBA,2025,Oct,26,Memphis Grizzlies,Indiana Pacers,23,37,43,25,128,21,31,32,19,103,https://www.livescore.com/en/basketball/nba/nba/memphis-grizzlies-vs-indiana-pacers/1620030/
+Regular season,NBA,2026,Mar,24,Utah Jazz,Toronto Raptors,25,33,30,39,127,31,37,49,26,143,https://www.livescore.com/en/basketball/nba/nba/utah-jazz-vs-toronto-raptors/1620993/
+Regular season,NBA,2026,Apr,1,Milwaukee Bucks,Dallas Mavericks,38,27,25,33,123,31,20,19,29,99,https://www.livescore.com/en/basketball/nba/nba/milwaukee-bucks-vs-dallas-mavericks/1620539/
+Play-offs,NBA,2026,Apr,23,Oklahoma City Thunder,Phoenix Suns,30,35,35,20,120,29,28,20,30,107,https://www.livescore.com/en/basketball/nba/nba/oklahoma-city-thunder-vs-phoenix-suns/1768477/
+Regular season,NBA,2026,Mar,26,Indiana Pacers,LA Lakers,28,31,26,45,130,45,30,30,32,137,https://www.livescore.com/en/basketball/nba/nba/indiana-pacers-vs-la-lakers/1620969/
+Regular season,NBA,2026,Jan,9,Utah Jazz,Dallas Mavericks,34,24,30,28,116,29,26,34,25,114,https://www.livescore.com/en/basketball/nba/nba/utah-jazz-vs-dallas-mavericks/1620447/
+Play-offs,NBA,2026,Apr,25,Philadelphia 76ers,Boston Celtics,24,23,27,26,100,29,25,25,29,108,https://www.livescore.com/en/basketball/nba/nba/philadelphia-76ers-vs-boston-celtics/1767858/
+Play-offs,NBA,2026,May,26,Cleveland Cavaliers,AGG,26,23,22,22,93,38,30,30,32,130,https://www.livescore.com/en/basketball/nba/nba/cleveland-cavaliers-vs-new-york-knicks/1779069/
+Regular season,NBA,2025,Dec,4,Dallas Mavericks,Miami Heat,28,36,29,25,118,33,21,26,28,108,https://www.livescore.com/en/basketball/nba/nba/dallas-mavericks-vs-miami-heat/1620208/
+Regular season,NBA,2026,Feb,20,Golden State Warriors,Boston Celtics,32,19,22,37,110,36,38,28,19,121,https://www.livescore.com/en/basketball/nba/nba/golden-state-warriors-vs-boston-celtics/1620757/
+Regular season,NBA,2025,Nov,9,Washington Wizards,Dallas Mavericks,24,29,33,19,105,35,22,25,29,111,https://www.livescore.com/en/basketball/nba/nba/washington-wizards-vs-dallas-mavericks/1620085/
+Regular season,NBA,2025,Dec,25,Oklahoma City Thunder,San Antonio Spurs,36,24,19,23,102,41,28,26,22,117,https://www.livescore.com/en/basketball/nba/nba/oklahoma-city-thunder-vs-san-antonio-spurs/1614292/
+Regular season,NBA,2026,Jan,23,Minnesota Timberwolves,Chicago Bulls,32,29,29,25,115,26,34,33,27,120,https://www.livescore.com/en/basketball/nba/nba/minnesota-timberwolves-vs-chicago-bulls/1620499/
+Regular season,NBA,2025,Nov,27,Golden State Warriors,Houston Rockets,25,34,17,24,100,22,25,27,30,104,https://www.livescore.com/en/basketball/nba/nba/golden-state-warriors-vs-houston-rockets/1618384/
+Regular season,NBA,2026,Mar,2,Atlanta Hawks,Portland Trail Blazers,44,31,28,32,135,25,33,27,16,101,https://www.livescore.com/en/basketball/nba/nba/atlanta-hawks-vs-portland-trail-blazers/1620735/
+Philippines,Governors Cup,2026,Jul,18,Rain or Shine Elasto Painters,Meralco Bolts,34,26,23,31,114,32,22,41,27,122,https://www.livescore.com/en/basketball/philippines/governors-cup-group-b/rain-or-shine-elasto-painters-vs-meralco-bolts/1818535/
+Regular season,NBA,2026,Mar,10,Utah Jazz,Golden State Warriors,29,30,32,28,119,27,28,29,32,116,https://www.livescore.com/en/basketball/nba/nba/utah-jazz-vs-golden-state-warriors/1620802/
+Regular season,NBA,2026,Feb,28,Detroit Pistons,Cleveland Cavaliers,27,23,35,29,122,35,19,30,30,119,https://www.livescore.com/en/basketball/nba/nba/detroit-pistons-vs-cleveland-cavaliers/1620721/
+Regular season,NBA,2025,Dec,30,Chicago Bulls,Minnesota Timberwolves,23,27,28,23,101,21,34,40,41,136,https://www.livescore.com/en/basketball/nba/nba/chicago-bulls-vs-minnesota-timberwolves/1620346/
+Regular season,NBA,2026,Jan,7,Indiana Pacers,Cleveland Cavaliers,28,32,33,23,116,22,31,31,36,120,https://www.livescore.com/en/basketball/nba/nba/indiana-pacers-vs-cleveland-cavaliers/1620351/
+Regular season,NBA,2026,Jan,10,Phoenix Suns,New York Knicks,28,34,32,18,112,23,37,26,21,107,https://www.livescore.com/en/basketball/nba/nba/phoenix-suns-vs-new-york-knicks/1620438/
+Regular season,NBA,2026,Feb,8,Chicago Bulls,Denver Nuggets,36,29,39,16,120,39,20,38,39,136,https://www.livescore.com/en/basketball/nba/nba/chicago-bulls-vs-denver-nuggets/1620662/
+Regular season,NBA,2026,Apr,4,Brooklyn Nets,Atlanta Hawks,25,30,30,22,107,35,36,27,43,141,https://www.livescore.com/en/basketball/nba/nba/brooklyn-nets-vs-atlanta-hawks/1621047/
+Play-offs,NBA,2026,May,1,AGG,Full Time,29,28,25,28,110,30,20,24,24,98,https://www.livescore.com/en/basketball/nba/nba/minnesota-timberwolves-vs-denver-nuggets/1771679/
+Regular season,NBA,2025,Dec,3,San Antonio Spurs,Memphis Grizzlies,36,27,34,29,126,32,27,39,21,119,https://www.livescore.com/en/basketball/nba/nba/san-antonio-spurs-vs-memphis-grizzlies/1620240/
+Play-offs,NBA,2026,Apr,22,LA Lakers,Houston Rockets,33,21,21,26,101,26,25,17,26,94,https://www.livescore.com/en/basketball/nba/nba/la-lakers-vs-houston-rockets/1767775/
+Regular season,NBA,2026,Apr,4,Dallas Mavericks,Orlando Magic,31,27,34,35,127,38,33,40,27,138,https://www.livescore.com/en/basketball/nba/nba/dallas-mavericks-vs-orlando-magic/1621086/
+Regular season,NBA,2025,Oct,25,LA Lakers,Minnesota Timberwolves,36,32,40,20,128,40,23,31,16,110,https://www.livescore.com/en/basketball/nba/nba/la-lakers-vs-minnesota-timberwolves/1618329/
+Regular season,NBA,2026,Feb,27,Brooklyn Nets,San Antonio Spurs,22,34,28,26,110,36,35,33,22,126,https://www.livescore.com/en/basketball/nba/nba/brooklyn-nets-vs-san-antonio-spurs/1620811/
+Regular season,NBA,2026,Apr,8,LA Clippers,Dallas Mavericks,39,26,24,27,116,26,29,29,19,103,https://www.livescore.com/en/basketball/nba/nba/la-clippers-vs-dallas-mavericks/1620981/
+Play-offs,NBA,2026,Apr,29,New York Knicks,Atlanta Hawks,35,29,26,36,126,22,26,24,25,97,https://www.livescore.com/en/basketball/nba/nba/new-york-knicks-vs-atlanta-hawks/1769412/
+Regular season,NBA,2026,Jan,19,Cleveland Cavaliers,Oklahoma City Thunder,27,24,28,25,104,32,34,25,45,136,https://www.livescore.com/en/basketball/nba/nba/cleveland-cavaliers-vs-oklahoma-city-thunder/1614297/
+Regular season,NBA,2026,Mar,12,Denver Nuggets,Houston Rockets,24,29,40,36,129,20,27,22,24,93,https://www.livescore.com/en/basketball/nba/nba/denver-nuggets-vs-houston-rockets/1620773/
+Regular season,NBA,2025,Dec,10,Orlando Magic,Miami Heat,17,39,33,28,117,30,27,26,25,108,https://www.livescore.com/en/basketball/nba/nba/orlando-magic-vs-miami-heat/1700441/
+Regular season,NBA,2025,Dec,15,Minnesota Timberwolves,Sacramento Kings,20,31,37,29,117,27,25,32,19,103,https://www.livescore.com/en/basketball/nba/nba/minnesota-timberwolves-vs-sacramento-kings/1700338/
+Regular season,NBA,2025,Oct,25,Portland Trail Blazers,Golden State Warriors,28,41,34,36,139,28,28,35,28,119,https://www.livescore.com/en/basketball/nba/nba/portland-trail-blazers-vs-golden-state-warriors/1620052/
+Regular season,NBA,2025,Oct,27,Washington Wizards,Charlotte Hornets,30,32,26,25,113,31,20,44,44,139,https://www.livescore.com/en/basketball/nba/nba/washington-wizards-vs-charlotte-hornets/1620027/
+Regular season,NBA,2026,Mar,23,Phoenix Suns,Toronto Raptors,34,32,31,23,120,20,28,21,29,98,https://www.livescore.com/en/basketball/nba/nba/phoenix-suns-vs-toronto-raptors/1620907/
+Regular season,NBA,2026,Feb,27,Phoenix Suns,LA Lakers,22,27,31,33,113,27,22,31,30,110,https://www.livescore.com/en/basketball/nba/nba/phoenix-suns-vs-la-lakers/1620852/
+Regular season,NBA,2026,Feb,26,Milwaukee Bucks,Cleveland Cavaliers,33,29,31,25,118,33,30,31,22,116,https://www.livescore.com/en/basketball/nba/nba/milwaukee-bucks-vs-cleveland-cavaliers/1620695/
+Regular season,NBA,2025,Oct,23,Memphis Grizzlies,New Orleans Pelicans,27,29,41,31,128,30,37,22,33,122,https://www.livescore.com/en/basketball/nba/nba/memphis-grizzlies-vs-new-orleans-pelicans/1620002/
+Regular season,NBA,2026,Feb,20,Philadelphia 76ers,Atlanta Hawks,26,27,31,23,107,28,32,28,29,117,https://www.livescore.com/en/basketball/nba/nba/philadelphia-76ers-vs-atlanta-hawks/1620682/
+Regular season,NBA,2026,Mar,11,Houston Rockets,Toronto Raptors,29,29,28,27,113,29,20,34,16,99,https://www.livescore.com/en/basketball/nba/nba/houston-rockets-vs-toronto-raptors/1620851/
+Regular season,NBA,2025,Nov,30,Milwaukee Bucks,Brooklyn Nets,32,39,28,17,116,29,24,17,29,99,https://www.livescore.com/en/basketball/nba/nba/milwaukee-bucks-vs-brooklyn-nets/1620270/
+Regular season,NBA,2026,Feb,12,Boston Celtics,Chicago Bulls,36,36,26,26,124,27,17,26,35,105,https://www.livescore.com/en/basketball/nba/nba/boston-celtics-vs-chicago-bulls/1620726/
+Regular season,NBA,2025,Dec,24,Atlanta Hawks,Chicago Bulls,36,32,37,18,123,30,25,37,34,126,https://www.livescore.com/en/basketball/nba/nba/atlanta-hawks-vs-chicago-bulls/1620277/
+Regular season,NBA,2026,Feb,12,New Orleans Pelicans,Miami Heat,25,30,30,26,111,31,27,38,27,123,https://www.livescore.com/en/basketball/nba/nba/new-orleans-pelicans-vs-miami-heat/1620749/
+Regular season,NBA,2026,Mar,29,Memphis Grizzlies,Chicago Bulls,28,28,42,27,125,30,28,30,36,124,https://www.livescore.com/en/basketball/nba/nba/memphis-grizzlies-vs-chicago-bulls/1621011/
+Regular season,NBA,2025,Dec,19,Indiana Pacers,New York Knicks,36,26,30,21,113,25,34,27,28,114,https://www.livescore.com/en/basketball/nba/nba/indiana-pacers-vs-new-york-knicks/1620360/
+Regular season,NBA,2025,Dec,21,Atlanta Hawks,Chicago Bulls,38,35,42,35,150,38,45,33,36,152,https://www.livescore.com/en/basketball/nba/nba/atlanta-hawks-vs-chicago-bulls/1620333/
+Regular season,NBA,2026,Mar,28,Boston Celtics,Atlanta Hawks,26,29,32,22,109,29,31,22,20,102,https://www.livescore.com/en/basketball/nba/nba/boston-celtics-vs-atlanta-hawks/1621053/
+Regular season,NBA,2025,Oct,28,Golden State Warriors,Memphis Grizzlies,36,29,36,30,131,37,24,24,33,118,https://www.livescore.com/en/basketball/nba/nba/golden-state-warriors-vs-memphis-grizzlies/1620016/
+Regular season,NBA,2025,Nov,8,Atlanta Hawks,Toronto Raptors,26,27,24,20,97,26,18,29,36,109,https://www.livescore.com/en/basketball/nba/nba/atlanta-hawks-vs-toronto-raptors/1618336/
+Regular season,NBA,2026,Feb,10,Denver Nuggets,Cleveland Cavaliers,30,29,33,25,117,26,28,33,32,119,https://www.livescore.com/en/basketball/nba/nba/denver-nuggets-vs-cleveland-cavaliers/1620583/
+Regular season,NBA,2025,Dec,4,Cleveland Cavaliers,Portland Trail Blazers,33,25,27,25,110,36,32,31,23,122,https://www.livescore.com/en/basketball/nba/nba/cleveland-cavaliers-vs-portland-trail-blazers/1620206/
+Regular season,NBA,2026,Feb,23,LA Lakers,Boston Celtics,28,22,21,18,89,28,32,24,27,111,https://www.livescore.com/en/basketball/nba/nba/la-lakers-vs-boston-celtics/1620753/
+Regular season,NBA,2026,Feb,20,San Antonio Spurs,Phoenix Suns,30,31,37,23,121,25,24,22,23,94,https://www.livescore.com/en/basketball/nba/nba/san-antonio-spurs-vs-phoenix-suns/1620686/
+Regular season,NBA,2026,Jan,8,Detroit Pistons,Chicago Bulls,30,22,24,32,108,24,26,27,16,93,https://www.livescore.com/en/basketball/nba/nba/detroit-pistons-vs-chicago-bulls/1620355/
+Regular season,NBA,2025,Dec,13,Detroit Pistons,Atlanta Hawks,34,35,35,38,142,33,27,19,36,115,https://www.livescore.com/en/basketball/nba/nba/detroit-pistons-vs-atlanta-hawks/1700325/
+Regular season,NBA,2026,Mar,14,LA Clippers,Chicago Bulls,33,30,29,27,119,28,29,28,23,108,https://www.livescore.com/en/basketball/nba/nba/la-clippers-vs-chicago-bulls/1620918/
+Regular season,NBA,2026,Feb,8,Sacramento Kings,Cleveland Cavaliers,31,24,41,30,126,25,32,36,39,132,https://www.livescore.com/en/basketball/nba/nba/sacramento-kings-vs-cleveland-cavaliers/1620665/
+Regular season,NBA,2026,Feb,11,LA Lakers,San Antonio Spurs,30,25,26,27,108,47,37,31,21,136,https://www.livescore.com/en/basketball/nba/nba/la-lakers-vs-san-antonio-spurs/1620702/
+Regular season,NBA,2025,Nov,12,Sacramento Kings,Denver Nuggets,34,22,26,26,108,33,27,25,37,122,https://www.livescore.com/en/basketball/nba/nba/sacramento-kings-vs-denver-nuggets/1620053/
+Regular season,NBA,2026,Apr,2,Chicago Bulls,Indiana Pacers,33,33,26,34,126,39,44,34,28,145,https://www.livescore.com/en/basketball/nba/nba/chicago-bulls-vs-indiana-pacers/1621000/
+Regular season,NBA,2025,Dec,21,LA Clippers,LA Lakers,28,26,26,23,103,15,24,22,27,88,https://www.livescore.com/en/basketball/nba/nba/la-clippers-vs-la-lakers/1620341/
+Regular season,NBA,2026,Mar,9,Miami Heat,Detroit Pistons,34,33,36,18,121,16,32,32,30,110,https://www.livescore.com/en/basketball/nba/nba/miami-heat-vs-detroit-pistons/1620864/
+Regular season,NBA,2026,Jan,29,Memphis Grizzlies,Charlotte Hornets,28,27,20,22,97,36,26,28,22,112,https://www.livescore.com/en/basketball/nba/nba/memphis-grizzlies-vs-charlotte-hornets/1620639/
+Regular season,NBA,2026,Jan,5,Miami Heat,New Orleans Pelicans,43,27,23,32,125,39,23,15,29,106,https://www.livescore.com/en/basketball/nba/nba/miami-heat-vs-new-orleans-pelicans/1620460/
+Regular season,NBA,2025,Dec,21,Toronto Raptors,Boston Celtics,20,31,29,16,96,32,17,34,29,112,https://www.livescore.com/en/basketball/nba/nba/toronto-raptors-vs-boston-celtics/1620324/
+Regular season,NBA,2026,Mar,1,Denver Nuggets,Minnesota Timberwolves,31,19,32,26,108,22,36,32,27,117,https://www.livescore.com/en/basketball/nba/nba/denver-nuggets-vs-minnesota-timberwolves/1620727/
+Regular season,NBA,2025,Nov,20,Dallas Mavericks,New York Knicks,25,25,35,26,111,24,28,35,26,113,https://www.livescore.com/en/basketball/nba/nba/dallas-mavericks-vs-new-york-knicks/1620167/
+Regular season,NBA,2025,Nov,11,Dallas Mavericks,Milwaukee Bucks,31,26,31,26,114,27,26,26,37,116,https://www.livescore.com/en/basketball/nba/nba/dallas-mavericks-vs-milwaukee-bucks/1620105/
+Regular season,NBA,2025,Nov,25,Milwaukee Bucks,Portland Trail Blazers,27,26,21,29,103,32,33,30,20,115,https://www.livescore.com/en/basketball/nba/nba/milwaukee-bucks-vs-portland-trail-blazers/1620187/
+Regular season,NBA,2025,Nov,20,Oklahoma City Thunder,Sacramento Kings,27,31,25,30,113,25,25,19,30,99,https://www.livescore.com/en/basketball/nba/nba/oklahoma-city-thunder-vs-sacramento-kings/1620153/
+Regular season,NBA,2025,Dec,1,New York Knicks,Toronto Raptors,41,18,34,23,116,22,30,25,17,94,https://www.livescore.com/en/basketball/nba/nba/new-york-knicks-vs-toronto-raptors/1620274/
+Regular season,NBA,2026,Mar,18,Charlotte Hornets,Miami Heat,26,33,37,40,136,24,33,31,18,106,https://www.livescore.com/en/basketball/nba/nba/charlotte-hornets-vs-miami-heat/1620880/
+Regular season,NBA,2025,Oct,25,Orlando Magic,Atlanta Hawks,24,37,25,21,107,25,26,27,33,111,https://www.livescore.com/en/basketball/nba/nba/orlando-magic-vs-atlanta-hawks/1620000/
+Regular season,NBA,2026,Apr,3,Detroit Pistons,Minnesota Timberwolves,30,24,25,34,113,31,23,26,28,108,https://www.livescore.com/en/basketball/nba/nba/detroit-pistons-vs-minnesota-timberwolves/1621043/
+Regular season,NBA,2026,Apr,1,Brooklyn Nets,Charlotte Hornets,18,27,18,23,86,35,23,31,28,117,https://www.livescore.com/en/basketball/nba/nba/brooklyn-nets-vs-charlotte-hornets/1620992/
+Regular season,NBA,2026,Jan,29,Utah Jazz,Golden State Warriors,24,31,38,31,124,34,34,33,39,140,https://www.livescore.com/en/basketball/nba/nba/utah-jazz-vs-golden-state-warriors/1620640/
+Regular season,NBA,2025,Dec,7,Washington Wizards,Atlanta Hawks,28,27,38,23,116,35,35,27,34,131,https://www.livescore.com/en/basketball/nba/nba/washington-wizards-vs-atlanta-hawks/1620217/
+Regular season,NBA,2026,Feb,27,Philadelphia 76ers,Miami Heat,36,37,26,25,124,35,22,34,26,117,https://www.livescore.com/en/basketball/nba/nba/philadelphia-76ers-vs-miami-heat/1620791/
+Regular season,NBA,2026,Jan,7,Sacramento Kings,Dallas Mavericks,35,23,20,20,98,25,21,30,24,100,https://www.livescore.com/en/basketball/nba/nba/sacramento-kings-vs-dallas-mavericks/1620399/
+Regular season,NBA,2026,Jan,31,Orlando Magic,Toronto Raptors,29,21,36,44,130,28,29,42,21,120,https://www.livescore.com/en/basketball/nba/nba/orlando-magic-vs-toronto-raptors/1620621/
+Regular season,NBA,2026,Feb,8,Phoenix Suns,Philadelphia 76ers,22,25,24,32,103,24,34,23,28,109,https://www.livescore.com/en/basketball/nba/nba/phoenix-suns-vs-philadelphia-76ers/1620663/
+Regular season,NBA,2025,Nov,23,Chicago Bulls,Washington Wizards,40,24,28,29,121,41,29,28,22,120,https://www.livescore.com/en/basketball/nba/nba/chicago-bulls-vs-washington-wizards/1620255/
+Play-offs,NBA,2026,May,3,AGG,Full Time,20,40,23,33,116,22,27,15,30,94,https://www.livescore.com/en/basketball/nba/nba/detroit-pistons-vs-orlando-magic/1773364/
+Regular season,NBA,2026,Feb,13,Oklahoma City Thunder,Milwaukee Bucks,25,30,18,20,93,30,37,22,21,110,https://www.livescore.com/en/basketball/nba/nba/oklahoma-city-thunder-vs-milwaukee-bucks/1620766/
+Regular season,NBA,2025,Dec,8,Philadelphia 76ers,LA Lakers,30,30,24,24,108,30,23,34,25,112,https://www.livescore.com/en/basketball/nba/nba/philadelphia-76ers-vs-la-lakers/1620212/
+Regular season,NBA,2026,Feb,2,San Antonio Spurs,Orlando Magic,37,23,26,26,112,21,40,18,24,103,https://www.livescore.com/en/basketball/nba/nba/san-antonio-spurs-vs-orlando-magic/1620646/
+Regular season,NBA,2026,Feb,8,Toronto Raptors,Indiana Pacers,21,25,44,32,122,20,28,26,30,104,https://www.livescore.com/en/basketball/nba/nba/toronto-raptors-vs-indiana-pacers/1620667/
+Regular season,NBA,2026,Jan,19,LA Lakers,Toronto Raptors,23,32,32,23,110,30,24,26,13,93,https://www.livescore.com/en/basketball/nba/nba/la-lakers-vs-toronto-raptors/1620471/
+Regular season,NBA,2026,Jan,22,Milwaukee Bucks,Oklahoma City Thunder,18,33,26,25,102,38,31,30,23,122,https://www.livescore.com/en/basketball/nba/nba/milwaukee-bucks-vs-oklahoma-city-thunder/1620505/
+Play-offs,NBA,2026,May,9,Minnesota Timberwolves,San Antonio Spurs,22,29,28,29,108,23,28,35,29,115,https://www.livescore.com/en/basketball/nba/nba/minnesota-timberwolves-vs-san-antonio-spurs/1773013/
+Regular season,NBA,2025,Nov,30,Miami Heat,Detroit Pistons,23,36,32,44,135,36,35,37,30,138,https://www.livescore.com/en/basketball/nba/nba/miami-heat-vs-detroit-pistons/1620266/
+Regular season,NBA,2026,Jan,6,Detroit Pistons,New York Knicks,30,34,25,32,121,29,25,15,21,90,https://www.livescore.com/en/basketball/nba/nba/detroit-pistons-vs-new-york-knicks/1620448/
+Regular season,NBA,2026,Mar,17,Chicago Bulls,Memphis Grizzlies,29,32,36,35,132,27,30,29,21,107,https://www.livescore.com/en/basketball/nba/nba/chicago-bulls-vs-memphis-grizzlies/1620898/
+Regular season,NBA,2025,Nov,12,Oklahoma City Thunder,Golden State Warriors,34,29,44,19,126,25,19,28,30,102,https://www.livescore.com/en/basketball/nba/nba/oklahoma-city-thunder-vs-golden-state-warriors/1620065/
+Regular season,NBA,2025,Dec,29,Portland Trail Blazers,Boston Celtics,31,24,31,28,114,30,33,22,23,108,https://www.livescore.com/en/basketball/nba/nba/portland-trail-blazers-vs-boston-celtics/1620442/
+Play-offs,NBA,2026,Apr,24,Minnesota Timberwolves,Denver Nuggets,25,36,27,25,113,11,28,29,28,96,https://www.livescore.com/en/basketball/nba/nba/minnesota-timberwolves-vs-denver-nuggets/1767770/
+Play-offs,NBA,2026,May,4,AGG,Full Time,24,25,38,27,114,26,23,19,34,102,https://www.livescore.com/en/basketball/nba/nba/cleveland-cavaliers-vs-toronto-raptors/1773361/
+Regular season,NBA,2025,Dec,14,Orlando Magic,New York Knicks,36,28,28,28,120,33,38,29,32,132,https://www.livescore.com/en/basketball/nba/nba/orlando-magic-vs-new-york-knicks/1704659/
+Regular season,NBA,2025,Dec,4,Atlanta Hawks,LA Clippers,21,20,32,19,92,27,28,39,21,115,https://www.livescore.com/en/basketball/nba/nba/atlanta-hawks-vs-la-clippers/1620195/
+Regular season,NBA,2026,Jan,21,Utah Jazz,Minnesota Timberwolves,29,30,25,43,127,34,24,38,26,122,https://www.livescore.com/en/basketball/nba/nba/utah-jazz-vs-minnesota-timberwolves/1620528/
+Regular season,NBA,2026,Mar,31,Atlanta Hawks,Boston Celtics,29,25,36,22,112,30,24,22,26,102,https://www.livescore.com/en/basketball/nba/nba/atlanta-hawks-vs-boston-celtics/1621003/
+Regular season,NBA,2026,Mar,27,Orlando Magic,Sacramento Kings,39,26,28,28,121,30,29,31,27,117,https://www.livescore.com/en/basketball/nba/nba/orlando-magic-vs-sacramento-kings/1620967/
+Regular season,NBA,2026,Jan,30,Atlanta Hawks,Houston Rockets,23,19,24,20,86,23,20,35,26,104,https://www.livescore.com/en/basketball/nba/nba/atlanta-hawks-vs-houston-rockets/1620611/
+Regular season,NBA,2026,Feb,28,Dallas Mavericks,Memphis Grizzlies,20,24,26,35,105,34,30,37,23,124,https://www.livescore.com/en/basketball/nba/nba/dallas-mavericks-vs-memphis-grizzlies/1620732/
+Regular season,NBA,2025,Dec,30,Houston Rockets,Indiana Pacers,30,36,39,21,126,25,23,30,41,119,https://www.livescore.com/en/basketball/nba/nba/houston-rockets-vs-indiana-pacers/1620348/
+Regular season,NBA,2026,Mar,7,Boston Celtics,Dallas Mavericks,21,37,32,30,120,22,31,27,20,100,https://www.livescore.com/en/basketball/nba/nba/boston-celtics-vs-dallas-mavericks/1620798/
+Regular season,NBA,2026,Jan,18,Detroit Pistons,Indiana Pacers,31,28,33,29,121,11,14,28,25,78,https://www.livescore.com/en/basketball/nba/nba/detroit-pistons-vs-indiana-pacers/1620504/
+Regular season,NBA,2026,Jan,4,Miami Heat,Minnesota Timberwolves,25,25,36,29,115,27,29,34,35,125,https://www.livescore.com/en/basketball/nba/nba/miami-heat-vs-minnesota-timberwolves/1620435/
+Regular season,NBA,2026,Feb,20,Chicago Bulls,Toronto Raptors,23,22,33,23,101,25,28,34,23,110,https://www.livescore.com/en/basketball/nba/nba/chicago-bulls-vs-toronto-raptors/1620684/
+Regular season,NBA,2025,Nov,23,Orlando Magic,New York Knicks,31,33,34,35,133,29,37,27,28,121,https://www.livescore.com/en/basketball/nba/nba/orlando-magic-vs-new-york-knicks/1620198/
+Regular season,NBA,2025,Dec,20,Minnesota Timberwolves,Oklahoma City Thunder,23,25,35,29,112,33,18,34,22,107,https://www.livescore.com/en/basketball/nba/nba/minnesota-timberwolves-vs-oklahoma-city-thunder/1620323/
+Regular season,NBA,2025,Oct,28,Houston Rockets,Brooklyn Nets,42,29,32,34,137,25,35,17,32,109,https://www.livescore.com/en/basketball/nba/nba/houston-rockets-vs-brooklyn-nets/1620017/
+Regular season,NBA,2025,Dec,28,San Antonio Spurs,Utah Jazz,40,20,27,27,114,32,38,28,29,127,https://www.livescore.com/en/basketball/nba/nba/san-antonio-spurs-vs-utah-jazz/1620375/
+Regular season,NBA,2025,Nov,9,San Antonio Spurs,New Orleans Pelicans,28,38,26,34,126,22,36,27,34,119,https://www.livescore.com/en/basketball/nba/nba/san-antonio-spurs-vs-new-orleans-pelicans/1620086/
+Regular season,NBA,2025,Dec,12,Houston Rockets,LA Clippers,29,22,29,35,115,29,25,28,31,113,https://www.livescore.com/en/basketball/nba/nba/houston-rockets-vs-la-clippers/1700318/
+Regular season,NBA,2026,Apr,8,Golden State Warriors,Sacramento Kings,25,41,19,25,110,26,27,28,24,105,https://www.livescore.com/en/basketball/nba/nba/golden-state-warriors-vs-sacramento-kings/1621004/
+Regular season,NBA,2026,Feb,25,Cleveland Cavaliers,New York Knicks,35,25,23,26,109,26,28,11,29,94,https://www.livescore.com/en/basketball/nba/nba/cleveland-cavaliers-vs-new-york-knicks/1620694/
+Regular season,NBA,2026,Jan,10,Brooklyn Nets,LA Clippers,25,22,29,29,105,35,28,28,30,121,https://www.livescore.com/en/basketball/nba/nba/brooklyn-nets-vs-la-clippers/1620411/
+Regular season,NBA,2026,Jan,9,Minnesota Timberwolves,Cleveland Cavaliers,32,31,43,25,131,31,36,22,33,122,https://www.livescore.com/en/basketball/nba/nba/minnesota-timberwolves-vs-cleveland-cavaliers/1620434/
+Regular season,NBA,2025,Dec,28,Sacramento Kings,Dallas Mavericks,31,28,29,25,113,23,21,33,30,107,https://www.livescore.com/en/basketball/nba/nba/sacramento-kings-vs-dallas-mavericks/1620421/
+Play-offs,NBA,2026,Apr,25,Orlando Magic,Detroit Pistons,26,35,26,26,113,26,28,25,26,105,https://www.livescore.com/en/basketball/nba/nba/orlando-magic-vs-detroit-pistons/1768474/
+Regular season,NBA,2026,Jan,6,Philadelphia 76ers,Denver Nuggets,26,32,35,27,124,29,29,29,33,125,https://www.livescore.com/en/basketball/nba/nba/philadelphia-76ers-vs-denver-nuggets/1620446/
+Play-offs,NBA,2026,May,18,Detroit Pistons,AGG,22,25,26,21,94,31,33,35,26,125,https://www.livescore.com/en/basketball/nba/nba/detroit-pistons-vs-cleveland-cavaliers/1778002/
+Regular season,NBA,2025,Nov,22,Toronto Raptors,Washington Wizards,31,26,48,35,140,20,27,30,33,110,https://www.livescore.com/en/basketball/nba/nba/toronto-raptors-vs-washington-wizards/1618345/
+Regular season,NBA,2025,Dec,6,New York Knicks,Utah Jazz,41,27,47,31,146,13,34,30,35,112,https://www.livescore.com/en/basketball/nba/nba/new-york-knicks-vs-utah-jazz/1620233/
+Regular season,NBA,2026,Apr,11,Milwaukee Bucks,Brooklyn Nets,38,28,33,26,125,24,30,30,24,108,https://www.livescore.com/en/basketball/nba/nba/milwaukee-bucks-vs-brooklyn-nets/1621027/
+Regular season,NBA,2026,Feb,28,Milwaukee Bucks,New York Knicks,30,27,26,15,98,38,39,26,24,127,https://www.livescore.com/en/basketball/nba/nba/milwaukee-bucks-vs-new-york-knicks/1620728/
+Regular season,NBA,2025,Dec,21,Utah Jazz,Orlando Magic,38,22,22,36,127,36,29,32,21,128,https://www.livescore.com/en/basketball/nba/nba/utah-jazz-vs-orlando-magic/1620338/
+Regular season,NBA,2026,Mar,11,LA Lakers,Minnesota Timberwolves,16,29,39,36,120,21,24,23,38,106,https://www.livescore.com/en/basketball/nba/nba/la-lakers-vs-minnesota-timberwolves/1620862/
+Regular season,NBA,2026,Jan,10,Orlando Magic,Philadelphia 76ers,28,26,25,12,91,24,29,30,20,103,https://www.livescore.com/en/basketball/nba/nba/orlando-magic-vs-philadelphia-76ers/1620389/
+Regular season,NBA,2026,Feb,26,Houston Rockets,Sacramento Kings,33,44,31,20,128,22,28,26,21,97,https://www.livescore.com/en/basketball/nba/nba/houston-rockets-vs-sacramento-kings/1620696/
+Regular season,NBA,2026,Jan,26,Atlanta Hawks,Indiana Pacers,34,26,35,37,132,38,26,28,24,116,https://www.livescore.com/en/basketball/nba/nba/atlanta-hawks-vs-indiana-pacers/1620600/
+Regular season,NBA,2026,Mar,24,Orlando Magic,Indiana Pacers,24,40,31,31,126,34,25,44,25,128,https://www.livescore.com/en/basketball/nba/nba/orlando-magic-vs-indiana-pacers/1620901/
+Regular season,NBA,2026,Mar,19,Houston Rockets,LA Lakers,26,29,37,24,116,35,32,22,35,124,https://www.livescore.com/en/basketball/nba/nba/houston-rockets-vs-la-lakers/1620899/
+Regular season,NBA,2025,Nov,8,Miami Heat,Charlotte Hornets,53,19,22,32,126,33,36,19,20,108,https://www.livescore.com/en/basketball/nba/nba/miami-heat-vs-charlotte-hornets/1618339/
+Regular season,NBA,2026,Mar,6,Denver Nuggets,LA Lakers,32,32,29,27,120,22,32,32,27,113,https://www.livescore.com/en/basketball/nba/nba/denver-nuggets-vs-la-lakers/1620842/
+Regular season,NBA,2026,Jan,4,New York Knicks,Philadelphia 76ers,30,28,29,32,119,31,35,33,31,130,https://www.livescore.com/en/basketball/nba/nba/new-york-knicks-vs-philadelphia-76ers/1620449/
+Regular season,NBA,2025,Dec,5,Washington Wizards,Boston Celtics,26,33,27,15,101,32,34,43,37,146,https://www.livescore.com/en/basketball/nba/nba/washington-wizards-vs-boston-celtics/1620249/
+Regular season,NBA,2025,Dec,21,New Orleans Pelicans,Indiana Pacers,44,20,34,30,128,27,22,30,30,109,https://www.livescore.com/en/basketball/nba/nba/new-orleans-pelicans-vs-indiana-pacers/1620361/
+Regular season,NBA,2026,Mar,28,Indiana Pacers,LA Clippers,42,18,28,25,113,21,29,36,28,114,https://www.livescore.com/en/basketball/nba/nba/indiana-pacers-vs-la-clippers/1621055/
+Regular season,NBA,2025,Nov,3,Brooklyn Nets,Philadelphia 76ers,37,18,23,27,105,40,33,17,39,129,https://www.livescore.com/en/basketball/nba/nba/brooklyn-nets-vs-philadelphia-76ers/1620120/
+Regular season,NBA,2026,Apr,7,Memphis Grizzlies,Cleveland Cavaliers,36,28,26,36,126,24,44,33,41,142,https://www.livescore.com/en/basketball/nba/nba/memphis-grizzlies-vs-cleveland-cavaliers/1621074/
+Regular season,NBA,2026,Jan,26,Oklahoma City Thunder,Toronto Raptors,30,20,31,20,101,25,29,25,24,103,https://www.livescore.com/en/basketball/nba/nba/oklahoma-city-thunder-vs-toronto-raptors/1620558/
+Regular season,NBA,2025,Dec,22,Brooklyn Nets,Toronto Raptors,24,25,18,29,96,18,21,26,16,81,https://www.livescore.com/en/basketball/nba/nba/brooklyn-nets-vs-toronto-raptors/1620334/
+Regular season,NBA,2025,Nov,23,New Orleans Pelicans,Atlanta Hawks,25,21,24,28,98,21,35,32,27,115,https://www.livescore.com/en/basketball/nba/nba/new-orleans-pelicans-vs-atlanta-hawks/1620248/
+Regular season,NBA,2025,Nov,24,Oklahoma City Thunder,Portland Trail Blazers,39,28,29,26,122,18,28,22,27,95,https://www.livescore.com/en/basketball/nba/nba/oklahoma-city-thunder-vs-portland-trail-blazers/1620159/
+Regular season,NBA,2026,Jan,29,Miami Heat,Orlando Magic,27,41,20,36,124,34,25,40,34,133,https://www.livescore.com/en/basketball/nba/nba/miami-heat-vs-orlando-magic/1620636/
+Regular season,NBA,2026,Mar,17,Brooklyn Nets,Portland Trail Blazers,20,21,24,30,95,35,30,26,23,114,https://www.livescore.com/en/basketball/nba/nba/brooklyn-nets-vs-portland-trail-blazers/1620959/
+Regular season,NBA,2025,Nov,15,Minnesota Timberwolves,Sacramento Kings,35,26,31,32,124,30,31,30,19,110,https://www.livescore.com/en/basketball/nba/nba/minnesota-timberwolves-vs-sacramento-kings/1618351/
+Regular season,NBA,2025,Dec,13,Philadelphia 76ers,Indiana Pacers,34,29,27,25,115,31,27,32,15,105,https://www.livescore.com/en/basketball/nba/nba/philadelphia-76ers-vs-indiana-pacers/1700319/
+Regular season,NBA,2026,Mar,26,Utah Jazz,Washington Wizards,20,25,30,35,110,33,39,32,29,133,https://www.livescore.com/en/basketball/nba/nba/utah-jazz-vs-washington-wizards/1620958/
+Regular season,NBA,2026,Apr,13,Dallas Mavericks,Chicago Bulls,45,35,39,30,149,34,22,32,40,128,https://www.livescore.com/en/basketball/nba/nba/dallas-mavericks-vs-chicago-bulls/1621105/
+Regular season,NBA,2026,Apr,6,Oklahoma City Thunder,Utah Jazz,40,35,33,38,146,25,29,27,30,111,https://www.livescore.com/en/basketball/nba/nba/oklahoma-city-thunder-vs-utah-jazz/1621071/
+Regular season,NBA,2025,Dec,28,Minnesota Timberwolves,Brooklyn Nets,30,33,23,21,107,33,29,36,25,123,https://www.livescore.com/en/basketball/nba/nba/minnesota-timberwolves-vs-brooklyn-nets/1620376/
+Play-offs,NBA,2026,May,10,Philadelphia 76ers,AGG,24,33,26,31,114,43,38,41,22,144,https://www.livescore.com/en/basketball/nba/nba/philadelphia-76ers-vs-new-york-knicks/1773559/
+Regular season,NBA,2025,Nov,11,Detroit Pistons,Washington Wizards,36,31,20,40,137,37,24,35,31,135,https://www.livescore.com/en/basketball/nba/nba/detroit-pistons-vs-washington-wizards/1620109/
+Regular season,NBA,2026,Feb,12,Minnesota Timberwolves,Portland Trail Blazers,32,29,35,37,133,26,25,31,27,109,https://www.livescore.com/en/basketball/nba/nba/minnesota-timberwolves-vs-portland-trail-blazers/1620744/
+Regular season,NBA,2025,Oct,31,Charlotte Hornets,Orlando Magic,31,27,27,22,107,38,33,21,31,123,https://www.livescore.com/en/basketball/nba/nba/charlotte-hornets-vs-orlando-magic/1620061/
+Regular season,NBA,2026,Jan,24,Philadelphia 76ers,New York Knicks,34,30,13,32,109,34,26,30,22,112,https://www.livescore.com/en/basketball/nba/nba/philadelphia-76ers-vs-new-york-knicks/1620572/
+Regular season,NBA,2025,Nov,19,Brooklyn Nets,Boston Celtics,29,32,24,14,99,29,33,27,24,113,https://www.livescore.com/en/basketball/nba/nba/brooklyn-nets-vs-boston-celtics/1620154/
+Regular season,NBA,2025,Nov,25,Indiana Pacers,Detroit Pistons,32,23,33,29,117,35,36,30,21,122,https://www.livescore.com/en/basketball/nba/nba/indiana-pacers-vs-detroit-pistons/1620177/
+Regular season,NBA,2025,Dec,28,Miami Heat,Indiana Pacers,29,30,39,44,142,28,32,34,22,116,https://www.livescore.com/en/basketball/nba/nba/miami-heat-vs-indiana-pacers/1620391/
+Regular season,NBA,2025,Oct,26,Denver Nuggets,Phoenix Suns,34,37,29,33,133,28,26,29,28,111,https://www.livescore.com/en/basketball/nba/nba/denver-nuggets-vs-phoenix-suns/1620022/
+Regular season,NBA,2026,Jan,17,Sacramento Kings,Washington Wizards,41,26,34,27,128,22,39,23,31,115,https://www.livescore.com/en/basketball/nba/nba/sacramento-kings-vs-washington-wizards/1620495/
+Regular season,NBA,2025,Dec,27,Portland Trail Blazers,LA Clippers,35,27,16,25,103,25,31,29,34,119,https://www.livescore.com/en/basketball/nba/nba/portland-trail-blazers-vs-la-clippers/1620397/
+Regular season,NBA,2026,Feb,6,Dallas Mavericks,San Antonio Spurs,35,28,33,27,123,38,36,25,36,135,https://www.livescore.com/en/basketball/nba/nba/dallas-mavericks-vs-san-antonio-spurs/1620658/
+Regular season,NBA,2026,Mar,4,LA Lakers,New Orleans Pelicans,31,23,22,34,110,33,18,27,23,101,https://www.livescore.com/en/basketball/nba/nba/la-lakers-vs-new-orleans-pelicans/1620765/
+Regular season,NBA,2026,Mar,31,LA Lakers,Washington Wizards,25,40,26,29,120,26,18,33,24,101,https://www.livescore.com/en/basketball/nba/nba/la-lakers-vs-washington-wizards/1620990/
+Regular season,NBA,2025,Oct,28,Philadelphia 76ers,Orlando Magic,33,39,29,35,136,28,32,34,30,124,https://www.livescore.com/en/basketball/nba/nba/philadelphia-76ers-vs-orlando-magic/1620008/
+Regular season,NBA,2025,Oct,29,Golden State Warriors,LA Clippers,33,13,32,20,98,25,24,14,16,79,https://www.livescore.com/en/basketball/nba/nba/golden-state-warriors-vs-la-clippers/1620005/
+Regular season,NBA,2025,Nov,17,Phoenix Suns,Atlanta Hawks,21,37,37,27,122,25,32,20,47,124,https://www.livescore.com/en/basketball/nba/nba/phoenix-suns-vs-atlanta-hawks/1620123/
+Regular season,NBA,2026,Apr,4,Sacramento Kings,New Orleans Pelicans,21,34,30,32,117,30,36,26,21,113,https://www.livescore.com/en/basketball/nba/nba/sacramento-kings-vs-new-orleans-pelicans/1621085/
+Regular season,NBA,2025,Nov,8,San Antonio Spurs,Houston Rockets,23,28,35,35,121,25,25,32,28,110,https://www.livescore.com/en/basketball/nba/nba/san-antonio-spurs-vs-houston-rockets/1618332/
+Regular season,NBA,2026,Jan,11,Indiana Pacers,Miami Heat,36,25,38,24,123,18,27,27,27,99,https://www.livescore.com/en/basketball/nba/nba/indiana-pacers-vs-miami-heat/1620363/
+Regular season,NBA,2026,Apr,11,Charlotte Hornets,Detroit Pistons,30,35,25,10,100,36,32,25,25,118,https://www.livescore.com/en/basketball/nba/nba/charlotte-hornets-vs-detroit-pistons/1621010/
+Regular season,NBA,2025,Nov,13,Charlotte Hornets,Milwaukee Bucks,35,24,24,28,111,27,23,22,28,100,https://www.livescore.com/en/basketball/nba/nba/charlotte-hornets-vs-milwaukee-bucks/1620134/
+Regular season,NBA,2025,Nov,8,Brooklyn Nets,Detroit Pistons,29,26,19,33,107,27,33,34,31,125,https://www.livescore.com/en/basketball/nba/nba/brooklyn-nets-vs-detroit-pistons/1618344/
+Play-offs,NBA,2026,May,16,Cleveland Cavaliers,Detroit Pistons,25,26,19,24,94,27,27,30,31,115,https://www.livescore.com/en/basketball/nba/nba/cleveland-cavaliers-vs-detroit-pistons/1776578/
+Regular season,NBA,2025,Oct,29,Oklahoma City Thunder,Sacramento Kings,24,34,22,27,107,29,33,21,18,101,https://www.livescore.com/en/basketball/nba/nba/oklahoma-city-thunder-vs-sacramento-kings/1620003/
+Regular season,NBA,2026,Jan,18,Miami Heat,Oklahoma City Thunder,30,30,35,27,122,37,28,30,25,120,https://www.livescore.com/en/basketball/nba/nba/miami-heat-vs-oklahoma-city-thunder/1620497/
+Regular season,NBA,2026,Mar,19,Minnesota Timberwolves,Utah Jazz,43,29,38,37,147,31,27,26,27,111,https://www.livescore.com/en/basketball/nba/nba/minnesota-timberwolves-vs-utah-jazz/1620876/
+Regular season,NBA,2025,Dec,13,Golden State Warriors,Minnesota Timberwolves,27,36,28,29,120,28,33,27,39,127,https://www.livescore.com/en/basketball/nba/nba/golden-state-warriors-vs-minnesota-timberwolves/1700324/
+Regular season,NBA,2025,Dec,2,Detroit Pistons,Atlanta Hawks,25,25,24,25,99,27,22,19,30,98,https://www.livescore.com/en/basketball/nba/nba/detroit-pistons-vs-atlanta-hawks/1620164/
+Regular season,NBA,2025,Dec,2,Utah Jazz,Houston Rockets,31,37,30,35,133,32,25,32,36,125,https://www.livescore.com/en/basketball/nba/nba/utah-jazz-vs-houston-rockets/1620191/
+Play-offs,NBA,2026,May,12,LA Lakers,AGG,26,19,39,26,110,21,28,31,35,115,https://www.livescore.com/en/basketball/nba/nba/la-lakers-vs-oklahoma-city-thunder/1773363/
+Regular season,NBA,2025,Dec,1,Portland Trail Blazers,Oklahoma City Thunder,19,36,32,28,115,24,30,31,38,123,https://www.livescore.com/en/basketball/nba/nba/portland-trail-blazers-vs-oklahoma-city-thunder/1620269/
+Regular season,NBA,2026,Apr,11,Boston Celtics,New Orleans Pelicans,44,38,34,28,144,25,26,31,36,118,https://www.livescore.com/en/basketball/nba/nba/boston-celtics-vs-new-orleans-pelicans/1621025/
+Regular season,NBA,2026,Feb,4,Brooklyn Nets,LA Lakers,23,17,34,35,109,45,24,31,25,125,https://www.livescore.com/en/basketball/nba/nba/brooklyn-nets-vs-la-lakers/1620570/
+Regular season,NBA,2026,Mar,19,Chicago Bulls,Toronto Raptors,17,28,31,33,109,32,40,36,31,139,https://www.livescore.com/en/basketball/nba/nba/chicago-bulls-vs-toronto-raptors/1620887/
+Regular season,NBA,2025,Dec,28,Orlando Magic,Denver Nuggets,23,25,36,43,127,31,31,31,33,126,https://www.livescore.com/en/basketball/nba/nba/orlando-magic-vs-denver-nuggets/1620354/
+Regular season,NBA,2025,Dec,2,Denver Nuggets,Dallas Mavericks,41,27,36,17,121,27,42,33,29,131,https://www.livescore.com/en/basketball/nba/nba/denver-nuggets-vs-dallas-mavericks/1620197/
+Regular season,NBA,2026,Mar,9,Phoenix Suns,Charlotte Hornets,28,32,21,30,111,30,28,19,22,99,https://www.livescore.com/en/basketball/nba/nba/phoenix-suns-vs-charlotte-hornets/1620835/
+Regular season,NBA,2026,Jan,23,Washington Wizards,Denver Nuggets,23,23,29,22,97,27,21,33,26,107,https://www.livescore.com/en/basketball/nba/nba/washington-wizards-vs-denver-nuggets/1620511/
+Regular season,NBA,2026,Apr,7,Orlando Magic,Detroit Pistons,30,39,29,25,123,28,27,21,31,107,https://www.livescore.com/en/basketball/nba/nba/orlando-magic-vs-detroit-pistons/1620957/
+Regular season,NBA,2025,Nov,4,Boston Celtics,Utah Jazz,25,21,26,31,103,21,15,38,31,105,https://www.livescore.com/en/basketball/nba/nba/boston-celtics-vs-utah-jazz/1620040/
+Regular season,NBA,2025,Oct,28,Detroit Pistons,Cleveland Cavaliers,24,17,25,29,95,33,30,27,26,116,https://www.livescore.com/en/basketball/nba/nba/detroit-pistons-vs-cleveland-cavaliers/1614288/
+Regular season,NBA,2025,Nov,1,Milwaukee Bucks,Sacramento Kings,47,24,31,31,133,36,34,38,27,135,https://www.livescore.com/en/basketball/nba/nba/milwaukee-bucks-vs-sacramento-kings/1620106/
+Regular season,NBA,2026,Feb,24,Memphis Grizzlies,Sacramento Kings,25,36,28,25,114,33,30,29,31,123,https://www.livescore.com/en/basketball/nba/nba/memphis-grizzlies-vs-sacramento-kings/1620688/
+Regular season,NBA,2026,Jan,18,New York Knicks,Phoenix Suns,27,29,21,22,99,19,36,25,26,106,https://www.livescore.com/en/basketball/nba/nba/new-york-knicks-vs-phoenix-suns/1620496/
+Regular season,NBA,2025,Dec,22,Washington Wizards,San Antonio Spurs,28,21,37,27,113,26,43,29,26,124,https://www.livescore.com/en/basketball/nba/nba/washington-wizards-vs-san-antonio-spurs/1620305/
+Regular season,NBA,2026,Jan,28,Oklahoma City Thunder,New Orleans Pelicans,17,31,31,25,104,14,32,23,26,95,https://www.livescore.com/en/basketball/nba/nba/oklahoma-city-thunder-vs-new-orleans-pelicans/1620616/
+Regular season,NBA,2025,Nov,17,New Orleans Pelicans,Golden State Warriors,28,21,22,35,106,44,17,24,39,124,https://www.livescore.com/en/basketball/nba/nba/new-orleans-pelicans-vs-golden-state-warriors/1620142/
+Regular season,NBA,2026,Mar,28,Toronto Raptors,New Orleans Pelicans,29,30,31,29,119,25,19,31,31,106,https://www.livescore.com/en/basketball/nba/nba/toronto-raptors-vs-new-orleans-pelicans/1621029/
+Regular season,NBA,2025,Nov,19,San Antonio Spurs,Memphis Grizzlies,23,26,37,25,111,24,23,40,14,101,https://www.livescore.com/en/basketball/nba/nba/san-antonio-spurs-vs-memphis-grizzlies/1620137/
+Regular season,NBA,2025,Nov,11,LA Clippers,Atlanta Hawks,29,23,24,26,102,19,33,27,26,105,https://www.livescore.com/en/basketball/nba/nba/la-clippers-vs-atlanta-hawks/1620113/
+Regular season,NBA,2026,Mar,21,Washington Wizards,Oklahoma City Thunder,32,32,32,15,111,32,37,34,29,132,https://www.livescore.com/en/basketball/nba/nba/washington-wizards-vs-oklahoma-city-thunder/1620946/
+Regular season,NBA,2025,Dec,8,Utah Jazz,Oklahoma City Thunder,20,28,23,30,101,45,29,32,25,131,https://www.livescore.com/en/basketball/nba/nba/utah-jazz-vs-oklahoma-city-thunder/1620210/
+Regular season,NBA,2025,Nov,13,Miami Heat,Cleveland Cavaliers,38,31,28,19,116,29,37,27,37,130,https://www.livescore.com/en/basketball/nba/nba/miami-heat-vs-cleveland-cavaliers/1620126/
+Regular season,NBA,2025,Dec,1,Philadelphia 76ers,Atlanta Hawks,29,29,31,26,134,25,32,26,32,142,https://www.livescore.com/en/basketball/nba/nba/philadelphia-76ers-vs-atlanta-hawks/1620275/
+Regular season,NBA,2025,Oct,23,Chicago Bulls,Detroit Pistons,35,29,30,21,115,19,30,30,32,111,https://www.livescore.com/en/basketball/nba/nba/chicago-bulls-vs-detroit-pistons/1619998/
+Regular season,NBA,2025,Dec,24,Miami Heat,Toronto Raptors,16,28,23,24,91,21,30,31,30,112,https://www.livescore.com/en/basketball/nba/nba/miami-heat-vs-toronto-raptors/1620310/
+Regular season,NBA,2026,Mar,19,Memphis Grizzlies,Denver Nuggets,31,29,39,26,125,30,30,31,27,118,https://www.livescore.com/en/basketball/nba/nba/memphis-grizzlies-vs-denver-nuggets/1620613/
+Regular season,NBA,2025,Dec,2,Brooklyn Nets,Charlotte Hornets,26,33,29,28,116,27,32,23,21,103,https://www.livescore.com/en/basketball/nba/nba/brooklyn-nets-vs-charlotte-hornets/1620173/
+Regular season,NBA,2025,Dec,28,New Orleans Pelicans,Phoenix Suns,33,22,30,29,114,32,33,28,30,123,https://www.livescore.com/en/basketball/nba/nba/new-orleans-pelicans-vs-phoenix-suns/1620350/
+Regular season,NBA,2025,Dec,2,Orlando Magic,Chicago Bulls,29,24,32,40,125,26,27,32,35,120,https://www.livescore.com/en/basketball/nba/nba/orlando-magic-vs-chicago-bulls/1620169/
+Regular season,NBA,2026,Mar,3,Washington Wizards,Houston Rockets,30,21,29,38,118,26,34,34,29,123,https://www.livescore.com/en/basketball/nba/nba/washington-wizards-vs-houston-rockets/1620731/
+Regular season,NBA,2026,Mar,14,Portland Trail Blazers,Utah Jazz,28,38,29,29,124,38,20,31,25,114,https://www.livescore.com/en/basketball/nba/nba/portland-trail-blazers-vs-utah-jazz/1620978/
+Regular season,NBA,2026,Mar,9,San Antonio Spurs,Houston Rockets,32,37,41,35,145,33,24,37,26,120,https://www.livescore.com/en/basketball/nba/nba/san-antonio-spurs-vs-houston-rockets/1620808/
+Regular season,NBA,2026,Jan,18,Memphis Grizzlies,Orlando Magic,40,32,28,26,126,23,30,28,28,109,https://www.livescore.com/en/basketball/nba/nba/memphis-grizzlies-vs-orlando-magic/1620538/
+Regular season,NBA,2025,Nov,3,Charlotte Hornets,Utah Jazz,39,32,33,22,126,25,23,38,17,103,https://www.livescore.com/en/basketball/nba/nba/charlotte-hornets-vs-utah-jazz/1620121/
+Play-offs,NBA,2026,May,24,Cleveland Cavaliers,New York Knicks,27,27,28,26,108,37,23,31,30,121,https://www.livescore.com/en/basketball/nba/nba/cleveland-cavaliers-vs-new-york-knicks/1779072/
+Regular season,NBA,2026,Feb,2,Detroit Pistons,Brooklyn Nets,33,34,33,30,130,24,20,18,15,77,https://www.livescore.com/en/basketball/nba/nba/detroit-pistons-vs-brooklyn-nets/1620650/
+Regular season,NBA,2026,Mar,4,Philadelphia 76ers,San Antonio Spurs,25,28,11,27,91,32,46,35,18,131,https://www.livescore.com/en/basketball/nba/nba/philadelphia-76ers-vs-san-antonio-spurs/1620770/
+Regular season,NBA,2026,Mar,22,Charlotte Hornets,Memphis Grizzlies,30,29,38,27,124,26,21,28,26,101,https://www.livescore.com/en/basketball/nba/nba/charlotte-hornets-vs-memphis-grizzlies/1620948/
+Regular season,NBA,2025,Nov,29,LA Clippers,Memphis Grizzlies,35,28,18,26,107,24,26,28,34,112,https://www.livescore.com/en/basketball/nba/nba/la-clippers-vs-memphis-grizzlies/1618363/
+Regular season,NBA,2026,Jan,8,Oklahoma City Thunder,Utah Jazz,31,27,33,23,129,22,31,33,28,125,https://www.livescore.com/en/basketball/nba/nba/oklahoma-city-thunder-vs-utah-jazz/1620427/
+Regular season,NBA,2026,Mar,28,Milwaukee Bucks,San Antonio Spurs,24,21,34,16,95,37,30,35,25,127,https://www.livescore.com/en/basketball/nba/nba/milwaukee-bucks-vs-san-antonio-spurs/1621066/
+Regular season,NBA,2025,Nov,16,Charlotte Hornets,Oklahoma City Thunder,30,22,18,26,96,30,25,32,22,109,https://www.livescore.com/en/basketball/nba/nba/charlotte-hornets-vs-oklahoma-city-thunder/1620162/
+Regular season,NBA,2025,Dec,4,Houston Rockets,Sacramento Kings,28,23,36,34,121,26,26,19,24,95,https://www.livescore.com/en/basketball/nba/nba/houston-rockets-vs-sacramento-kings/1620220/

@@ -62,6 +62,8 @@ class Basketball:
         from files import FileHandler
 
         data = FileHandler(*file_handler_args)
+        existing_urls = {row[-1] for row in data.results}
+        existing_urls = {row[-1] for row in data.fixtures}
         webdriver = engine(*params)
 
         print(f"Thread: {thread_num}")
@@ -80,6 +82,8 @@ class Basketball:
                     for event in events:
                         try:
                             link = webdriver.get_url(event)
+                            if link in existing_urls:
+                                continue
                             if link:
                                 event_urls.add(link)
 
@@ -96,6 +100,8 @@ class Basketball:
                         try:
 
                             link = webdriver.get_url(event)
+                            if link in existing_urls:
+                                continue
                             if link:
                                 fixtures_urls.add(link)
 
@@ -104,10 +110,21 @@ class Basketball:
                     print(f"\rurls found: {len(fixtures_urls)}", end="", flush=True)
             print()
 
-        for event in event_urls:
-            webdriver.load_url(event)
-            print(webdriver.format_match_info(webdriver.get_match_info().text))
-            print(webdriver.format_match_scores(webdriver.get_match_scores().text))
+        # for event in event_urls:
+        #     webdriver.load_url(event)
+        #     a = webdriver.get_match_info()
+        #     b = webdriver.get_match_scores()
+        #     date = webdriver.get_match_date()
+
+        #     home_q = b['home']['quarters']
+        #     away_q = b['away']['quarters']
+
+        #     results = [a['country'],a['league'],date['year'],date['month'],date['day'],a['home_team'],a['away_team'],home_q['1'],home_q['2'],home_q['3'],home_q['4'],b['home']['total'],away_q['1'],away_q['2'],away_q['3'],away_q['4'],b['away']['total'],event]
+            
+        #     if event not in existing_urls:
+        #         data.write_to_csv("results.csv", results, False)
+        #         existing_urls.add(event)
+        
 
 if __name__ == "__main__":
     bot = Basketball()

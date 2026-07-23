@@ -65,12 +65,14 @@ class engine:
     def get_url(self, web_element: WebElement) -> str:
         """Extract a href link from a given WebElement"""
         return web_element.find_element(By.TAG_NAME, "a").get_attribute("href")
-    def get_match_info(self) -> WebElement:
-        return self.driver.find_element(By.CLASS_NAME, self.SELECTORS["dynamic_selectors"]["match_inf_class"])
-    def get_match_scores(self) -> WebElement:
-        return self.driver.find_element(By.CLASS_NAME, self.SELECTORS["dynamic_selectors"]["match_result_class"])
+    def get_match_info(self) -> dict:
+        return self.format_match_info(self.driver.find_element(By.CLASS_NAME, self.SELECTORS["dynamic_selectors"]["match_inf_class"]).text)
+    def get_match_scores(self) -> dict:
+        return self.format_match_scores(self.driver.find_element(By.CLASS_NAME, self.SELECTORS["dynamic_selectors"]["match_result_class"]).text)
+    def get_match_date(self) -> dict:
+        return self.format_date(self.driver.find_element(By.CLASS_NAME, self.SELECTORS["dynamic_selectors"]["match_date"]).text)
     
-    def format_match_info(self, text:str):
+    def format_match_info(self, text:str) -> dict:
         lines = [line.strip() for line in text.splitlines() if line.strip()]
 
         league = lines[0].split(":")[0].strip()
@@ -110,7 +112,13 @@ class engine:
             }
 
         return match_data
-
+    def format_date(self, text:str) -> dict:
+        data = text.split(" ")
+        return {
+            "day": data[0],
+            "month": data[1],
+            "year": data[-1]
+        }
 
     # ai generated methods
     def scroll(self, direction: int, knots: int = 5) -> bool:
